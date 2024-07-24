@@ -651,15 +651,15 @@ Ban Ki-moon, <u>Secretary General of the UN</u>, is a very powerful man.
 
 句中的 Secretary General of the UN 一般称为同位格，其实就是 who is Secretary General of the UN 这个形容词子句的减化。其中 who 代表 Ban Ki-moon，而 Secretary General 则是主词补语，和 Ban Ki-moon 是全等关系，而且符合专有名词「只有一个」的条件，所以可以选择视同专有名词处理，不加限定词。
 
-### 受词补语位置
+### 宾语补足语位置
 
-主词补语位置要注意该补语是否为专有名词，受词补语位置也是一样。例如：
+主词补语位置要注意该补语是否为专有名词，宾语补足语位置也是一样。例如：
 
 <u>Queen Elizabeth</u> <u>made</u> <u>Charles</u> <u>Prince of Wales</u>.
 S V O C
 （伊莉莎白女王封查尔斯为威尔斯亲王。）
 
-细看一下 Prince 这个字，严格讲起来它是普通名词，因为许多国家都有 Prince，甚至同一个国家里面可以有好几个 Princes。在英国，威尔斯亲王是指定的王位继承人，同一时间只能有一人。上面这个句子中的 Prince of Wales 前面并没有加限定词，是当作专有名词使用。这是因为它是 Charles 这个专有名词的受词补语，和 Charles 是全等关系。而且威尔斯亲王确实只有一人，符合专有名词的要求，所以它可以视同专有名词使用、不加限定词。
+细看一下 Prince 这个字，严格讲起来它是普通名词，因为许多国家都有 Prince，甚至同一个国家里面可以有好几个 Princes。在英国，威尔斯亲王是指定的王位继承人，同一时间只能有一人。上面这个句子中的 Prince of Wales 前面并没有加限定词，是当作专有名词使用。这是因为它是 Charles 这个专有名词的宾语补足语，和 Charles 是全等关系。而且威尔斯亲王确实只有一人，符合专有名词的要求，所以它可以视同专有名词使用、不加限定词。
 
 ## 普通名词抽象化
 

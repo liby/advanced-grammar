@@ -2,7 +2,7 @@
 title: 第七章 介词
 ---
 
-**介系词（prepositions）**&#8203;，从造字来看是 pre- 加上 position，意思是「放在前面的东西」。介系词的用法就是放在名词前面、与名词（称为它的受词）共同构成一个意义单元、称为介系词短语，当作修饰语使用。介系词短语这种修饰语可以当形容词或副词使用，是最有弹性、使用频率最高的一种修饰语。可以用来修饰名词、动词、形容词、副词等各大词类。以下是介系词短语修饰各种词类的例子：
+**介系词（prepositions）**&#8203;，从造字来看是 pre- 加上 position，意思是「放在前面的东西」。介系词的用法就是放在名词前面、与名词（称为它的宾语）共同构成一个意义单元、称为介系词短语，当作修饰语使用。介系词短语这种修饰语可以当形容词或副词使用，是最有弹性、使用频率最高的一种修饰语。可以用来修饰名词、动词、形容词、副词等各大词类。以下是介系词短语修饰各种词类的例子：
 
 <u>The company</u> is <u>in trouble</u>.
 名词 介词短语
@@ -30,7 +30,7 @@ The new janitor works <u>half-heartedly</u> <u>at best</u>.
 
 ## 介系词与介副词
 
-有一种词类，看起来和介系词一模一样，但是后面却没有受词，而是直接当做副词使用。这种词类称为**介副词（particles）**&#8203;，应该当作副词看待。例如：
+有一种词类，看起来和介系词一模一样，但是后面却没有宾语，而是直接当做副词使用。这种词类称为**介副词（particles）**&#8203;，应该当作副词看待。例如：
 
 Come <u>in</u>.
 （请进。）
@@ -38,19 +38,19 @@ Come <u>in</u>.
 The soldier stood <u>up</u>.
 （士兵站了起来。）
 
-第 1 句中的 in 看起来像介系词，后面却没有受词，而是直接当地方副词使用，修饰动词 come，称为介副词。第 2 句中的 up 也是介副词，直接修饰动词 stood。
+第 1 句中的 in 看起来像介系词，后面却没有宾语，而是直接当地方副词使用，修饰动词 come，称为介副词。第 2 句中的 up 也是介副词，直接修饰动词 stood。
 
 介副词还经常和介系词共同使用，例如：
 
 The plumber <u>went down to</u> the basement.
 （水管工人下到地下室去。）
 
-句中的 down 是个介副词，后面没有受词、直接修饰动词 went。它后面的 to 才是介系词，后接名词短语 the basement 当受词、构成一个介系词短语 to the basement，当地方副词使用，修饰动词 went。
+句中的 down 是个介副词，后面没有宾语、直接修饰动词 went。它后面的 to 才是介系词，后接名词短语 the basement 当宾语、构成一个介系词短语 to the basement，当地方副词使用，修饰动词 went。
 
 He <u>has gone over to</u> your house.
 （他已经跑到你家去了。）
 
-句中的 over 是介副词，直接修饰动词 has gone。后面的 to 才是介系词，后接名词短语 your house 当受词、构成一个介系词短语 to your house，当地方副词使用、修饰动词 has gone。
+句中的 over 是介副词，直接修饰动词 has gone。后面的 to 才是介系词，后接名词短语 your house 当宾语、构成一个介系词短语 to your house，当地方副词使用、修饰动词 has gone。
 
 ## 介系词与短语动词
 
@@ -72,7 +72,7 @@ S V 介词短语
 <u>The man</u> <u>turned on</u> <u>the light</u>.
 S V O
 
-这时候应该把 turned on 当一个动词来看（称为短语动词），后面的 the light 是动词 turned on 的受词。因为，如果第 2 句仍然采用第 1 句的句型来诠释，成为：
+这时候应该把 turned on 当一个动词来看（称为短语动词），后面的 the light 是动词 turned on 的宾语。因为，如果第 2 句仍然采用第 1 句的句型来诠释，成为：
 
 <u>The man</u> <u>turned</u> <u>on the light</u>. （误）
 S V 介词短语
@@ -85,14 +85,14 @@ S V 介词短语
 
 短语动词可分成及物动词与不及物动词，而及物动词中又可分成可以拆开的短语动词和不可拆开的短语动词。所以短语动词大致可以分成以下几种。
 
-### 一．及物动词、不可拆开（受词必须放在短语后面）
+### 一．及物动词、不可拆开（宾语必须放在短语后面）
 
 #### get over 康复，痊愈
 
 It's only a cold; you'<u>ll get over it</u> soon enough.
 (只不过是小感冒,很快就会好了。)
 
-像 get over 这种短语动词属于及物动词,应该要有受词。而 get over 这种短语不可拆开,意思是说它的受词只能放在后面(如 get over it),而不能放在 get 与 over 的中间。如果看到 get it over with 这种构造,那是另一个不同的短语,意思变成「趁早把事情了结」。接下来几个例子都和 get over 属于同一类(及物、不可拆开),请读者自行体会。
+像 get over 这种短语动词属于及物动词,应该要有宾语。而 get over 这种短语不可拆开,意思是说它的宾语只能放在后面(如 get over it),而不能放在 get 与 over 的中间。如果看到 get it over with 这种构造,那是另一个不同的短语,意思变成「趁早把事情了结」。接下来几个例子都和 get over 属于同一类(及物、不可拆开),请读者自行体会。
 
 #### look into 调查，了解
 
@@ -109,7 +109,7 @@ Henry <u>takes after his father</u>.
 Don’t worry; I’ll <u>stand by you</u>.
 （别担心，我会支援你。）
 
-如果看到 stand by 后面缺乏受词，那么表示这是另一个短语动词，属于不及物，意思是「等待，准备」。例如：
+如果看到 stand by 后面缺乏宾语，那么表示这是另一个短语动词，属于不及物，意思是「等待，准备」。例如：
 
 Your team is next; please <u>stand by</u>.
 （下一个轮到你们这队了，请准备。）
@@ -121,7 +121,7 @@ Your team is next; please <u>stand by</u>.
 How did this all <u>come about</u>?
 （這件事是怎麼發生的？）
 
-不及物的片語動词，後面當然不會有受词。
+不及物的片語動词，後面當然不會有宾语。
 
 #### fall off 下跌
 
@@ -138,7 +138,7 @@ The bomb <u>went off</u> in the middle of the night.
 The meeting was postponed because too few people <u>turned up</u>.
 （會議延期了，因為出席的人太少。）
 
-### 三．及物动词、可以拆开（受词可放在短语后面、也可开放在中间）
+### 三．及物动词、可以拆开（宾语可放在短语后面、也可开放在中间）
 
 #### bring up 抚养长大
 
@@ -147,7 +147,7 @@ That woman <u>brought eight children up</u>.
 That woman <u>brought them up</u>.
 （那个女人抚养八个小孩长大。）
 
-像 bring up 这种短语动词属于及物动词，它的受词 eight children 可以放在 bring up 的后面、也可以把 bring 与 up 拆开来放在中间。像这一类的短语动词，如果受词是代词（如 them）就不适合放在后面，而必须把短语动词拆开、受词放中间（如 brought them up）。原因在于：后面的位置是比较重要的位置，念起来重音也会落在这个位置。但是代词是比较不重要的东西，不宜念成重音。所以，只要短语动词是可以拆开的那种、而受词又是代词，就必须拆开来把代词放在中间、把后面要念成重音的位置留给短语动词中的介副词（如 brought them up）。
+像 bring up 这种短语动词属于及物动词，它的宾语 eight children 可以放在 bring up 的后面、也可以把 bring 与 up 拆开来放在中间。像这一类的短语动词，如果宾语是代词（如 them）就不适合放在后面，而必须把短语动词拆开、宾语放中间（如 brought them up）。原因在于：后面的位置是比较重要的位置，念起来重音也会落在这个位置。但是代词是比较不重要的东西，不宜念成重音。所以，只要短语动词是可以拆开的那种、而宾语又是代词，就必须拆开来把代词放在中间、把后面要念成重音的位置留给短语动词中的介副词（如 brought them up）。
 
 #### call off 取消
 
@@ -170,19 +170,19 @@ He <u>made a long story up</u>.
 He <u>made it up</u>.
 （他编造了一个很长的故事。）
 
-如果看到 make up 的后面缺乏受词，那表示它是另一个短语动词，属于不及物，意思是「合好」，例如：
+如果看到 make up 的后面缺乏宾语，那表示它是另一个短语动词，属于不及物，意思是「合好」，例如：
 
 He and his separated wife finally <u>made up</u>.
 （他和分居的老婆终于合好了。）
 
-### 四．三个字以上的短语动词，及物、不可拆开（受词应放在后面）
+### 四．三个字以上的短语动词，及物、不可拆开（宾语应放在后面）
 
 #### catch up with 赶上
 
 He'<u>s slowly catching up with his classmates</u> in exam grades.
 （他的考试成绩渐渐赶上同班同学了。）
 
-从前的语法书称短语动词为「双字动词」（two-word verbs），但是这个名称不很贴切，因为短语动词有时候不只两个字，例如 catch up with。短语动词如果是三个字，通常第一个是动词（如 catch）、第二个是介副词（如 up）、第三个是介系词（如 with）。因为第三个是介系词，后面必须有受词，所以凡是这种三个字以上的短语动词都是及物动词，而且都不可拆、受词一定要放在后面。以下几个例子都是同样的情况。
+从前的语法书称短语动词为「双字动词」（two-word verbs），但是这个名称不很贴切，因为短语动词有时候不只两个字，例如 catch up with。短语动词如果是三个字，通常第一个是动词（如 catch）、第二个是介副词（如 up）、第三个是介系词（如 with）。因为第三个是介系词，后面必须有宾语，所以凡是这种三个字以上的短语动词都是及物动词，而且都不可拆、宾语一定要放在后面。以下几个例子都是同样的情况。
 
 #### drop out of 退出，中辍
 

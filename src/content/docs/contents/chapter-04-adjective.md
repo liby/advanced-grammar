@@ -2,7 +2,7 @@
 title: 第四章 形容词
 ---
 
-形容词是用来修饰名词专用的词类。要和名词发生关系，形容词有两种主要的位​​置可以使用：1\. 名词短语中；2\. 补语位置（主词补语与受词补语）。放在名词短语中的形容词称为 attributive adjectives，具有界定这个名词**特质（attribute）**&#8203;的功能。放在补语位置的形容词则称为 predicative adjectives，只是用来对名词进行**叙述（predication）**&#8203;的。例如：
+形容词是用来修饰名词专用的词类。要和名词发生关系，形容词有两种主要的位​​置可以使用：1\. 名词短语中；2\. 补语位置（主词补语与宾语补足语）。放在名词短语中的形容词称为 attributive adjectives，具有界定这个名词**特质（attribute）**&#8203;的功能。放在补语位置的形容词则称为 predicative adjectives，只是用来对名词进行**叙述（predication）**&#8203;的。例如：
 
 Mr. Wang, my boss, is <u>a busy man</u>.
 
@@ -225,7 +225,7 @@ S V C
 S V O C
 （老板让我们一直很忙。）
 
-这个句子中的 busy 也是个形容词单字，放在受词补语位置、修饰受词 us。
+这个句子中的 busy 也是个形容词单字，放在宾语补足语位置、修饰宾语 us。
 
 <u>That building</u> <u>is</u> <u>18 stories tall</u>.
 S V C
@@ -237,7 +237,7 @@ S V C
 S V O C
 （我看到狗在过马路。）
 
-上句中的 crossing the street 是个现在分词短语，当作形容词短语使用，放在受词补语位置来修饰受词 the dog。
+上句中的 crossing the street 是个现在分词短语，当作形容词短语使用，放在宾语补足语位置来修饰宾语 the dog。
 
 ### 一些 a- 开头的形容词
 
@@ -267,7 +267,7 @@ S V C
 S V C
 (这名士兵整个晚上都保持警觉。)
 
-### 受词补语：
+### 宾语补足语：
 
 <u>The coffee</u> <u>kept</u> <u>him</u> <u>awake</u>.
 S V O C

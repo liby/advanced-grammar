@@ -21,7 +21,7 @@ I like Beijing food, <u>especially roast duck</u>.
 
 ### 方法状态的副词（adverbs of manner）
 
-表示方法状态的副词，是修饰动词专用的修饰语。原则上它应该放在接近动词的位置，也就是放在动词的前面或者后面。但是，因为副词是可有可无的修饰语、不是主要元素，所以句子中如果有受词、补语等等主要元素时，方法状态的副词或者放在动词前面、或者就要被挤到受词、补语等元素的后面去。以下分别就五种基本句型来看看方法状态副词的用法。
+表示方法状态的副词，是修饰动词专用的修饰语。原则上它应该放在接近动词的位置，也就是放在动词的前面或者后面。但是，因为副词是可有可无的修饰语、不是主要元素，所以句子中如果有宾语、补语等等主要元素时，方法状态的副词或者放在动词前面、或者就要被挤到宾语、补语等元素的后面去。以下分别就五种基本句型来看看方法状态副词的用法。
 
 #### 1). S + V
 
@@ -59,7 +59,7 @@ He <u>reluctantly</u> <u>stayed</u> single.
 S V O (adv.)
 (他公开骚扰那个女孩。)
 
-方法状态的副词 openly 修饰动词 harassed，但是因为有受词 the girl 这个主要元素，所以被挤到受词后面去。另一个选择是放在动词前面，如下：
+方法状态的副词 openly 修饰动词 harassed，但是因为有宾语 the girl 这个主要元素，所以被挤到宾语后面去。另一个选择是放在动词前面，如下：
 
 <u>He</u> <u>openly</u> <u>harassed</u> <u>the girl</u>.
 S (adv.) V O
@@ -90,13 +90,13 @@ He <u>openly harassed</u> the girl sitting at the counter.
 S V O O (adv.)
 (他父亲很大方地买了辆车给他。)
 
-方法状态的副词 generously 修饰动词 bought，但是被挤到 him 和 a car 这两个受词的后面去。另一个可能的位置是放在动词 bought 的前面，成为 generously bought。
+方法状态的副词 generously 修饰动词 bought，但是被挤到 him 和 a car 这两个宾语的后面去。另一个可能的位置是放在动词 bought 的前面，成为 generously bought。
 
 <u>The student</u> <u>politely</u> <u>asked</u> <u>the speaker</u> <u>a question</u>.
 S (adv.) V O O
 (学生很有礼貌地问了演说人一个问题。)
 
-方法状态的副词 politely 放在动词 asked 前面、修饰动词。另一个可能的位置是放在句尾、两个受词的后面：asked the speaker a question politely。
+方法状态的副词 politely 放在动词 asked 前面、修饰动词。另一个可能的位置是放在句尾、两个宾语的后面：asked the speaker a question politely。
 
 #### 5).S + V + O + C
 
@@ -106,7 +106,7 @@ S (adv.) V O O
 S V O C (adv.)
 (我很骄傲地视你为自己家人。)
 
-方法状态的副词 proudly 修饰动词 consider，但是被挤到受词与补语的后面。另一个可能的位置是放在动词前面，成为 proudly consider。
+方法状态的副词 proudly 修饰动词 consider，但是被挤到宾语与补语的后面。另一个可能的位置是放在动词前面，成为 proudly consider。
 
 ### 频率副词（adverbs of frequency）
 
@@ -279,7 +279,7 @@ He is short, however, he plays basketball well. (误)
 
 ### 介副词（particles）
 
-所谓介副词，就是一些看起来像介系词、后面却不加受词，直接拿来当副词使用的字。例如：
+所谓介副词，就是一些看起来像介系词、后面却不加宾语，直接拿来当副词使用的字。例如：
 
 Were you <u>in</u> last night?
 (昨晚你在家吗？)
@@ -330,7 +330,7 @@ He <u>had</u> an accident <u>there yesterday</u>.
 
 ### 可以当补语的副词
 
-补语（包括主词补语和受词补语）最常见的词类是名词和形容词。但是时间副词、地方副词与介副词也都可以当补语使用。例如：
+补语（包括主词补语和宾语补足语）最常见的词类是名词和形容词。但是时间副词、地方副词与介副词也都可以当补语使用。例如：
 
 The exam is <u>only one week away</u>. It's <u>next Friday</u>.
 （考试只剩一周就到了，在下周五。）
@@ -355,7 +355,7 @@ Let’s <u>discuss</u> this problem <u>practically</u>.
 <u>Practically</u>, you don't stand a chance in court.
 （实际一点来说，你上法庭根本没有机会赢。）
 
-第 1 句中的 practically 是个程度副词，修饰形容词 impossible，表示「几乎不可能」，应置于 impossible 前面。第 2 句中的 practically 是方法状态副词，修饰动词 discuss 的方式，应置于受词 this problem 后面。第 3 句中的 practically 是个分离副词，是 practically speaking 的省略，应置于句首。再看一组例子：
+第 1 句中的 practically 是个程度副词，修饰形容词 impossible，表示「几乎不可能」，应置于 impossible 前面。第 2 句中的 practically 是方法状态副词，修饰动词 discuss 的方式，应置于宾语 this problem 后面。第 3 句中的 practically 是个分离副词，是 practically speaking 的省略，应置于句首。再看一组例子：
 
 His ideas <u>are generally</u> very helpful.
 （ 他的点子通常都很管用。）
@@ -366,7 +366,7 @@ He <u>described</u> the plan <u>generally</u>, without much detail.
 <u>Generally</u>, I like his ideas.
 （ 一般说来，我很喜欢他的点子。）
 
-第 1 句中的 generally 是个频率副词，修饰动词 are，表示「通常」，应置于动词后面。第 2 句中的 generally 是方法状态副词，修饰动词 describe 的方式，应置于受词 the plan 后面。第 3 句中的 generally 是个分离副词，是 generally speaking 的省略，应置于句首。
+第 1 句中的 generally 是个频率副词，修饰动词 are，表示「通常」，应置于动词后面。第 2 句中的 generally 是方法状态副词，修饰动词 describe 的方式，应置于宾语 the plan 后面。第 3 句中的 generally 是个分离副词，是 generally speaking 的省略，应置于句首。
 
 ## 副词的位置与清楚性
 
@@ -417,13 +417,13 @@ When you shake someone's hand, <u>you</u> <u>should hold</u> <u>it</u> <u>firmly
 S V O
 （与人握手时应用力，以示诚意。）
 
-主要子句是 S + V + O 的句型，方法状态的副词 firmly 置于受词后面、修饰动词 hold。下面这句的情况不同：
+主要子句是 S + V + O 的句型，方法状态的副词 firmly 置于宾语后面、修饰动词 hold。下面这句的情况不同：
 
 <u>Hold</u> <u>the camera</u> <u>firm</u> while you take the picture.
 V O C
 （拍照时请将相机拿稳了。）
 
-这时并不是用方法状态的副词 firmly 来修饰动词 hold（表示「用力握」），而是用形容词 firm 当受词补语，修饰受词 camera（表示「相机稳」的结果）。
+这时并不是用方法状态的副词 firmly 来修饰动词 hold（表示「用力握」），而是用形容词 firm 当宾语补足语，修饰宾语 camera（表示「相机稳」的结果）。
 
 The enemy is advancing. <u>Stand</u> <u>firm</u>.
 V C
@@ -437,7 +437,7 @@ V C
 S V O C
 （这个人把挡风玻璃擦干净。）
 
-这是 S + V + O + C 的句型，形容词 clean 是受词补语，修饰受词 windshield。
+这是 S + V + O + C 的句型，形容词 clean 是宾语补足语，修饰宾语 windshield。
 
 <u>He</u> <u>types</u> <u>cleanly</u> and neatly.
 S V
@@ -462,4 +462,4 @@ S V O
 S V O C
 （她让学生都很清楚这一课的内容。）
 
-这是 S + V + O + C 的句型，形容词 clear 是受词补语，修饰受词 lesson。
+这是 S + V + O + C 的句型，形容词 clear 是宾语补足语，修饰宾语 lesson。

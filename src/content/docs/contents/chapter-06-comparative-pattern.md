@@ -109,7 +109,7 @@ His father left him more money [than <u>he</u> <u>can ever spend</u>].
 S V
 （他父亲留下来的钱，他一辈子也花不完。）
 
-中括号内的部分是个从属子句，当中主词是 he，动词是 can spend，后面本来应该有个受词 money。乍看之下好像是 than 一方面扮演连接词的角色、一方面又扮演代词的角色（代表 money、当受词）。如果这样看待，那么 than 的功能和关系代词 which 确实是差不多。但是这样解读是不对的。上面那句话可以拆开为以下两句来切入：
+中括号内的部分是个从属子句，当中主词是 he，动词是 can spend，后面本来应该有个宾语 money。乍看之下好像是 than 一方面扮演连接词的角色、一方面又扮演代词的角色（代表 money、当宾语）。如果这样看待，那么 than 的功能和关系代词 which 确实是差不多。但是这样解读是不对的。上面那句话可以拆开为以下两句来切入：
 
 <u>His father</u> <u>left</u> <u>him</u> <u>much money</u>.
 S V O O
@@ -117,18 +117,18 @@ S V O O
 <u>He</u> <u>can spend</u> not so <u>much money</u>.
 S V O
 
-这两个句子在名词 money 上有重复，但并不是要制造关系子句，而是采用比较句法、以 more … than 连接，来做一个「大于」的比较。做法是：将第 1 句中的限定词 much 变成比较级 more，然后外加一个比较级的连接词 than 来引导第 2 句、再将第 2 句中重复的比较点（受词 money）省略，就成为：
+这两个句子在名词 money 上有重复，但并不是要制造关系子句，而是采用比较句法、以 more … than 连接，来做一个「大于」的比较。做法是：将第 1 句中的限定词 much 变成比较级 more，然后外加一个比较级的连接词 than 来引导第 2 句、再将第 2 句中重复的比较点（宾语 money）省略，就成为：
 
 His father left him more money [than <u>he</u> <u>can ever spend</u>].
 S V
 
-也就是刚才看到的那个句子。中括号内的部分并不是形容词子句而是副词子句，这个副词子句修饰的对象不是名词短语 more money，而是其中的限定词 more。子句开头的 than 并不是关系词，而是外加的从属连接词。副词子句内的受词 money 被省略掉，并非因为它是关系词，而是因为它是重复的比较点、必须省略。这个重复的比较点哪怕是出在主词的位置，同样也必须省略。例如：
+也就是刚才看到的那个句子。中括号内的部分并不是形容词子句而是副词子句，这个副词子句修饰的对象不是名词短语 more money，而是其中的限定词 more。子句开头的 than 并不是关系词，而是外加的从属连接词。副词子句内的宾语 money 被省略掉，并非因为它是关系词，而是因为它是重复的比较点、必须省略。这个重复的比较点哪怕是出在主词的位置，同样也必须省略。例如：
 
 This university cannot possibly take in as many students [as <u>meet</u> <u>its requirements</u>].
 V O
 （这家大学不可能把所有符合条件的学生全部招收进来。）
 
-乍看之下，中括号之内好像是个关系子句，as 是关系词、代表先行词 students、并且扮演关系子句主词的角色，动词是 meet、受词是 its requirements。不过这样的诠释是错误的。这个句子可以拆开成为下面两句来理解：
+乍看之下，中括号之内好像是个关系子句，as 是关系词、代表先行词 students、并且扮演关系子句主词的角色，动词是 meet、宾语是 its requirements。不过这样的诠释是错误的。这个句子可以拆开成为下面两句来理解：
 
 <u>This university</u> <u>cannot possibly take in</u> <u>many students</u>.
 S V O
@@ -136,7 +136,7 @@ S V O
 <u>Many students</u> <u>meet</u> <u>its requirements</u>.
 S V O
 
-第 2 句的主词 many students 和第 1 句的受词有重复，构成一个比较点。采用比较句法以 as … as 来连接，做法是在第 1 句受词 many students 这个名词短语中的限定词 many 前面加上程度副词 as，在第 2 句前面外加从属连接词 as，然后把重复的比较点（第 2 句的主词 many students）省略，就成为：
+第 2 句的主词 many students 和第 1 句的宾语有重复，构成一个比较点。采用比较句法以 as … as 来连接，做法是在第 1 句宾语 many students 这个名词短语中的限定词 many 前面加上程度副词 as，在第 2 句前面外加从属连接词 as，然后把重复的比较点（第 2 句的主词 many students）省略，就成为：
 
 This university cannot possibly take in as many students [as <u>meet</u> <u>its requirements</u>].
 V O
@@ -223,7 +223,7 @@ Of all my students, John studies <u>(the) hardest</u>.
 
 <u>Prices of papayas in Thailand</u> are much lower than <u>those in England</u>.
 
-其实，连这个代词 those 也可以选择省略，只要留下介系词、让读者知道 England 是受词而并非比较对象即可：
+其实，连这个代词 those 也可以选择省略，只要留下介系词、让读者知道 England 是宾语而并非比较对象即可：
 
 <u>Prices of papayas in Thailand</u> are much lower than <u>in England</u>.
 
@@ -325,7 +325,7 @@ S V O
 
 These restaurateurs do more business <u>with tourists</u> than <u>with local farmers</u>.
 
-只要留下介系词 with，读者就知道 local farmers 是受词、也知道它的比较对像是主要子句中同样位置的受词 tourists。但是，如果把介系词 with 也省略掉，又会变成先前那个不佳的句子，因为读者无从判断 local farmers 是主词还是受词，也就无从判断它是和 these restaurateurs 相比还是和 tourists 相比，句意就会变成不清楚。
+只要留下介系词 with，读者就知道 local farmers 是宾语、也知道它的比较对像是主要子句中同样位置的宾语 tourists。但是，如果把介系词 with 也省略掉，又会变成先前那个不佳的句子，因为读者无从判断 local farmers 是主词还是宾语，也就无从判断它是和 these restaurateurs 相比还是和 tourists 相比，句意就会变成不清楚。
 
 经由以上的分析，我们可以下一个小结论：比较句法的平行对称要求类似对等子句，than 或 as 引导的从属子句中也可以像对等子句一样省略掉与主要子句重复的部分；但是省略要以「够清楚」为原则，要注意不得造成「模棱两可」的结果。
 
@@ -335,7 +335,7 @@ These restaurateurs do more business <u>with tourists</u> than <u>with local far
 
 <u>Manual laborers</u> are more strongly opposed to <u>immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country. （不佳）
 
-这个句子不清楚，主要是因为从属子句中的 white-collar workers 看不出来是主词还是受词，所以它有可能和主要子句的主词 manual laborers 相比、也有可能和受词 immigrants 相比，是个模棱两可、并不清楚的比较。如果 white-collar workers 比较的对像是受词 immigrants，那么这个比较句法可以从下面这两句切入：
+这个句子不清楚，主要是因为从属子句中的 white-collar workers 看不出来是主词还是宾语，所以它有可能和主要子句的主词 manual laborers 相比、也有可能和宾语 immigrants 相比，是个模棱两可、并不清楚的比较。如果 white-collar workers 比较的对像是宾语 immigrants，那么这个比较句法可以从下面这两句切入：
 
 <u>Manual laborers</u> <u>are</u> strongly <u>opposed</u> to <u>immigrants</u>.
 S V C
@@ -355,11 +355,11 @@ S V C
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>to white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 
-只要把介系词短语 to white-collar workers 中的介系词 to 留下来，读者就知道 white-collar workers 是受词、它的比较对像是主要子句中的受词 immigrants。但是，如果把 to white-collar workers 当中的介系词 to 也省略掉，成为下面那句的情况，就不够清楚了：
+只要把介系词短语 to white-collar workers 中的介系词 to 留下来，读者就知道 white-collar workers 是宾语、它的比较对像是主要子句中的宾语 immigrants。但是，如果把 to white-collar workers 当中的介系词 to 也省略掉，成为下面那句的情况，就不够清楚了：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 
-在 white-collar workers 前面少了介系词 to，读者便无从判断它是主词还是受词，因而也不清楚它的比较对像是主要子句的主词 manual laborers 还是受词 immigrants。
+在 white-collar workers 前面少了介系词 to，读者便无从判断它是主词还是宾语，因而也不清楚它的比较对像是主要子句的主词 manual laborers 还是宾语 immigrants。
 
 另一种情况，如果 white-collar workers 的比较对像是 manual laborers，那么这个句子可以从以下这两句来切入：
 
@@ -384,7 +384,7 @@ S V C
 
 <u>Manual laborers</u> are more strongly opposed to <u>immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country. （不佳）
 
-这又回复到刚才那个句意不清的句子。读者无从判断 white-collar workers 是主词还是受词、也就无从判断它的比较对像是主要子句的主词 manual laborers 还是受词 immigrants。 为了排除这种模棱两可的情况，必须把 are 留下来才够清楚，如下：
+这又回复到刚才那个句意不清的句子。读者无从判断 white-collar workers 是主词还是宾语、也就无从判断它的比较对像是主要子句的主词 manual laborers 还是宾语 immigrants。 为了排除这种模棱两可的情况，必须把 are 留下来才够清楚，如下：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>are</u>.
 
