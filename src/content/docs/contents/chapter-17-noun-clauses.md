@@ -11,7 +11,7 @@ Chicago is a <u>grain-shipping</u> center.
 Chicago is a center <u>that ships grain</u>. 形容词从句
 （ 芝加哥是谷物转运中心。）]
 
-第 1 句是个简单句，名词短语 a grain-shipping center 中有个复合字的形容词 grain-shipping 修饰后面的名词 center。第 2 句则是复杂句，其中的主要从句是 Chicago is a center。后面经由关系词 that 的引导，放进一个形容词从句 that ships grain 用来修饰前面的名词短语 a center。这个形容词从句扮演的角色和第1句中的形容词复合字 grain-shipping 相同。
+第 1 句是个简单句，名词短语 a grain-shipping center 中有个复合词的形容词 grain-shipping 修饰后面的名词 center。第 2 句则是复杂句，其中的主要从句是 Chicago is a center。后面经由关系词 that 的引导，放进一个形容词从句 that ships grain 用来修饰前面的名词短语 a center。这个形容词从句扮演的角色和第1句中的形容词复合词 grain-shipping 相同。
 
 He worked overtime <u>for the money</u>.
 （他加班，为了赚钱。）

@@ -79,7 +79,7 @@ S V 介词短语
 
 那么，介系词短语 on the light 是个地方副词（在灯上），用来修饰动词 turned，整个句子的意思就会变成：「这名男子在灯上旋转」。这样解释显然讲不通。而是应该把 turned on 合在一起当成动词看待，意思是「打开」。
 
-类似 turn on 这种情况，在动词后面加上介副词、由两个以上单字构成一个意义单元、应该当做一个动词来诠释，这种构造称为**短语动词（phrasal verbs）**&#8203;。
+类似 turn on 这种情况，在动词后面加上介副词、由两个以上单词构成一个意义单元、应该当做一个动词来诠释，这种构造称为**短语动词（phrasal verbs）**&#8203;。
 
 ## 短语动词的种类
 
@@ -230,7 +230,7 @@ The instructor <u>points to</u> the poster on the wall and says, “Never <u>poi
 ### 二、线：on, along
 
 The student memorized 10 new words <u>on his way</u> to school.
-(这个学生在上学途中记了十个新单字。)
+(这个学生在上学途中记了十个新单词。)
 
 从家里到学校是一条「线」状的路程。属于「线」的空间观念通常以 on 或 along 来表现。
 

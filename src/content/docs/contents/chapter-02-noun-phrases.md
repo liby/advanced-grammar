@@ -183,7 +183,7 @@ I'd like to invite <u>the Armstrongs</u> over for dinner.
 - <u>The flower shop</u> is not far from here.
 （花店离这儿不远。）
 
-复合名词有三种写法。第一是像 the dishwasher 这样：两个名词写在一起成为一个单字。前面的 dish 是名词当形容词使用、意思是「洗碗盘的」，所以要遵照形容词的用法、不能用复数（英文的形容词没有复数）。第二种是像 the pole-vaulter，两个名词之间有个连字符号（hyphen）连接。同样的，前面那个名词 pole 现在当形容词使用、不能用复数。第三种是像 the flower shop，两个名词分开。前面的名词 flower 一样是当形容词使用（意思是「卖花的」）、没有复数形。接下来看看几个例子：
+复合名词有三种写法。第一是像 the dishwasher 这样：两个名词写在一起成为一个单词。前面的 dish 是名词当形容词使用、意思是「洗碗盘的」，所以要遵照形容词的用法、不能用复数（英文的形容词没有复数）。第二种是像 the pole-vaulter，两个名词之间有个连字符号（hyphen）连接。同样的，前面那个名词 pole 现在当形容词使用、不能用复数。第三种是像 the flower shop，两个名词分开。前面的名词 flower 一样是当形容词使用（意思是「卖花的」）、没有复数形。接下来看看几个例子：
 
 He’s got some coins in <u>his trouser pocket</u>.
 （他长裤口袋里有几个铜板。）
@@ -195,7 +195,7 @@ Have you got <u>a clothes hanger</u> for my jacket?
 
 名词短语 a clothes hanger（衣架）中间的形容词位置本来是不容许有复数的，但是如果把 clothes 改为单数，成为 a cloth hanger，意思会变成（布架）。碰到这种情况，名词短语中间的形容词位置就必须采复数形了，否则意思会弄错。
 
-另外有一些复合字，习惯采用复数形的形容词，例如：
+另外有一些复合词，习惯采用复数形的形容词，例如：
 
 - He drives <u>a sports car</u> to school.
 （他开跑车上学。）
@@ -217,7 +217,7 @@ There are <u>three gift shops</u> in my neighborhood.
 I have <u>two brothers-in-law</u>.
 （我有两个姐夫。）
 
-名词短语 `two brothers-in-law` 当中有个比较不一样的复合名词：`brother-in-law` 里面是个介系词短语 `in law` 修饰名词 brother、再用 hyphen 串连成复合字，可以看出主要的名词是 brother。这时候复数应该加在 brother 这个名词上，成为 three brothers-in-law。
+名词短语 `two brothers-in-law` 当中有个比较不一样的复合名词：`brother-in-law` 里面是个介系词短语 `in law` 修饰名词 brother、再用 hyphen 串连成复合词，可以看出主要的名词是 brother。这时候复数应该加在 brother 这个名词上，成为 three brothers-in-law。
 
 The soldiers do <u>100 push-ups</u> every day.
 （这些兵每天要做一百个伏地挺身。）
@@ -399,7 +399,7 @@ The construction will take <u>another 30 days</u>.
 
 ## 形容词位置探讨
 
-名词短语的构造是「限定词+ 形容词+ 名词」。在限定词位置可以塞一个名词短语进去（采所有格）、在名词位置也可以放一个完整的名词短语进去。那么，中间的形容词位置呢？这个位置能不能放名词短语？答案是：不能。这个位置太小，只容纳得下单字、放不下短语。看看下面这个例子：
+名词短语的构造是「限定词+ 形容词+ 名词」。在限定词位置可以塞一个名词短语进去（采所有格）、在名词位置也可以放一个完整的名词短语进去。那么，中间的形容词位置呢？这个位置能不能放名词短语？答案是：不能。这个位置太小，只容纳得下单词、放不下短语。看看下面这个例子：
 
 | 限定词 | 形容词 | 名词 |
 | --- | --- | --- |
@@ -407,12 +407,12 @@ The construction will take <u>another 30 days</u>.
 
 这个名词短语，在形容词位置放的是 flower 这个字。字典上会告诉你：flower 是名词。但是，flower 放在这里是借名词来当做形容词使用：一家「卖花的」店。我们在前面提过：应该养成良好的写作习惯，在英文句子中出现的名词一律当作名词短语看待。但是，像 a flower shop 中间的这个 flower 不能算是名词。从功能来看，它只是个形容词：flower 没有自己的限定词、也没有复数，这种情况它算不上是名词，只是个名词拿来当做形容词使用。像 a flower shop 这种构造，拿名词 flower 来当作形容词使用，一般称为「复合名词」。
 
-形容词位置如果要放名词短语进去，这个名词短语必须先改造成为形容词的单字才行。短语改造成单字，做法是动用连字符号（hypnen）串连起来。而且，既然是改造为形容词的单字，英文的形容词是没有复数形的，所以原本名词短语中的复数都要改为单数。例如：
+形容词位置如果要放名词短语进去，这个名词短语必须先改造成为形容词的单词才行。短语改造成单词，做法是动用连字符号（hypnen）串连起来。而且，既然是改造为形容词的单词，英文的形容词是没有复数形的，所以原本名词短语中的复数都要改为单数。例如：
 
 My uncle lives in <u>a three-story mansion</u>.
 (我叔叔住在一栋三层华厦中。)
 
-名词短语 a three-story mansion 中，形容词位置放的是这个复合形容词 three-story「三层高的」，来自名词短语 three stories「三层楼」。这个名词短语要改造为形容词单字，除了动用 hyphen 串连成一个字之外，还要把复数字尾拿掉、改为单数，因为 three-story 是个形容词单字、没有复数形。
+名词短语 a three-story mansion 中，形容词位置放的是这个复合形容词 three-story「三层高的」，来自名词短语 three stories「三层楼」。这个名词短语要改造为形容词单词，除了动用 hyphen 串连成一个字之外，还要把复数字尾拿掉、改为单数，因为 three-story 是个形容词单词、没有复数形。
 
 ## 名词与限定词一致性
 
