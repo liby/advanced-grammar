@@ -424,7 +424,7 @@ Other nations in the EU have adopted the Euro.
 
 France has adopted the Euro, as well as other nations in the EU <u>have adopted the Euro</u>.
 
-前面是主要从句，as well as 后面引导的是副词从句（第二个 as 是从属连词）。接下来可以进行减化，省略掉副词从句中重复的元素（have adopted the Euro），如下：
+前面是主要从句，as well as 后面引导的是副词从句（第二个 as 是从属连词）。接下来可以进行简化，省略掉副词从句中重复的元素（have adopted the Euro），如下：
 
 France has adopted the Euro, <u>as well as other nations in the EU (have)</u>.
 

@@ -70,7 +70,7 @@ S (adv.) V O
 S V O
 (他骚扰那个坐在柜台的女孩。)
 
-宾语 the girl 后面还有一个分词短语 sitting at the counter，是形容词子句 who was sitting at the counter 的减化。这时候，如果方法状态的副词 openly 还是放在句尾，那么它修饰的对象可能是 harassed、也可能是 sitting，这句话就没有表达清楚：
+宾语 the girl 后面还有一个分词短语 sitting at the counter，是形容词子句 who was sitting at the counter 的简化。这时候，如果方法状态的副词 openly 还是放在句尾，那么它修饰的对象可能是 harassed、也可能是 sitting，这句话就没有表达清楚：
 
 He <u>harassed</u> the girl <u>sitting</u> at the counter <u>openly</u>. （不佳）
 
@@ -268,14 +268,14 @@ He is short, however, he plays basketball well. (误)
 <u>Theoretically speaking</u>, your proposal might work.
 (从理论上说，你提的案子可能行得通。)
 
-画底线部分（theoretically speaking）是个经过减化的副词子句，可以进一步还原如下：
+画底线部分（theoretically speaking）是个经过简化的副词子句，可以进一步还原如下：
 
 <u>If we are speaking theoretically</u>, your proposal might work.
 (如果我们从理论上来说，你提的案子可能行得通。)
 
-画底线部分（if we are speaking theoretically）是个表示条件的副词子句，句中的 theoretically 是个方法、状态的副​​词，修饰动词 speak 的「方式」。但是，整个副词子句减化到只剩下一个副词 theoretically，这种情况就称为分离副词（因为它并不是主要子句里面的一个副词），也就是传统语法所谓「修饰整句话」的副词。
+画底线部分（if we are speaking theoretically）是个表示条件的副词子句，句中的 theoretically 是个方法、状态的副​​词，修饰动词 speak 的「方式」。但是，整个副词子句简化到只剩下一个副词 theoretically，这种情况就称为分离副词（因为它并不是主要子句里面的一个副词），也就是传统语法所谓「修饰整句话」的副词。
 
-上面那个句子，副词子句的主词是 we、主要子句的主词是 your proposal，两个子句的主词并不相同。这种情况通常并不适合进行减化。但是，因为 theoretically speaking 这样的讲法已经变成惯用的短语，所以仍然可以接受。减化子句属于高级句型，本书将在后面的章节详述。
+上面那个句子，副词子句的主词是 we、主要子句的主词是 your proposal，两个子句的主词并不相同。这种情况通常并不适合进行简化。但是，因为 theoretically speaking 这样的讲法已经变成惯用的短语，所以仍然可以接受。简化子句属于高级句型，本书将在后面的章节详述。
 
 ### 介副词（particles）
 

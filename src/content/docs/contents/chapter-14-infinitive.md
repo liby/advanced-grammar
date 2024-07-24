@@ -14,11 +14,11 @@ will/would → be going to/be willing to
 can/could → be able to
 may/might → be likely to/be allowed to
 
-基于以上观察，笔者主张：不定式就是语气助动词减化的结果。亦即，将语气助动词改写为 to，就可以把限定动词短语（语气助动词 + 原形动词）改为非限定（to + V），也就是把动词短语转变为其他词类使用。
+基于以上观察，笔者主张：不定式就是语气助动词简化的结果。亦即，将语气助动词改写为 to，就可以把限定动词短语（语气助动词 + 原形动词）改为非限定（to + V），也就是把动词短语转变为其他词类使用。
 
-像现在分词、过去分词、动名词一样，不定式短语也是传统语法所谓「动状词」的一种，或称非限定动词。如果不定式短语的构造简单（例如只有 to + V），可以直接视为动词短语（语气助动词+ 原形动词）的词类变化看待：把语气助动词变成表示不定式的 to，那么原本的动词短语就转变成不定式短语，可以当作名词、形容词、或者副词使用。如果不定式短语的构造复杂（例如其中包含宾语、补语、修饰语等等），那么视为减化从句看待会比较清楚。
+像现在分词、过去分词、动名词一样，不定式短语也是传统语法所谓「动状词」的一种，或称非限定动词。如果不定式短语的构造简单（例如只有 to + V），可以直接视为动词短语（语气助动词+ 原形动词）的词类变化看待：把语气助动词变成表示不定式的 to，那么原本的动词短语就转变成不定式短语，可以当作名词、形容词、或者副词使用。如果不定式短语的构造复杂（例如其中包含宾语、补语、修饰语等等），那么视为简化从句看待会比较清楚。
 
-## 简单的不定式短语与较复杂的减化从句
+## 简单的不定式短语与较复杂的简化从句
 
 请比较下面两个例句：
 
@@ -37,9 +37,9 @@ S V O C
 <u>His girl friend</u> <u>asked</u> <u>that he should buy her a diamond ring as soon as possible</u>.
 S V O
 
-从属连词 that 引导的是个名词从句，当作主要从句动词 asked 的宾语使用。将这个名词从句的主语 he 拿出来当宾语、限定动词 should buy 减化为不定式短语 to buy，后面整个部分一并转变为不定式短语当作主语补足语，结果就是前面例 2 那个句子。
+从属连词 that 引导的是个名词从句，当作主要从句动词 asked 的宾语使用。将这个名词从句的主语 he 拿出来当宾语、限定动词 should buy 简化为不定式短语 to buy，后面整个部分一并转变为不定式短语当作主语补足语，结果就是前面例 2 那个句子。
 
-减化从句的变化比较复杂，本书留待后面的章节处理。目前先将不定式短语视为短语看待，也就是把动词短语中的语气助动词变成表示不定式的 to，产生出来的不定式短语就可以当作名词短语、形容词短语、副词短语使用。
+简化从句的变化比较复杂，本书留待后面的章节处理。目前先将不定式短语视为短语看待，也就是把动词短语中的语气助动词变成表示不定式的 to，产生出来的不定式短语就可以当作名词短语、形容词短语、副词短语使用。
 
 ## 名词短语
 
@@ -51,7 +51,7 @@ S V C
 It is very important <u>to be accurate</u>.
 (要准确是很重要的事。)
 
-不定式短语 to be accurate 当名词使用、作为主语，可以视为 should be accurate 或者 must be accurate 的减化看待：把限定动词 should be 或 must be 改写成 to be，整个短语的词类就转变为不定式短语，可以当主语使用。不定式短语当主语时，如果嫌主语太长，可以选择先用虚字 it 暂代主语位置、把不定式短语向后挪，这样句子会比较清楚。
+不定式短语 to be accurate 当名词使用、作为主语，可以视为 should be accurate 或者 must be accurate 的简化看待：把限定动词 should be 或 must be 改写成 to be，整个短语的词类就转变为不定式短语，可以当主语使用。不定式短语当主语时，如果嫌主语太长，可以选择先用虚字 it 暂代主语位置、把不定式短语向后挪，这样句子会比较清楚。
 
 <u>The manager</u> <u>decided</u> <u>to carry out the plan</u>.
 S V O
@@ -63,7 +63,7 @@ S V O
 S V C
 （最佳策略就是按兵不动。）
 
-不定式短语 to stay put 当名词使用、作为主语补足语，可以视为 should stay put 的减化看待：把助动词 should 改为表示不定式的 to，原来的动词短语 should stay put 词类就转变为不定式、变成当名词使用。
+不定式短语 to stay put 当名词使用、作为主语补足语，可以视为 should stay put 的简化看待：把助动词 should 改为表示不定式的 to，原来的动词短语 should stay put 词类就转变为不定式、变成当名词使用。
 
 ## 形容词短语
 
@@ -73,19 +73,19 @@ Tonight <u>I</u> <u>have</u> <u>some important work</u> <u>to do</u>.
 S V O 形容词
 (今天晚上我有一些重要工作必须做。)
 
-不定式短语 to do 视为动词短语 must do 的减化看待：把语气助动词 must 改写为 to，整个就转变为不定式短语，可以当形容词使用，修饰前面的名词短语 some important work。
+不定式短语 to do 视为动词短语 must do 的简化看待：把语气助动词 must 改写为 to，整个就转变为不定式短语，可以当形容词使用，修饰前面的名词短语 some important work。
 
 <u>You</u> <u>are</u> <u>to report to the General</u> immediately.
 S V C
 (你要立刻向将军报到。)
 
-不定式短语 to report to the General 视为 must report to the General 的减化：把语气助动词 must 改写为 to，整个就转变为不定式短语、当形容词使用，作为主语 you 的补语。
+不定式短语 to report to the General 视为 must report to the General 的简化：把语气助动词 must 改写为 to，整个就转变为不定式短语、当形容词使用，作为主语 you 的补语。
 
 <u>Jane</u> <u>wanted</u> <u>her boyfriend</u> <u>to leave her alone</u>.
 S V O C
 (Jane 叫她男朋友不要来烦她。)
 
-不定式短语 to leave her alone 视为 should leave her alone 的减化：把语气助动词 should 改写为 to，整个短语转变为不定式短语、当形容词使用，放在宾语 her boyfriend 后面当宾语补足语。
+不定式短语 to leave her alone 视为 should leave her alone 的简化：把语气助动词 should 改写为 to，整个短语转变为不定式短语、当形容词使用，放在宾语 her boyfriend 后面当宾语补足语。
 
 ## 副词短语
 
@@ -95,23 +95,23 @@ S V O C
 S V O 副词
 (经纪人打电话给这位电影明星，告诉她这部新片的消息。)
 
-不定式短语 to tell her about the new movie 视为 could tell her about the new movie 的减化：把语气助动词 could 改写为 to，整个短语就转变为不定式短语，可以当副词使用，修饰动词 called 的目的。
+不定式短语 to tell her about the new movie 视为 could tell her about the new movie 的简化：把语气助动词 could 改写为 to，整个短语就转变为不定式短语，可以当副词使用，修饰动词 called 的目的。
 
 <u>Your question</u> <u>is</u> <u>easy</u> <u>to answer</u>.
 S V C 副词
 (你的问题很容易回答。)
 
-不定式短语 to answer 视为动词短语 can answer 的减化：语气助动词 can 改写为 to，动词短语就转变为不定式短语、当副词使用，修饰形容词 easy。
+不定式短语 to answer 视为动词短语 can answer 的简化：语气助动词 can 改写为 to，动词短语就转变为不定式短语、当副词使用，修饰形容词 easy。
 
 <u>The boy</u> <u>is</u> <u>old</u> enough <u>to look after himself</u> now.
 S V C 副词
 (这个小孩够大、可以自己照顾自己了。)
 
-不定式短语 to look after himself 来自 can look after himself 的减化：把助动词 can 改写为 to，整个短语就变成不定式短语、当副词使用，修饰前面的程度副词 enough（enough 这个副词修饰的对像是形容词 old）。
+不定式短语 to look after himself 来自 can look after himself 的简化：把助动词 can 改写为 to，整个短语就变成不定式短语、当副词使用，修饰前面的程度副词 enough（enough 这个副词修饰的对像是形容词 old）。
 
 ## 不定式的判断
 
-**不定式（infinitive）**&#8203;这个名称很有意义。首先，不定式短语的词类「不定」，也就是当名词、形容词、副词使用都可以。其次，它的语气「不定」，也就是它属于表达「不确定」意味的「条件语气」。这种不确定语气和语气助动词的不确定语气完全相同，因为不定式短语其实就是包含语气助动词的动词短语的减化结果。
+**不定式（infinitive）**&#8203;这个名称很有意义。首先，不定式短语的词类「不定」，也就是当名词、形容词、副词使用都可以。其次，它的语气「不定」，也就是它属于表达「不确定」意味的「条件语气」。这种不确定语气和语气助动词的不确定语气完全相同，因为不定式短语其实就是包含语气助动词的动词短语的简化结果。
 
 研判句子中是否该使用不定式，也要从这个角度来判断：凡是该使用不定式的地方，都属于「不确定」的「条件语气」，而且都可以还原成某一个语气助动词来作合理的诠释。
 
@@ -120,25 +120,25 @@ S V C 副词
 Charles Lindberg was <u>the first man to</u> <u>fly solo across the Atlantic</u>.
 (林白是头一个单人驾机成功飞越大西洋的人。)
 
-在名词短语 the first man 后面要用不定式短语 to fly 当形容词来修饰它，是因为这个 to fly 是动词短语 could fly 的减化：表示他是头一个「能够」成功办到的人，在他以前的人都不能。再看一个例子：
+在名词短语 the first man 后面要用不定式短语 to fly 当形容词来修饰它，是因为这个 to fly 是动词短语 could fly 的简化：表示他是头一个「能够」成功办到的人，在他以前的人都不能。再看一个例子：
 
 Admitting your mistake openly is <u>the only way</u> <u>to solve the problem</u>.
 (公开认错，是唯一能够解决问题的办法。)
 
-在名词短语 the only way 后面要用不定式短语 to solve… 当形容词来修饰它，是因为这个不定式短语是动词短语 can solve… 的减化：表示只有这个办法「能够」解决问题，别的办法都不能。
+在名词短语 the only way 后面要用不定式短语 to solve… 当形容词来修饰它，是因为这个不定式短语是动词短语 can solve… 的简化：表示只有这个办法「能够」解决问题，别的办法都不能。
 
 另外，一般语法书也整理出来说在 easy, simple, likely, possible 等形容词后面要接不定式，例如：
 
 Mistakes are <u>likely</u> <u>to happen</u> in the final stages.
 (错误很可能会发生在最后阶段。)
 
-在形容词 likely 后面要用不定式短语 to happen 当副词来修饰它，因为这个不定式短语是动词短语 will happen 的减化：表示错误在这个时候可能「会」发生。
+在形容词 likely 后面要用不定式短语 to happen 当副词来修饰它，因为这个不定式短语是动词短语 will happen 的简化：表示错误在这个时候可能「会」发生。
 
 <u>It</u> <u>is</u> <u>possible</u> <u>to correct all the mistakes before the final deadline</u>.
 S V C 不定式短语（名词）
 (是有可能在最后期限之前把所有的错误都矫正过来。)
 
-主要从句的主语 it 是个虚字，代表的就是后面的不定式短语 to correct…。形容词 possible 是主语补足语，修饰假主语 it，其实也就是修饰真正的主语 to correct…。在 possible 后面要配合使用不定式短语 to correct…，是因为 possible 表示「有可能」，后面应该配合「可以矫正」，而动词短语 can correct… 减化为不定式短语就是 to correct…。
+主要从句的主语 it 是个虚字，代表的就是后面的不定式短语 to correct…。形容词 possible 是主语补足语，修饰假主语 it，其实也就是修饰真正的主语 to correct…。在 possible 后面要配合使用不定式短语 to correct…，是因为 possible 表示「有可能」，后面应该配合「可以矫正」，而动词短语 can correct… 简化为不定式短语就是 to correct…。
 
 ## 不定式短语与动名词的比较
 
@@ -154,13 +154,13 @@ S V C 不定式短语（名词）
 S V O
 (男人开始打桥牌。)
 
-在及物动词 begin 后面的宾语位置，如果放的是动名词 playing bridge，意思是把「打桥牌」当成「一件事情」看待。如同 begin the party「开始宴会」或 begin the game「开始比赛」一样。如果采用不定式短语 to play bridge，那是动词短语 will play bridge 的减化：开始「要去」做某事，相当于 be going to 的语气。
+在及物动词 begin 后面的宾语位置，如果放的是动名词 playing bridge，意思是把「打桥牌」当成「一件事情」看待。如同 begin the party「开始宴会」或 begin the game「开始比赛」一样。如果采用不定式短语 to play bridge，那是动词短语 will play bridge 的简化：开始「要去」做某事，相当于 be going to 的语气。
 
 <u>I</u> <u>like</u> <u>traveling(or to travel) to different places</u>.
 S V O
 (我喜欢到不同的地方去旅行。)
 
-在及物动词 like 后面的宾语位置，如果选择用动名词 traveling，那是把「旅行」当成「一件事情」看待，有如 I like music「喜欢音乐」或 I like ice cream「喜欢霜淇淋」。如果选择用不定式短语 to travel，那是动词短语 will tr​​avel 或 can travel 的减化，表示希望「去」旅行或希望「能够」旅行，带有 be going to 或 be able to 的语气。
+在及物动词 like 后面的宾语位置，如果选择用动名词 traveling，那是把「旅行」当成「一件事情」看待，有如 I like music「喜欢音乐」或 I like ice cream「喜欢霜淇淋」。如果选择用不定式短语 to travel，那是动词短语 will tr​​avel 或 can travel 的简化，表示希望「去」旅行或希望「能够」旅行，带有 be going to 或 be able to 的语气。
 
 ### 只能用不定式
 
@@ -190,7 +190,7 @@ S V O
 
 ### 不定式与动名词皆可，但意思不同
 
-像 remember、forget 这些及物动词后面，接不定式短语与接动名词当宾语皆可，但意思不同。这个情况比较复杂，要用减化从句的观念才比较容易理解。
+像 remember、forget 这些及物动词后面，接不定式短语与接动名词当宾语皆可，但意思不同。这个情况比较复杂，要用简化从句的观念才比较容易理解。
 
 Please <u>remember</u> <u>to bring this book to class next week</u>.
 V O
@@ -201,7 +201,7 @@ V O
 Please <u>remember</u> <u>that you must bring this book to class next week</u>.
 V O（名词从句）
 
-主要从句是命令句语气，省略掉主语 You。动词 remember 是及物动词，后面用 that 引导的那个名词从句当宾语。这句话是在交代对方下周「务必」要记得带书，所以名词从句中的动词属于不确定的条件语气（「下周」的事情尚未发生），应该有语气助动词如 must 或 should。而动词短语 must bring 就会减化为不定式短语 to bring。请比较下面这句：
+主要从句是命令句语气，省略掉主语 You。动词 remember 是及物动词，后面用 that 引导的那个名词从句当宾语。这句话是在交代对方下周「务必」要记得带书，所以名词从句中的动词属于不确定的条件语气（「下周」的事情尚未发生），应该有语气助动词如 must 或 should。而动词短语 must bring 就会简化为不定式短语 to bring。请比较下面这句：
 
 <u>I</u> <u>remember</u> <u>bringing a friend to your party last week</u>.
 S V O
@@ -212,7 +212,7 @@ S V O
 <u>I</u> <u>remember</u> <u>that I brought a friend to your party last week</u>.
 S V O（名词从句）
 
-及物动词 remember 后面用 that 引导的名词从句当宾语。这个名词从句中叙述的是发生在上周（last week）的事情：因为发生在过去，已属确定，所以不再使用不确定的语气助动词，而是采用陈述语气来叙述事实，过去的事情就用一般过去时的动词（brought）。这种情况，减化之后就会变成动名词 bringing，而不会成为不定式。再看一组例子：
+及物动词 remember 后面用 that 引导的名词从句当宾语。这个名词从句中叙述的是发生在上周（last week）的事情：因为发生在过去，已属确定，所以不再使用不确定的语气助动词，而是采用陈述语气来叙述事实，过去的事情就用一般过去时的动词（brought）。这种情况，简化之后就会变成动名词 bringing，而不会成为不定式。再看一组例子：
 
 Sorry, <u>I</u> <u>forgot</u> <u>to call in advance</u>.
 S V O
@@ -223,7 +223,7 @@ S V O
 Sorry, <u>I</u> <u>forgot</u> <u>that I should call in advance</u>.
 S V O
 
-在及物动词 forgot 后面用 that 引导的名词从句当宾语。忘了「应该」先打电话，也就是没有打。因为有语气助动词 should，减化之下就会变成不定式短语 to call。请比较下面的句子：
+在及物动词 forgot 后面用 that 引导的名词从句当宾语。忘了「应该」先打电话，也就是没有打。因为有语气助动词 should，简化之下就会变成不定式短语 to call。请比较下面的句子：
 
 <u>I</u> <u>forgot</u> <u>having called the pizza shop</u>, and called again.
 S V O
@@ -234,7 +234,7 @@ S V O
 <u>I</u> <u>forgot</u> <u>that I had called the pizza shop</u>….
 S V O
 
-在及物动词后面用 that 引导的名词从句当宾语。这时的情况是「确实已经打过电话」但是事后忘记，应该采用叙述事实的陈述语气来表达。发生在过去时间（forgot 是过去时）以前的事实，正确时态是过去完成时 had called。这里的 had 是语法助动词、并非语气助动词，所以并不具有「不确定」语气。这个动词短语的减化就会变成动名词 having called。
+在及物动词后面用 that 引导的名词从句当宾语。这时的情况是「确实已经打过电话」但是事后忘记，应该采用叙述事实的陈述语气来表达。发生在过去时间（forgot 是过去时）以前的事实，正确时态是过去完成时 had called。这里的 had 是语法助动词、并非语气助动词，所以并不具有「不确定」语气。这个动词短语的简化就会变成动名词 having called。
 
 ## 表示不定式的 to 与介词 to 的区别
 
@@ -259,7 +259,7 @@ My friend <u>agreed to lend</u> me a hand.
 The board of directors <u>agreed to laying off</u> 30% of the workers.
 （董事会对裁员三成的提案表示同意。）
 
-例 1 在 agreed 后面用不定式短语 to lend，那是动词短语 would lend 或 could lend 的减化，表示他「愿意」或「可以」帮忙。例 2 在 agreed 后面用介词短语 to laying off，意思是「对于」裁员案表示同意。通常在 agree 这个动词后面，用不定式的 to 或者用介词的 to 都可以讲得通。
+例 1 在 agreed 后面用不定式短语 to lend，那是动词短语 would lend 或 could lend 的简化，表示他「愿意」或「可以」帮忙。例 2 在 agreed 后面用介词短语 to laying off，意思是「对于」裁员案表示同意。通常在 agree 这个动词后面，用不定式的 to 或者用介词的 to 都可以讲得通。
 
 The fees <u>are subject to change</u> without further notice.
 （费用可能调整而不另行通知。）
@@ -268,7 +268,7 @@ The fees <u>are subject to change</u> without further notice.
 
 ## 完成时的不定式
 
-不定式里面如果用上**完成时的动词（to have Ven）**&#8203;，表达的是「相对过去的时间」。这和语气助动词加上完成时的情况完全相同，因为不定式本身就是语气助动词的减化。例如：
+不定式里面如果用上**完成时的动词（to have Ven）**&#8203;，表达的是「相对过去的时间」。这和语气助动词加上完成时的情况完全相同，因为不定式本身就是语气助动词的简化。例如：
 
 I <u>am</u> fortunate <u>to be here today</u>.
 （我很幸运今天能够在这里。）
@@ -276,7 +276,7 @@ I <u>am</u> fortunate <u>to be here today</u>.
 I <u>am</u> fortunate <u>to have been born into a good family</u>.
 (我很幸运能够出生在一个好家庭。)
 
-例 1 中的动词 am 是现在时，表示时间是现在。后面的不定式短语 to be here today 是 can be here today 的减化，它的时间和 am 的时间相同、也是现在。例 2 中的动词 am 同样是现在时，但是不定式短语中用的是完成时 to have been born，因为出生的时间是「相对的过去」，必须用完成时才能表示。
+例 1 中的动词 am 是现在时，表示时间是现在。后面的不定式短语 to be here today 是 can be here today 的简化，它的时间和 am 的时间相同、也是现在。例 2 中的动词 am 同样是现在时，但是不定式短语中用的是完成时 to have been born，因为出生的时间是「相对的过去」，必须用完成时才能表示。
 
 The dog <u>seemed</u> <u>to be badly hurt</u>.
 (这只狗好像身受重伤。)
@@ -304,7 +304,7 @@ S V O C
 S V O C
 (这件事我会要他付出代价。)
 
-例 1 中的动词 beg 是个普通动词：恳求别人帮忙，但是别人愿不愿意帮忙仍属不确定，所以后面可以用不定式短语 to help me 当宾语补足语，那是动词短语 would help me 的减化。例 2 中的动词 make 是个使役动词，差别在于使役动词带有「强迫」意味，也就是：它的结果是确定的。因为使役动词后面的结果不再带有不确定语气，所以也就不再能够使用不定式（来自于表达不确定的语气助动词）。这时候可以选择把不定式删掉、剩下原形动词（如 pay）当宾语补足语。
+例 1 中的动词 beg 是个普通动词：恳求别人帮忙，但是别人愿不愿意帮忙仍属不确定，所以后面可以用不定式短语 to help me 当宾语补足语，那是动词短语 would help me 的简化。例 2 中的动词 make 是个使役动词，差别在于使役动词带有「强迫」意味，也就是：它的结果是确定的。因为使役动词后面的结果不再带有不确定语气，所以也就不再能够使用不定式（来自于表达不确定的语气助动词）。这时候可以选择把不定式删掉、剩下原形动词（如 pay）当宾语补足语。
 
 不过，这并不表示在使役动词后面一定要用原形动词当宾语补足语。还可以有其他的选择，例如：
 
