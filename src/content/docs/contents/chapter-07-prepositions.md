@@ -182,7 +182,7 @@ He and his separated wife finally <u>made up</u>.
 He'<u>s slowly catching up with his classmates</u> in exam grades.
 （他的考试成绩渐渐赶上同班同学了。）
 
-从前的文法书称短语动词为「双字动词」（two-word verbs），但是这个名称不很贴切，因为短语动词有时候不只两个字，例如 catch up with。短语动词如果是三个字，通常第一个是动词（如 catch）、第二个是介副词（如 up）、第三个是介系词（如 with）。因为第三个是介系词，后面必须有受词，所以凡是这种三个字以上的短语动词都是及物动词，而且都不可拆、受词一定要放在后面。以下几个例子都是同样的情况。
+从前的语法书称短语动词为「双字动词」（two-word verbs），但是这个名称不很贴切，因为短语动词有时候不只两个字，例如 catch up with。短语动词如果是三个字，通常第一个是动词（如 catch）、第二个是介副词（如 up）、第三个是介系词（如 with）。因为第三个是介系词，后面必须有受词，所以凡是这种三个字以上的短语动词都是及物动词，而且都不可拆、受词一定要放在后面。以下几个例子都是同样的情况。
 
 #### drop out of 退出，中辍
 
@@ -418,7 +418,7 @@ Do you know <u>what</u> Tom has been <u>up to</u> recently?
 
 ### between / among 在 … 之间
 
-一般文法书说 between 用于表示两者之间，among 则是三者以上。这个区别大致说来是可以接受的，可是要拿它当规则来背，就会有例外。其实这两个介系词的差别主要不在两个与多个之差，而在于：between 有标示位置的功能（意思是「夹在中间」），among 则没有（只表示「其中，之中」 ）。例如：
+一般语法书说 between 用于表示两者之间，among 则是三者以上。这个区别大致说来是可以接受的，可是要拿它当规则来背，就会有例外。其实这两个介系词的差别主要不在两个与多个之差，而在于：between 有标示位置的功能（意思是「夹在中间」），among 则没有（只表示「其中，之中」 ）。例如：
 
 The Rhine flows <u>between France and Germany</u>.
 (莱茵河流经法国与德国中间。)

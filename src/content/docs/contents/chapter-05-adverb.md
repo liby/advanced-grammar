@@ -233,17 +233,17 @@ That is a <u>fairly</u> <u>long</u> story.
 程度副词 fairly 表示「颇高」的程度，在此修饰形容词 long。
 
 ### 连接副词（conjunctive）
-这种副词,意思和对等连接词( and、or、but )类似，但是缺乏连接词的文法功能。亦即，连接副词可以用来表示前后两个子句之间的逻辑关系，但是不能用它来连接两个子句, 必须借助标点符号: 加上分号把两个子句分开，或者用句点之类断开变成两句话。
+这种副词,意思和对等连接词( and、or、but )类似，但是缺乏连接词的语法功能。亦即，连接副词可以用来表示前后两个子句之间的逻辑关系，但是不能用它来连接两个子句, 必须借助标点符号: 加上分号把两个子句分开，或者用句点之类断开变成两句话。
 
 Sales have increased 20%; <u>besides</u>, production cost has come down.
 (销售上涨20%,而且生产成本又降低了。)
 
-这里面有两个对等子句，中间缺乏连接词，只有个连接副词 besides。这个连接副词的意思近似对等连接词 and，但它是副词类、并不具备连接两个子句的文法功能，所以要借助分号 (;) 这个标点符号才能连接两个子句。
+这里面有两个对等子句，中间缺乏连接词，只有个连接副词 besides。这个连接副词的意思近似对等连接词 and，但它是副词类、并不具备连接两个子句的语法功能，所以要借助分号 (;) 这个标点符号才能连接两个子句。
 
 <u>Consequently</u>, we should have no problem reaching our goals this year.
 (因此,我们达成今年的目标应该没有问题。)
 
-这句话和上一句之间有因果关系，用 consequently 这个连接副词表示。连接副词的意思类似连接词 so，但是并不具备连接两个子句的文法功能,所以和上一句之间用句点断开、另起一句。
+这句话和上一句之间有因果关系，用 consequently 这个连接副词表示。连接副词的意思类似连接词 so，但是并不具备连接两个子句的语法功能,所以和上一句之间用句点断开、另起一句。
 
 <u>However</u>, projections for the next fiscal year are not very optimistic.
 (不过,下一个会计年度的预期却不甚乐观。)
@@ -258,7 +258,7 @@ He is short, however, he plays basketball well. (误)
 这种错误甚至有一个专门称呼:comma splice。读者应特别注意,写作时不要犯这种错误。
 
 ### 分离副词 （disjuncts）
-一般文法书都说这种副词是修饰全句的副词，这种说法也可以接受。不过，如果深入观察省略的情形，就可以看出这种副词原本属于另一个子句，是该子句中的方法、状态副词。看看这个例子：
+一般语法书都说这种副词是修饰全句的副词，这种说法也可以接受。不过，如果深入观察省略的情形，就可以看出这种副词原本属于另一个子句，是该子句中的方法、状态副词。看看这个例子：
 
 <u>Theoretically</u>, your proposal might work.
 (理论上，你提的案子可能行得通。)
@@ -273,7 +273,7 @@ He is short, however, he plays basketball well. (误)
 <u>If we are speaking theoretically</u>, your proposal might work.
 (如果我们从理论上来说，你提的案子可能行得通。)
 
-画底线部分（if we are speaking theoretically）是个表示条件的副词子句，句中的 theoretically 是个方法、状态的副​​词，修饰动词 speak 的「方式」。但是，整个副词子句减化到只剩下一个副词 theoretically，这种情况就称为分离副词（因为它并不是主要子句里面的一个副词），也就是传统文法所谓「修饰整句话」的副词。
+画底线部分（if we are speaking theoretically）是个表示条件的副词子句，句中的 theoretically 是个方法、状态的副​​词，修饰动词 speak 的「方式」。但是，整个副词子句减化到只剩下一个副词 theoretically，这种情况就称为分离副词（因为它并不是主要子句里面的一个副词），也就是传统语法所谓「修饰整句话」的副词。
 
 上面那个句子，副词子句的主词是 we、主要子句的主词是 your proposal，两个子句的主词并不相同。这种情况通常并不适合进行减化。但是，因为 theoretically speaking 这样的讲法已经变成惯用的短语，所以仍然可以接受。减化子句属于高级句型，本书将在后面的章节详述。
 
