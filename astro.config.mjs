@@ -6,6 +6,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '旋元佑进阶文法',
+      editLink: {
+        baseUrl: 'https://github.com/liby/advanced-grammar/edit/main/',
+      },
       social: {
         github: 'https://github.com/liby/advanced-grammar',
       },
@@ -19,6 +22,17 @@ export default defineConfig({
           collapsed: true,
           autogenerate: { directory: 'appendix' },
         },
+        {
+          label: '资源',
+          collapsed: true,
+          items: [
+            {
+              label: '授权：署名—非商业性使用',
+              link: 'https://creativecommons.org/licenses/by-nc/4.0/',
+              attrs: { class: 'external-link', rel: 'nofollow' }
+            }
+          ]
+        }
       ],
     }),
   ],
