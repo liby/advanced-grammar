@@ -388,11 +388,11 @@ S V C
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>are</u>.
 
-但是细看一下这个句子，会发现从属子句中主词 white-collar workers 和动词 are 之间隔了一个很长的关系子句。主词和动词的距离太远会造成意思不清楚。而且，动词 are 是个连缀动词，它后面的补语 opposed to immigrants 省略掉之后，等于是借用主要子句中同样的一个补语。把 are 一个字远远抛在后面，和主词与补语之间都有颇长的距离，这是很不清楚的讲法。可是我们前面分析过，这个 are 又不能省略，否则会出现模棱两可的结果。碰到这种棘手的情况，最好的解决办法就是倒装：
+但是细看一下这个句子，会发现从属子句中主词 white-collar workers 和动词 are 之间隔了一个很长的关系子句。主词和动词的距离太远会造成意思不清楚。而且，动词 are 是个系动词，它后面的补语 opposed to immigrants 省略掉之后，等于是借用主要子句中同样的一个补语。把 are 一个字远远抛在后面，和主词与补语之间都有颇长的距离，这是很不清楚的讲法。可是我们前面分析过，这个 are 又不能省略，否则会出现模棱两可的结果。碰到这种棘手的情况，最好的解决办法就是倒装：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>are white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 
-把动词倒装到主词前面，造成的结果是动词 are 与主词 white-collar workers 在一起、动词 are 仍然在主词 white-collar workers 与补语 opposed to immigrants 之间继续扮演连缀动词的角色。同时很明显看得出来 white-collar workers 是主词、比较的对像是 manual laborers。这才是最清楚的表达方式。
+把动词倒装到主词前面，造成的结果是动词 are 与主词 white-collar workers 在一起、动词 are 仍然在主词 white-collar workers 与补语 opposed to immigrants 之间继续扮演系动词的角色。同时很明显看得出来 white-collar workers 是主词、比较的对像是 manual laborers。这才是最清楚的表达方式。
 
 ## 比较点的观察
 
