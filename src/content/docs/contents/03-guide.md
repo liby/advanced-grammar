@@ -68,7 +68,7 @@ ESL ，代表 English as a Second Language 「英语作为第二语」。例如�
 
 网路上有一份给英文教师看的期刊 JALT ，里面给广读下了一个不错的定义：
 
-“ Our working definition of 'extensive reading' as a language teaching/learning procedure is that it is reading (a) of large quantities of material or long texts; (b) for global or general understanding; (c) with the intention of obtaining pleasure from the text. Further, because (d) reading is individualized, with students choosing the books they want to read, (e) the books are not discussed in class.” ( JALT )
+> Our working definition of 'extensive reading' as a language teaching/learning procedure is that it is reading (a) of large quantities of material or long texts; (b) for global or general understanding; (c) with the intention of obtaining pleasure from the text. Further, because (d) reading is individualized, with students choosing the books they want to read, (e) the books are not discussed in class. (JALT)
 
 ## 广读的做法
 
@@ -100,7 +100,7 @@ CDLP 代表 California Distance Learning Project ，由加州政府教育部出�
 
 这是 Milwaukee Area Technical College 这所大学专门为所谓的 new readers 出版的杂志的网路版，里面的文字也都控制在比较低的难度，适合作为广读材料之用。缺点是更新的频率不是很高，不过也累积了相当份量的 archives 可供使用。 以上三种都是改写为 Special English 、便利阅读的版本。读者花一段时间看这些东西、逐渐提升自己的阅读速度与理解能力之后，便可以尝试去阅读一些未经改写的英文原著了。有一个网站值得介绍给各位读者：
 
-Project Gutenberg ( [http://www.gutenberg.org/](http://www.gutenberg.org/) )
+[Project Gutenberg](http://www.gutenberg.org/)
 
 这是规模最大的一座网路电子图书馆，完全免费。缺点是它的东西大都比较旧。国际版权法规定版权保护时间大都是作者身故之后七十年。七十年之后，著作品的版权自动消失、进入公共财的领域。 Project Gutenberg 里面大都是这种已经没有版权的东西。这座图书馆不但欢迎免费下载，还可以向它索取寄送光碟片──里面有它全数几万本藏书的电子版。
 
