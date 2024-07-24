@@ -120,9 +120,9 @@ Data「资料」的单数是 datum，但是一般都只用复数形。 Data 当�
 <u>My family</u> <u>are</u> all highly educated intellectuals.
 （我家人都是教育水平很高的知识份子。）
 
-第 1 句从主语补语 large 来看，显然是把 family 视为一个单位，所以要用单数动词 is。
+第 1 句从主语补足语 large 来看，显然是把 family 视为一个单位，所以要用单数动词 is。
 
-第 2 句从主语补语 highly educated intellectuals 来看，family 显然是当「家人」看待，所以要用复数动词 are.
+第 2 句从主语补足语 highly educated intellectuals 来看，family 显然是当「家人」看待，所以要用复数动词 are.
 
 主语是名词短语时，除了从名词本身来判断单复数，还有一个可资判断的线索是限定词。
 

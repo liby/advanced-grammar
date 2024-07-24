@@ -207,7 +207,7 @@ S V O 名词从句
 
 这个复杂句中，名词从句当作及物动词的宾语使用。一般语法书中都会列出规则：名词从句当宾语使用时，连词 that 可以省略。拿上面这个例子来说，读者看到 many people believe 就会作出正确的假设：这是主要从句的主语和动词。而因为 believe 是及物动词、后面需要一个宾语，因此读者会自动把后面的名词从句 one’s zodiac sign determines one’s character 当宾语看待。这种情况，没有意义的连词 that 自然可以省略。
 
-如果在 S + V + O + C 的句型中，宾语位置是个名词从句，这时候因为在宾语后面还有宾语补语存在，可能会造成句子不清楚，所以应该先用虚字 it 暂代宾语位置、把名词从句移到句尾，例如：
+如果在 S + V + O + C 的句型中，宾语位置是个名词从句，这时候因为在宾语后面还有宾语补足语存在，可能会造成句子不清楚，所以应该先用虚字 it 暂代宾语位置、把名词从句移到句尾，例如：
 
 <u>I</u> <u>find</u> <u>something</u> <u>amazing</u>.
 S V O C
@@ -216,7 +216,7 @@ S V O C
 You still look so young.
 （你看起来仍然这么年轻。）
 
-句1中因为有宾语补语 amazing，如果直接把句2改造成名词从句放进句1的宾语位置，句型会不够清楚。所以必须先用虚字 it 暂代宾语位置，然后在句2这个直述句前面加上从属连词 that 制造出名词从句，但是移到句1的句尾位置，成为：
+句1中因为有宾语补足语 amazing，如果直接把句2改造成名词从句放进句1的宾语位置，句型会不够清楚。所以必须先用虚字 it 暂代宾语位置，然后在句2这个直述句前面加上从属连词 that 制造出名词从句，但是移到句1的句尾位置，成为：
 
 <u>I</u> <u>find</u> <u>it</u> <u>amazing</u> <u>(that) you still look so young</u>.
 S V O C 名词从句
@@ -250,13 +250,13 @@ S V C
 We’re going to win this game after all.
 （这场比赛我们终究还是会赢。）
 
-句 1 中的主语 it 就是个虚字，而且这个虚字也没有任何内容，因为这个句子从意思上看并没有任何主语。但是英文句型不能没有主语，所以就用虚字 it 充当形式上的主语。句 2 是个直述句，可以加上一个从属连词 that 制造出名词从句 that we’re going to win this game after all，放进句 1 中 something 的位置当主语补语使用，成为复杂句如下：
+句 1 中的主语 it 就是个虚字，而且这个虚字也没有任何内容，因为这个句子从意思上看并没有任何主语。但是英文句型不能没有主语，所以就用虚字 it 充当形式上的主语。句 2 是个直述句，可以加上一个从属连词 that 制造出名词从句 that we’re going to win this game after all，放进句 1 中 something 的位置当主语补足语使用，成为复杂句如下：
 
 <u>It</u> <u>seems</u> <u>(that) we’re going to win this game after all</u>.
 S V C 名词从句
 （看起来这场比赛我们终究还是会赢。）
 
-主要从句的主语 it 是纯粹的虚字、没有内容。动词 seems 是个系动词，后面的 that 从句是个名词从句、当主语补语使用。因为这个复杂句仍然是主要从句在前、从属从句在后，所以无意义的连词仍然可以省略。
+主要从句的主语 it 是纯粹的虚字、没有内容。动词 seems 是个系动词，后面的 that 从句是个名词从句、当主语补足语使用。因为这个复杂句仍然是主要从句在前、从属从句在后，所以无意义的连词仍然可以省略。
 
 #### Wh- 从句
 
@@ -267,7 +267,7 @@ S V C
 Can we do anything about it?
 （我们有没有办法解决？）
 
-第 2 句是个缺乏疑问词的 Yes/No Question。改成名词从句的做法是拿掉问号、加上连词 whether，成为 whether we can do anything about it 这个名词从句。这个名词从句直接放入第 1 句（主要从句）中的主语补语位置取代 this，就会成为下面这个复杂句：
+第 2 句是个缺乏疑问词的 Yes/No Question。改成名词从句的做法是拿掉问号、加上连词 whether，成为 whether we can do anything about it 这个名词从句。这个名词从句直接放入第 1 句（主要从句）中的主语补足语位置取代 this，就会成为下面这个复杂句：
 
 <u>The question</u> <u>is</u> <u>whether we can do anything about it</u>.
 S V C

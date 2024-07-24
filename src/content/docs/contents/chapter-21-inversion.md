@@ -86,7 +86,7 @@ There is/are 这种最基本的句型，其实就是一种倒装句。例如 The
 <u>A book</u> <u>is</u> <u>there</u> on the desk.
 S V C
 
-Be 动词后面的地方副词 there 扮演主语补语的角色。如果把这个补语移到句首，be 动词跟着它移到主语前面、继续放在主语与补语之间扮演 linking verb 的角色，就是这个句子：
+Be 动词后面的地方副词 there 扮演主语补足语的角色。如果把这个补语移到句首，be 动词跟着它移到主语前面、继续放在主语与补语之间扮演 linking verb 的角色，就是这个句子：
 
 <u>There</u> <u>is</u> <u>a book</u> on the desk.
 C V S

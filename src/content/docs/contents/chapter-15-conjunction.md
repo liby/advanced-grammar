@@ -61,17 +61,17 @@ We take our holidays <u>in July or August</u>.
 
 ### 补语
 
-不论是主语补语还是宾语补语位置，都可以利用对等连词置入两个以上，例如：
+不论是主语补足语还是宾语补足语位置，都可以利用对等连词置入两个以上，例如：
 
 The sumo-wrestler is <u>overweight but very agile</u>.
 （这名相扑力士体重过重但身手矫健。）
 
-对等连词 but 连接形容词 overweight 与 agile，放在 be 动词后面共同当作主语补语使用。
+对等连词 but 连接形容词 overweight 与 agile，放在 be 动词后面共同当作主语补足语使用。
 
 Should I leave the key <u>under the doormat or in the flowerpot</u>?
 （我该把钥匙放在门口垫子底下还是花盆里？）
 
-对等连词 or 连接介词短语 under the oormat 与 in the flowerpot 这两个地方副词，放在宾语 the key 后面共同当宾语补语使用。
+对等连词 or 连接介词短语 under the oormat 与 in the flowerpot 这两个地方副词，放在宾语 the key 后面共同当宾语补足语使用。
 
 ### 修饰语
 

@@ -80,7 +80,7 @@ The most important industry in M​​acau is <u>gambling</u>.
 Many customers were <u>gambling</u> in the casino at the time.
 (当时有许多客户正在那家赌场赌博。)
 
-例 1 的 gambling 是动名词(因为是抽象名词所以采用零冠词),放在 be 动词后面当主语补语。这是个名词补语,表示它和主语 the most important industry 全等:澳门「首要的工业」就是「赌博业」。动名词 gambling 就是「赌博业」,字尾的 -ing 只是词类变化加上去的,并没有「正在…」的暗示。
+例 1 的 gambling 是动名词(因为是抽象名词所以采用零冠词),放在 be 动词后面当主语补足语。这是个名词补语,表示它和主语 the most important industry 全等:澳门「首要的工业」就是「赌博业」。动名词 gambling 就是「赌博业」,字尾的 -ing 只是词类变化加上去的,并没有「正在…」的暗示。
 
 例 2 的 gambling 则是现在分词,放在 be 动词后面当形容词补语使用,字尾的 -ing 有进行暗示,表示这些客户「正在」赌博。这也就是一般语法书所谓的「进行时」。
 

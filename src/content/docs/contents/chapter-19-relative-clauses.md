@@ -130,7 +130,7 @@ After the stroke, John is not <u>the man</u>.
 <u>He</u> <u>used to be</u> <u>the man</u>.
 S V C
 
-第 2 句中的 the man 和第 1 句重复。如果是用普通的人称代词来避免重复，应该采用主格的 he，因为 the man 在第 2 句中是当主语补语使用而不是宾语，因此是主格而非宾格。再由 he 改写为关系代词，当然也是主格（who），所以正确的关系从句是 who he used to be。关系代词 who 虽然是补语，但是省略掉它之后两个从句仍然可以区分清楚，所以也可以选择省略 who。另外，关系从句 who he used to be 具有指出「哪一种人」的指示功能，因此关系代词也可以改写为 that，如下：
+第 2 句中的 the man 和第 1 句重复。如果是用普通的人称代词来避免重复，应该采用主格的 he，因为 the man 在第 2 句中是当主语补足语使用而不是宾语，因此是主格而非宾格。再由 he 改写为关系代词，当然也是主格（who），所以正确的关系从句是 who he used to be。关系代词 who 虽然是补语，但是省略掉它之后两个从句仍然可以区分清楚，所以也可以选择省略 who。另外，关系从句 who he used to be 具有指出「哪一种人」的指示功能，因此关系代词也可以改写为 that，如下：
 
 After the stroke, Joh is not the man he used to be.
 After the stroke, Joh is not the man that he used to be.
@@ -239,7 +239,7 @@ That chair <u>that</u> you’re sitting on is an antique.
 <u>John</u> <u>calls</u> <u>his dog</u> <u>the name</u>.
 S V O C
 
-两句在 the name 上产生重复而建立关系，可以制造关系从句。做法是把句 2 中的宾语补语 the name 改写为关系代词 which，然后移到句首充当连词，成为关系从句 which John calls his dog，然后放在句 1 的先行词 the name 后面当形容词从句使用，成为这个复杂句：
+两句在 the name 上产生重复而建立关系，可以制造关系从句。做法是把句 2 中的宾语补足语 the name 改写为关系代词 which，然后移到句首充当连词，成为关系从句 which John calls his dog，然后放在句 1 的先行词 the name 后面当形容词从句使用，成为这个复杂句：
 
 <u>The name</u> <u>which John calls his dog</u> is a rea​​lly odd one.
 先行词 关系从句
@@ -437,7 +437,7 @@ S V O
 I can’t leave <u>a man</u> [who has done so much for my family] behind. （不佳）
 先行词 关系从句
 
-这个句子不好，是因为关系从句虽然和它修饰的对象（先行词 a man ）很接近、够清楚，但是主要从句的宾语补语（behind）和宾语（a man）之间却隔了一个长长的从句，造成主要从句的句型不清楚：读者很可能会误以为 behind 是属于关系从句的一部分、用来修饰 my family 的。为了避免这种误解、增加句子的清楚性，应该选择把关系从句移到后面，成为：
+这个句子不好，是因为关系从句虽然和它修饰的对象（先行词 a man ）很接近、够清楚，但是主要从句的宾语补足语（behind）和宾语（a man）之间却隔了一个长长的从句，造成主要从句的句型不清楚：读者很可能会误以为 behind 是属于关系从句的一部分、用来修饰 my family 的。为了避免这种误解、增加句子的清楚性，应该选择把关系从句移到后面，成为：
 
 <u>I</u> <u>can’t leave</u> <u>a man</u> <u>behind</u>, [who has done so much for my family].
 S V O C 关系从句
@@ -525,7 +525,7 @@ S V O
 <u>Anything</u> [that you say now] <u>may be</u> <u>used</u> against you in court.
 S 关系从句 V C
 
-主要从句的句型分析我们采取简单化的认定：be 是动词、后面的过去分词 used 是形容词当主语补语。中括号里面是个关系从句，当形容词从句使用、修饰先行词 anything。这个关系从句中，关系代词 that 扮演宾语的角色（是动词 say 的宾语），可以选择把它省略掉。另外，因为先行词 anything 是个空洞无意义的字，也可以选择把先行词省略掉。但是先行词 anything 在主要从句中扮演主语的角色。如果选择把先行词省略掉，就必须把关系代词 that 改写为复合关系代词（如 whatever），成为这个复杂句：
+主要从句的句型分析我们采取简单化的认定：be 是动词、后面的过去分词 used 是形容词当主语补足语。中括号里面是个关系从句，当形容词从句使用、修饰先行词 anything。这个关系从句中，关系代词 that 扮演宾语的角色（是动词 say 的宾语），可以选择把它省略掉。另外，因为先行词 anything 是个空洞无意义的字，也可以选择把先行词省略掉。但是先行词 anything 在主要从句中扮演主语的角色。如果选择把先行词省略掉，就必须把关系代词 that 改写为复合关系代词（如 whatever），成为这个复杂句：
 
 [Whatever you say now] <u>may be</u> <u>used</u> against you in court.
 S 关系从句 V C
@@ -872,7 +872,7 @@ S V C 关系从句
 <u>Your friend</u> <u>stole</u> <u>a can of peaches</u> <u>at a 7-11</u> <u>last night</u>.
 S V O 时间副词 地方副词
 
-要用分裂句强调句中的动词部分，基本上是采取 what one does is (to) V「某人做（do）的那件事（the thing）是什么」这种句型来强调。就上面这个例子而言，分裂句的主要从句可以采用笼统的 the thing 当主语，后面用关系从句 that your friend did at a 7-11 来修饰主语，关系从句里面用助动词 did 取代原来的动词 stole。接下来用 be 动词 was 当主要从句的动词，后面的补语位置用来安插需要强调的动词 steal。请注意：如果主语部分的修饰语包含助动词 do（如上例关系从句中的 did），后面的主语补语部分就可以采用不定式短语（如 to steal）或原形动词（steal）的形态来强调，如下：
+要用分裂句强调句中的动词部分，基本上是采取 what one does is (to) V「某人做（do）的那件事（the thing）是什么」这种句型来强调。就上面这个例子而言，分裂句的主要从句可以采用笼统的 the thing 当主语，后面用关系从句 that your friend did at a 7-11 来修饰主语，关系从句里面用助动词 did 取代原来的动词 stole。接下来用 be 动词 was 当主要从句的动词，后面的补语位置用来安插需要强调的动词 steal。请注意：如果主语部分的修饰语包含助动词 do（如上例关系从句中的 did），后面的主语补足语部分就可以采用不定式短语（如 to steal）或原形动词（steal）的形态来强调，如下：
 
 <u>The thing</u> [that your friend did at a 7-11 last night] <u>was</u> <u>(to) steal a can of peaches</u>.
 S 关系从句 V C
@@ -929,7 +929,7 @@ S 关系从句 V C
 
 我想要做的只不过是要帮他而己。
 
-主要从句的主语仍是笼统的 all，后面仍有关系从句修饰它，但是里面并没有助动词 do。这种情况，后面就不能采用原形动词当主语补语，只能用不定式短语 to help him。下面这个句子就不同了：
+主要从句的主语仍是笼统的 all，后面仍有关系从句修饰它，但是里面并没有助动词 do。这种情况，后面就不能采用原形动词当主语补足语，只能用不定式短语 to help him。下面这个句子就不同了：
 
 <u>All</u> [(that) I wanted to do] <u>was</u> <u>(to) help him</u>.
 S 关系从句 V C

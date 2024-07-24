@@ -40,7 +40,7 @@ S V O
 
 本书从第一章：简单句的五种基本句型开始，就已经在为减化从句打基础。至目前为止，我们已经建立了一些重要的观念，是为处理减化从句的基础观念：
 
-一．视 be 为动词，后面的部分包括现在分词、过去分词、不定式短语、形容词、名词、介词短语等等一律视为主语补语。
+一．视 be 为动词，后面的部分包括现在分词、过去分词、不定式短语、形容词、名词、介词短语等等一律视为主语补足语。
 
 二．现在分词视为形容词，字尾 -ing 有「持续、进行」的暗示。
 
@@ -96,7 +96,7 @@ S V O 减化名词从句
 S V O 关系从句
  (跑第二名的选手赢得一笔小额奖金。)
 
-关系从句 who finished second 修饰先行词 the runner。关系从句的主语 who 和先行词重复，因而有可以减化的空间。减化的做法是省略掉关系从句主语 who，然后把关系从句的动词减化为非限定动词。因为这个动词（finished）里面没有 be 动词也没有语气助动词，所以可以先这样修改：把 who finished second 改写为 who was finishing second。这样做的目的并不是要改成进行时，而是为了做词类变化：把限定动词 finished 改为现在分词 finishing、成为主语补语保留下来，动词变成无意义的 was 可以连同重复的主语 who 一并省略，关系从句 who finished second 就可以减化为现在分词词组 finishing second，整个句子减化如下：
+关系从句 who finished second 修饰先行词 the runner。关系从句的主语 who 和先行词重复，因而有可以减化的空间。减化的做法是省略掉关系从句主语 who，然后把关系从句的动词减化为非限定动词。因为这个动词（finished）里面没有 be 动词也没有语气助动词，所以可以先这样修改：把 who finished second 改写为 who was finishing second。这样做的目的并不是要改成进行时，而是为了做词类变化：把限定动词 finished 改为现在分词 finishing、成为主语补足语保留下来，动词变成无意义的 was 可以连同重复的主语 who 一并省略，关系从句 who finished second 就可以减化为现在分词词组 finishing second，整个句子减化如下：
 
 <u>The</u> <u>runner</u> [finishing second] won a small prize.
 
