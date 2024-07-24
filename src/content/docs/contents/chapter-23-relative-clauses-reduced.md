@@ -18,7 +18,7 @@ title: 第二十三章 关系从句减化
 先行词 关系从句
 (想见你的那个人在外头等着。)
 
-中括弧内是个关系从句，它的主语 who 就是关系代词，代表的就是前面的先行词 the man、在此与主要从句产生重复。关系从句减化的做法，第一步是把重复的主语 who 省略掉，第二步应该是省掉 be 动词。但是这个关系从句只有普通动词 wants。如前所述，如果动词是普通动词，没有 be 动词也没有助动词，那么减化的方式是一律加 -ing 作词类变化，所以动词就减化为 wanting 这个现在分词。结果如下：
+中括号内是个关系从句，它的主语 who 就是关系代词，代表的就是前面的先行词 the man、在此与主要从句产生重复。关系从句减化的做法，第一步是把重复的主语 who 省略掉，第二步应该是省掉 be 动词。但是这个关系从句只有普通动词 wants。如前所述，如果动词是普通动词，没有 be 动词也没有助动词，那么减化的方式是一律加 -ing 作词类变化，所以动词就减化为 wanting 这个现在分词。结果如下：
 
 <u>The man</u> [wanting to see you] is waiting outside.
 减化形容词从句
@@ -29,7 +29,7 @@ title: 第二十三章 关系从句减化
 先行词 关系从句
 (我那套大英百科全书，摆在书架上积灰尘，没用过几次。)
 
-这个关系从句前后有一对逗点隔开，等于是放在一对括弧里面做补充说明之用、缺乏指示功能。它的减化方式还是相同。关系代词 which 就是关系从句的主语，与先行词重复。关系从句的动词是 be 动词 is。只要省略掉这个重复的主语与空洞无内容的 be 动词，剩下的补语部分 lying on the bookshelf and gathering dust 这个现在分词短语就是成功的减化形容词从句，可以充分取代原来那个关系从句，同样修饰先行词、表达同样的意思：
+这个关系从句前后有一对逗点隔开，等于是放在一对括号里面做补充说明之用、缺乏指示功能。它的减化方式还是相同。关系代词 which 就是关系从句的主语，与先行词重复。关系从句的动词是 be 动词 is。只要省略掉这个重复的主语与空洞无内容的 be 动词，剩下的补语部分 lying on the bookshelf and gathering dust 这个现在分词短语就是成功的减化形容词从句，可以充分取代原来那个关系从句，同样修饰先行词、表达同样的意思：
 
 <u>My Encyclopedia Britannica</u>, [lying on the bookshelf and gathering dust], has seldom been used.
 先行词 减化形容词从句
@@ -53,7 +53,7 @@ title: 第二十三章 关系从句减化
 先行词 关系从句
 香槟区种出来的葡萄酿的葡萄酒最好。
 
-关系从句（中括弧内）修饰的先行词是 grapes。这个关系从句中，关系代词 that（就是 which）就是主语，和先行词重复。动词是 be 动词 are。只要省略掉重复的主语、空洞的 be 动词，关系从句就可以减化为过去分词短语 grown in the Champagne area，仍然是修饰先行词 grapes，原句的意思完全没有损失。如下：
+关系从句（中括号内）修饰的先行词是 grapes。这个关系从句中，关系代词 that（就是 which）就是主语，和先行词重复。动词是 be 动词 are。只要省略掉重复的主语、空洞的 be 动词，关系从句就可以减化为过去分词短语 grown in the Champagne area，仍然是修饰先行词 grapes，原句的意思完全没有损失。如下：
 
 <u>Grapes</u> [grown in the Champagne area] make the best wines.
 先行词 减化形容词从句
@@ -229,7 +229,7 @@ A chimpanzee is <u>an animal</u> [capable of reason].
 <u>The Great Wall of China</u>, [the largest man-made structure on earth], no longer serves a military function.
 先行词 减化关系从句
 
-原来的关系从句放在一对括弧式的逗点中，不具有指示功能、只是个补充说明。减化之后剩下来的主语补语（所谓的同位格）仍然放在一对逗点里面作补充说明使用。再看一个例子：
+原来的关系从句放在一对括号式的逗点中，不具有指示功能、只是个补充说明。减化之后剩下来的主语补语（所谓的同位格）仍然放在一对逗点里面作补充说明使用。再看一个例子：
 
 This movie features <u>Tom Hanks</u>, [who is my favorite movie star].
 先行词 关系从句
@@ -452,7 +452,7 @@ Do you know <u>the girl</u> [who is sitting next to John]?
 先行词 关系从句
 (你认不认识坐在 John 旁边那个女孩？)
 
-关系从句（中括弧内的部分）的主语就是关系代词 who，在进行减化时会跟 be 动词一并省略，成为：
+关系从句（中括号内的部分）的主语就是关系代词 who，在进行减化时会跟 be 动词一并省略，成为：
 
 Do you know the girl [sitting next to John]? 减化形容词从句
 

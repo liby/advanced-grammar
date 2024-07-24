@@ -16,7 +16,7 @@ title: 第二十四章 名词从句减化
 S 名词从句 V O O
 (没有手机，可以替你省掉不少麻烦。)
 
-主要从句的主语是个名词从句（中括弧内的部分）。这个名词从句的减化，做法是省掉主语 you（与主要从句的宾语 you 重复），再把普通动词 have 加上 -ing，否定句的写法就是 not having a cell-phone。名词从句外加的连词 that 无意义、只有语法功能。在名词从句减化之后，这个无意义的连词自然要一并删掉。结果就是：
+主要从句的主语是个名词从句（中括号内的部分）。这个名词从句的减化，做法是省掉主语 you（与主要从句的宾语 you 重复），再把普通动词 have 加上 -ing，否定句的写法就是 not having a cell-phone。名词从句外加的连词 that 无意义、只有语法功能。在名词从句减化之后，这个无意义的连词自然要一并删掉。结果就是：
 
 [Not having a cell-phone] <u>can save</u> <u>you</u> <u>a great deal of trouble</u>.
 S 减化名词从句 V O O
@@ -27,7 +27,7 @@ S 减化名词从句 V O O
 S 名词从句 V C
 (John 当时喝醉了，这并不能构成他行为粗暴的​​借口。)
 
-名词从句（中括弧内的部分）的主语 John 是个有意义的主语，而且和主要从句的内容并不重复，减化时有必要保留下来。动词是 be 动词，一般的减化方式是省略掉空洞无意义的 be 动词。但是观察一下：省略掉 be 动词之后，剩下的是形容词补语 drunk，并不能够取代词从句当作主要从句的主语使用。需要做词类变化才行。可以选择把形容词 drunk 改为名词 drunkeness 来取代词从句，原来的主语 John 可以用所有格 John’s 的方式放在名词前面的限定词位置保留下来，成为：
+名词从句（中括号内的部分）的主语 John 是个有意义的主语，而且和主要从句的内容并不重复，减化时有必要保留下来。动词是 be 动词，一般的减化方式是省略掉空洞无意义的 be 动词。但是观察一下：省略掉 be 动词之后，剩下的是形容词补语 drunk，并不能够取代词从句当作主要从句的主语使用。需要做词类变化才行。可以选择把形容词 drunk 改为名词 drunkeness 来取代词从句，原来的主语 John 可以用所有格 John’s 的方式放在名词前面的限定词位置保留下来，成为：
 
 [John’s drunkeness] <u>is</u> <u>no excuse</u> for the rude behavior.
 S 减化名词从句 V C
@@ -50,7 +50,7 @@ S 减化名词从句 V C
 S V O 名词从句
 (我不喜欢被迫等候。)
 
-名词从句（中括弧内）当作及物动词 dislike 的宾语使用。它的主语 I 和主要从句的主语相同，可以省略。接下来再省略掉无意义的 be 动词。这是一般减化从句的标准做法。但是，省略掉重复的主语与空洞的 be 动词之后，名词从句剩下的部分 kept waiting 是个过去分词短语，属于形容词类、不再是名词，因而不能继续扮演及物动词的宾语角色。这时候需要进行词类变化：要把 kept waiting 改为名词类。不过，这个上下文就是需要过去分词 kept 才能表示「被迫」的被动语态、也需要现在分词 waiting 才能表示「持续」的进行状态。想要做词类变化，必须另外想办法：在前面加上无意义的 being，成为 being kept waiting，整个短语的词类就转变为动名词短语，可以当宾语使用了，意思仍然不变，如下：
+名词从句（中括号内）当作及物动词 dislike 的宾语使用。它的主语 I 和主要从句的主语相同，可以省略。接下来再省略掉无意义的 be 动词。这是一般减化从句的标准做法。但是，省略掉重复的主语与空洞的 be 动词之后，名词从句剩下的部分 kept waiting 是个过去分词短语，属于形容词类、不再是名词，因而不能继续扮演及物动词的宾语角色。这时候需要进行词类变化：要把 kept waiting 改为名词类。不过，这个上下文就是需要过去分词 kept 才能表示「被迫」的被动语态、也需要现在分词 waiting 才能表示「持续」的进行状态。想要做词类变化，必须另外想办法：在前面加上无意义的 being，成为 being kept waiting，整个短语的词类就转变为动名词短语，可以当宾语使用了，意思仍然不变，如下：
 
 <u>I</u> <u>dislike</u> [being kept waiting].
 S V O 减化名词从句
@@ -61,7 +61,7 @@ S V O 减化名词从句
 S V O 名词从句
 (我看到许多鸟在往南飞。)
 
-名词从句（中括弧内的部分）当作动词 saw 的宾语使用。这个名词从句要进行减化时，因为它的主语 many birds 具有明确的内容、又和主要从句的内容并不重复，所以必须设法把这个主语保留下来。以这个例子而言，有一个办法是把原来的主语 many birds 放在主要从句的宾语位置、be 动词省略掉，原来的主语补语 flying southward 则放在宾语补语位置，如下：
+名词从句（中括号内的部分）当作动词 saw 的宾语使用。这个名词从句要进行减化时，因为它的主语 many birds 具有明确的内容、又和主要从句的内容并不重复，所以必须设法把这个主语保留下来。以这个例子而言，有一个办法是把原来的主语 many birds 放在主要从句的宾语位置、be 动词省略掉，原来的主语补语 flying southward 则放在宾语补语位置，如下：
 
 <u>I</u> <u>saw</u> <u>many birds</u> <u>flying southward</u>.
 S V O C
@@ -92,7 +92,7 @@ S V C 名词从句
 I am happy about <u>the fact</u> [that you won the prize].
 名词 同位格，名词从句
 
-在 happy 后面本来有个介词短语 about the fact 修饰它，接下来那个 that 从句（中括弧内）是个名词从句、当作 the fact 的同位格使用。介词短语 about the fact 没有什么明确的内容，而且又和后面的同位格重复，所以整个被省略掉了。
+在 happy 后面本来有个介词短语 about the fact 修饰它，接下来那个 that 从句（中括号内）是个名词从句、当作 the fact 的同位格使用。介词短语 about the fact 没有什么明确的内容，而且又和后面的同位格重复，所以整个被省略掉了。
 
 如果选择要减化 that you won the prize 这个名词从句，就得把原来被省略掉的介词 about 拿出来使用，在 about 后面就有一个宾语位置，可以放个名词进去。有两种放法：
 
@@ -110,7 +110,7 @@ I am happy <u>about</u> <u>your winning the prize</u>.
 S 同位格，名词从句 V C
 (他是无辜的，这点大家看来都应该蛮明显的。)
 
-主要从句的主语 the fact 没什么内容，后面的名词从句（中括弧内）是它的同位格。这个名词从句减化时，因为前面的 the fact 是个空洞无意义的字，应该把 the fact 一并省略掉、把减化的名词从句直接放入主语位置，用字才够精简。减化的做法，可以选择把无意义的 be 动词省略掉，后面的形容词补语 innocent 必须改变词类成为名词的 innocence，然后把原来的主语 he 以所有格 his 的形式安插在限定词位置，如下：
+主要从句的主语 the fact 没什么内容，后面的名词从句（中括号内）是它的同位格。这个名词从句减化时，因为前面的 the fact 是个空洞无意义的字，应该把 the fact 一并省略掉、把减化的名词从句直接放入主语位置，用字才够精简。减化的做法，可以选择把无意义的 be 动词省略掉，后面的形容词补语 innocent 必须改变词类成为名词的 innocence，然后把原来的主语 he 以所有格 his 的形式安插在限定词位置，如下：
 
 [His innocence] <u>should be</u> <u>obvious</u> to all.
 S 减化名词从句 V C
@@ -126,7 +126,7 @@ S 减化名词从句 V C
 S V C 名词从句
 （这个学生担心考试会不及格。）
 
-名词从句（中括弧内的部分）扮演的是同位格的角色，但是前面有个介词短语被省略掉了，还原回去会看得比较清楚：
+名词从句（中括号内的部分）扮演的是同位格的角色，但是前面有个介词短语被省略掉了，还原回去会看得比较清楚：
 
 The student was worried <u>about</u> <u>the possibility</u> [that he couldn’t pass the exam].
 介词 名词 同位格，名词从句
@@ -167,7 +167,7 @@ I’m surprised at <u>there being no index to the book</u>.
 <u>It</u> <u>is</u> <u>important</u> [that one should be honest].
 S V C 名词从句
 
-这个句子，主语位置是个虚字 it，它代表的内容就是后面那个名词从句（中括弧内的部分），所以这个名词从句才是真正的主语。减化的做法是把空洞的主语 one 省略掉、语气助动词 should 减化为表示不定式的 to，再把无意义的连词 that 删掉，成为：
+这个句子，主语位置是个虚字 it，它代表的内容就是后面那个名词从句（中括号内的部分），所以这个名词从句才是真正的主语。减化的做法是把空洞的主语 one 省略掉、语气助动词 should 减化为表示不定式的 to，再把无意义的连词 that 删掉，成为：
 
 <u>It</u> <u>is</u> <u>important</u> [to be honest].
 S V C 减化名词从句
@@ -182,7 +182,7 @@ S 名词从句 V O
 S 名词从句 V O
 (John 如果要出这种任务的话简直是自寻死路。)
 
-句 1 中的名词从句（中括弧内的部分）当主语使用。这个名词从句里面的主语是空洞的 anyone，减化时可以省略。再把语气助动词减化为表示不定式的 to、无意义的连词 that 省略掉，结果如下：
+句 1 中的名词从句（中括号内的部分）当主语使用。这个名词从句里面的主语是空洞的 anyone，减化时可以省略。再把语气助动词减化为表示不定式的 to、无意义的连词 that 省略掉，结果如下：
 
 [To go on such a mission] <u>takes</u> <u>guts</u>.
 S 减化名词从句 V O
@@ -208,7 +208,7 @@ S V C 减化名词从句
 S V C 名词从句
 (他会相信那个故事，真是太傻了。)
 
-主要从句的主语 it 是虚字，它的内容就是后面那个名词从句（中括弧内的部分）。这个名词从句的主语 he 有意义而且不重复，进行减化时必须找地方插它。而像 It was silly … 这种表示「批评」的句型，​​后面的减化从句应该用介词 of 来安插主语而不是用 for，语气助动词 should 同样减化为 to，就会成为：
+主要从句的主语 it 是虚字，它的内容就是后面那个名词从句（中括号内的部分）。这个名词从句的主语 he 有意义而且不重复，进行减化时必须找地方插它。而像 It was silly … 这种表示「批评」的句型，​​后面的减化从句应该用介词 of 来安插主语而不是用 for，语气助动词 should 同样减化为 to，就会成为：
 
 <u>It</u> <u>was</u> <u>silly</u> [of him to believe that story].
 S V C 减化名词从句
@@ -219,7 +219,7 @@ S V C 减化名词从句
 S V O 名词从句
 (要学好滑雪就得花时间。)
 
-主要从句的主语 it 是虚字，代表后面的名词从句（中括弧内的部分）。名词从句中的主语 anybody 是个笼统的字眼，减化时可以省略。再把助动词 can 减化为 to，就成为：
+主要从句的主语 it 是虚字，代表后面的名词从句（中括号内的部分）。名词从句中的主语 anybody 是个笼统的字眼，减化时可以省略。再把助动词 can 减化为 to，就成为：
 
 <u>It</u> <u>takes</u> <u>time</u> [to learn skiing well].
 S V O 减化名词从句
@@ -252,7 +252,7 @@ S V O 副词
 S V O 名词从句
 (我希望下个月能够加薪。)
 
-名词从句（中括弧内的部分）扮演及物动词 hope 的宾语角色。名词从句的主语 I 与主要从句重复，减化时可以省略。再把语气助动词 can 减化为表示不定式的 to、无意义的连词 that 删除掉，就成为：
+名词从句（中括号内的部分）扮演及物动词 hope 的宾语角色。名词从句的主语 I 与主要从句重复，减化时可以省略。再把语气助动词 can 减化为表示不定式的 to、无意义的连词 that 删除掉，就成为：
 
 <u>I</u> <u>hope</u> [to get a raise next month].
 S V O 减化名词从句
@@ -263,7 +263,7 @@ S V O 减化名词从句
 S V O 名词从句
 (我很希望你能跟我一起去听演唱会。)
 
-名词从句（中括弧内的部分）同样扮演宾语角色，不过它的主语 you 不重复，必须设法保留下来。因为主要从句的动词 like 可以用在 S + V + O + C 的句型中，所以可以把名词从句主语 you 安插在宾语位置、动词 can go 减化为 to go 安插在宾语补语位置，如下：
+名词从句（中括号内的部分）同样扮演宾语角色，不过它的主语 you 不重复，必须设法保留下来。因为主要从句的动词 like 可以用在 S + V + O + C 的句型中，所以可以把名词从句主语 you 安插在宾语位置、动词 can go 减化为 to go 安插在宾语补语位置，如下：
 
 <u>I</u> <u>would like</u> <u>you</u> <u>to go to the concert with me</u>.
 S V O C
@@ -274,7 +274,7 @@ S V O C
 S V O C 名词从句
 (我认为我有责任供我女儿读完大学。)
 
-主要从句的宾语 it 是个虚字，它的内容就是后面那个名词从句（中括弧内的部分）。这个名词从句，主语 I 和主要从句重复，减化时可以省略。助动词 should 减化为表示不定式的 to、再把无意义的连词 that 省略掉，结果就是：
+主要从句的宾语 it 是个虚字，它的内容就是后面那个名词从句（中括号内的部分）。这个名词从句，主语 I 和主要从句重复，减化时可以省略。助动词 should 减化为表示不定式的 to、再把无意义的连词 that 省略掉，结果就是：
 
 <u>I</u> <u>consider</u> <u>it</u> <u>my duty</u> [to support my daughter through college].
 S V O C 减化名词从句
@@ -285,7 +285,7 @@ S V O C 减化名词从句
 S V O 名词从句
 (我希望不要出任何错误。)
 
-主要从句的宾语是个名词从句（中括弧内的部分）。这个名词从句本身是个倒装句：主语是 no mistake，动词是 will be，主语补语 there 倒装到句首构成 there is/are 的句型来表示「存在有」。这个名词从句要减化时，必须维持 there is/are 的句型来表示「存在有」，所以只能把助动词 will 减化为表示不定式的 to，无意义的连词 that 删掉、其余保留，结果就是：
+主要从句的宾语是个名词从句（中括号内的部分）。这个名词从句本身是个倒装句：主语是 no mistake，动词是 will be，主语补语 there 倒装到句首构成 there is/are 的句型来表示「存在有」。这个名词从句要减化时，必须维持 there is/are 的句型来表示「存在有」，所以只能把助动词 will 减化为表示不定式的 to，无意义的连词 that 删掉、其余保留，结果就是：
 
 <u>I</u> <u>want</u> [there to be no mistake].
 S V O 减化名词从句
@@ -327,12 +327,12 @@ S V O C
 <u>I</u> <u>don’t want</u> [that I should be sitting here all day].
 S V O 名词从句
 
-名词从句（中括弧内的部分）当中用到现在分词 sitting 来表达进行状态（意思是「一直坐」），动词部分仍然有语气助动词（should）。减化的做法是省略掉重复的主语 I，动词短语 should be 减化为不定式短语 to be，再省略掉连词 that，整个名词从句减化为不定式短语 to be sitting here all day 取代原本的名词从句当宾语使用，结果就是上列第 1 句 I don't want to be sitting here all day。第 2 句则可以还原如下：
+名词从句（中括号内的部分）当中用到现在分词 sitting 来表达进行状态（意思是「一直坐」），动词部分仍然有语气助动词（should）。减化的做法是省略掉重复的主语 I，动词短语 should be 减化为不定式短语 to be，再省略掉连词 that，整个名词从句减化为不定式短语 to be sitting here all day 取代原本的名词从句当宾语使用，结果就是上列第 1 句 I don't want to be sitting here all day。第 2 句则可以还原如下：
 
 <u>I</u> <u>don’t want</u> [that you should be sitting here all day].
 S V O 名词从句
 
-名词从句（中括弧内的部分）当宾语使用，里面用到现在分词（sitting）来表达进行状态。因为这个名词从句的主语是 you，和主要从句并不重复，所以把它安插在宾语位置保留下来。动词短语 should be 仍然减化为不定式短语 to be，放在宾语补语位置（当形容词使用），整个句子变成 S + V + O + C 的句型（I don't want you to be sitting here all day，上列第 2 句）。
+名词从句（中括号内的部分）当宾语使用，里面用到现在分词（sitting）来表达进行状态。因为这个名词从句的主语是 you，和主要从句并不重复，所以把它安插在宾语位置保留下来。动词短语 should be 仍然减化为不定式短语 to be，放在宾语补语位置（当形容词使用），整个句子变成 S + V + O + C 的句型（I don't want you to be sitting here all day，上列第 2 句）。
 
 接下来看看不定式短语配合过去分词（to be Ven）表达被动语态的用法：
 
@@ -340,7 +340,7 @@ S V O 名词从句
 S V O 名词从句
 (我希望这件事情尽快办妥。)
 
-中括弧内的部分是个名词从句，扮演及物动词 want 的宾语角色，里面用到过去分词 done 来表示被动语态（意思是「被做好」）。这个名词从句的主语 this 和主要从句并不重复，可以安插在宾语位置保留下来。动词短语 should be 减化为不定式短语 to be，整个短语 to be done as soon as possible 放在宾语补语位置、当形容词使用，如下：
+中括号内的部分是个名词从句，扮演及物动词 want 的宾语角色，里面用到过去分词 done 来表示被动语态（意思是「被做好」）。这个名词从句的主语 this 和主要从句并不重复，可以安插在宾语位置保留下来。动词短语 should be 减化为不定式短语 to be，整个短语 to be done as soon as possible 放在宾语补语位置、当形容词使用，如下：
 
 <u>I</u> <u>want</u> <u>this</u> <u>to be done as soon as possible</u>.
 S V O C
@@ -351,7 +351,7 @@ S V O C
 S V C 名词从句
 (最佳计画就是我们应该按兵不动。)
 
-主要从句的补语是个名词从句（中括弧内的部分）。这个名词从句的主语是 we，如果上下文够清楚的话可以省略，如果不够清楚则要用介词短语 for us 来安插主语。语气助动词 should 减化为 to，再把连词 that 省掉，结果就是：
+主要从句的补语是个名词从句（中括号内的部分）。这个名词从句的主语是 we，如果上下文够清楚的话可以省略，如果不够清楚则要用介词短语 for us 来安插主语。语气助动词 should 减化为 to，再把连词 that 省掉，结果就是：
 
 <u>The best plan</u> <u>is</u> [to wait].
 S V C 减化名词从句
@@ -362,12 +362,12 @@ S V C 减化名词从句
 S 名词从句 V C
 (他希望的是能够在比赛中拿第一名。​​)
 
-主要从句的主语是名词从句 what he hopes（中括弧内的部分）。这个名词从句本身的主语是复合关系代词 what，可以拆开成为先行词 the thing 与关系代词 that。主要从句的补语部分是个不定式短语（to win First Place in the competition），可以视为名词从句 that he can win First Place in the competition 的减化。整个句子可以把省略与减化的部分还原如下：
+主要从句的主语是名词从句 what he hopes（中括号内的部分）。这个名词从句本身的主语是复合关系代词 what，可以拆开成为先行词 the thing 与关系代词 that。主要从句的补语部分是个不定式短语（to win First Place in the competition），可以视为名词从句 that he can win First Place in the competition 的减化。整个句子可以把省略与减化的部分还原如下：
 
 <u>The thing</u> [that he hopes] <u>is</u> [that he can win First Place in the competition].
 S 关系从句 V C 名词从句
 
-名词从句（第二个中括弧内）的减化方式是省略掉重复的主语 he、助动词 can 减化为表示不定式的 to。
+名词从句（第二个中括号内）的减化方式是省略掉重复的主语 he、助动词 can 减化为表示不定式的 to。
 
 请注意：如果采用的是类似 what one does is (to) V 这种特别的分裂句来强调动词（见第十九章），那么 be 动词后面的补语位置可以用不定式短语、也可以用原形动词。例如：
 
@@ -448,7 +448,7 @@ S V C 名词从句
 S V O O 名词从句
 (我来告诉你该怎么做。)
 
-句中这个名词从句（中括弧内的部分）有两种诠释方式，可以导致两种不同的减化从句结果。如果视句中的 what 为疑问词，那么 what you should do 就是来自 What should I do? 这个疑问句，减化的方式是省略掉主语 you、语气助动词 should 减化为表示不定式的 to，如下：
+句中这个名词从句（中括号内的部分）有两种诠释方式，可以导致两种不同的减化从句结果。如果视句中的 what 为疑问词，那么 what you should do 就是来自 What should I do? 这个疑问句，减化的方式是省略掉主语 you、语气助动词 should 减化为表示不定式的 to，如下：
 
 <u>I</u>’<u>ll tell</u> <u>you</u> [what to do].
 S V O O 减化名词从句
@@ -504,25 +504,25 @@ S V O
 S V O O 减化名词从句
 (我来告诉你该往哪边走。)
 
-句中第二个宾语（中括弧内的部分）是个减化名词从句，可以还原为来自疑问句的名词从句 which way you should go，当中 which 是疑问词。
+句中第二个宾语（中括号内的部分）是个减化名词从句，可以还原为来自疑问句的名词从句 which way you should go，当中 which 是疑问词。
 
 <u>He</u> <u>doesn’t know</u> [when to stop].
 S V O 减化名词从句
 (他不知道何时该罢手。)
 
-句中的宾语（中括弧内的部分）是个减化名词从句，可以还原为来自疑问句的名词从句 when he should stop，当中 when 是疑问词。
+句中的宾语（中括号内的部分）是个减化名词从句，可以还原为来自疑问句的名词从句 when he should stop，当中 when 是疑问词。
 
 [Where to spend the night] <u>is</u> <u>unimportant</u>.
 S 减化名词从句 V C
 (晚上该在哪睡，这个问题并不重要。)
 
-句中的主语（中括弧内的部分）是个减化名词从句，可以还原为来自疑问句的名词从句 where can we spend the night，当中 where 是疑问词。
+句中的主语（中括号内的部分）是个减化名词从句，可以还原为来自疑问句的名词从句 where can we spend the night，当中 where 是疑问词。
 
 Only <u>he</u> <u>knows</u> [how to start the machine].
 S V O 减化名词从句
 (只有他知道这部机器该怎么发动。)
 
-句中的宾语（中括弧内的部分）是个减化名词从句，可以还原为来自疑问句的名词从句 how one can start the machine，当中 how 是疑问词。
+句中的宾语（中括号内的部分）是个减化名词从句，可以还原为来自疑问句的名词从句 how one can start the machine，当中 how 是疑问词。
 
 #### Yes/No Question
 
@@ -532,4 +532,4 @@ S V O 减化名词从句
 S V C
 (是否该继续下去，这个问题得尽快做个决定。)
 
-句中的主语（中括弧内的部分）是个减化名词从句，可以还原为名词从句 whether we should go on or not。这个名词从句来自没有疑问词的疑问句 Should we go on or not?，必须加上 whether 才能变成名词从句。
+句中的主语（中括号内的部分）是个减化名词从句，可以还原为名词从句 whether we should go on or not。这个名词从句来自没有疑问词的疑问句 Should we go on or not?，必须加上 whether 才能变成名词从句。
