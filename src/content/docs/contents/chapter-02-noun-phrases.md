@@ -191,7 +191,7 @@ He’s got some coins in <u>his trouser pocket</u>.
 像 trousers（长裤）、pants（短裤）、glasses（眼镜）、scissors（剪刀）这种名词，英文的习惯是永远采复数形。但是，即便是这种永远采复数形的名词，放在复合名词里面当做形容词使用时，仍然要遵照形容词的用法，也就是要改为单数，如 his trouser pocket。
 
 Have you got <u>a clothes hanger</u> for my jacket?
-（有沒有衣架可以給我掛外套？）
+（有没有衣架可以给我挂外套？）
 
 名词短语 a clothes hanger（衣架）中间的形容词位置本来是不容许有复数的，但是如果把 clothes 改为单数，成为 a cloth hanger，意思会变成（布架）。碰到这种情况，名词短语中间的形容词位置就必须采复数形了，否则意思会弄错。
 
@@ -336,7 +336,7 @@ I want <u>these</u>.
 | any | trouble | 任何麻烦 |
 | either | bank | 两家银行之中隨便哪一家 |
 | no | problem | 没有问题 |
-| neither | boy | 两个男孩之中沒有一個 |
+| neither | boy | 两个男孩之中没有一個 |
 | every | student | 每一个学生 |
 | each | worker | 每一位工人 |
 | my | home | 我家 |

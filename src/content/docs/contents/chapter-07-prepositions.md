@@ -121,24 +121,24 @@ Your team is next; please <u>stand by</u>.
 How did this all <u>come about</u>?
 （這件事是怎麼發生的？）
 
-不及物的片語動词，後面當然不會有宾语。
+不及物的短语动词，后面当然不会有宾语。
 
 #### fall off 下跌
 
 Business <u>has fallen off</u> badly since the SARS epidemic.
-（自從 SARS 疫情以來，生意慘跌。）
+（自從 SARS 疫情以來，生意惨跌。）
 
 #### go off 爆炸
 
 The bomb <u>went off</u> in the middle of the night.
-（炸彈半夜爆炸了。）
+（炸弹半夜爆炸了。）
 
-#### turn up 出現，出席
+#### turn up 出现，出席
 
 The meeting was postponed because too few people <u>turned up</u>.
-（會議延期了，因為出席的人太少。）
+（会议延期了，因为出席的人太少。）
 
-### 三、及物动词、可以拆开（宾语可放在短语后面、也可开放在中间）
+### 三、及物动词、可以拆开（宾语可放在短语后面、也可放在中间）
 
 #### bring up 抚养长大
 
