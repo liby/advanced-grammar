@@ -150,17 +150,17 @@ S V O C
 
 下面这些例子，画底线部分分别是宾语（O）与补语（C）。请读者试试看，拿宾语出来当主词、中间加个 be 动词，后面的补语就变成主词补语。结果将是上一节列出的那些 S + V + C 的句子。
 
-I find <u>the purse</u> <u>pretty</u>. （我觉得这个包包很漂亮。）
-The tip made <u>the question</u> <u>easy</u>. （因为有提示，所以问题变得很容易。）
-I consider <u>the man</u> <u>quite a gentleman</u>. （我认为此是个十足的绅士。）
-The boss found <u>your suggestion</u> <u>exciting</u>. （老板觉得你的提议很刺激。）
-The bus ride made <u>the woman</u> <u>dizzy</u>. （搭巴士让这个女人感觉头晕。）
-I find <u>the wine</u> <u>sweet</u>. （我觉得酒有甜味。 ）
-The man’s poverty kept <u>him</u> <u>single</u>. （此人的贫穷使他继续保持单身。）
-The victory made <u>the player</u> <u>professional</u>. (这场胜历史这位球员转入职业。)
-The doctor proclaimed <u>the drug</u> <u>effective</u>. （医生宣称这种药有效。）
-The hit movie made <u>the actor</u> <u>a big star</u>. （这部轰动的电影使这位演员成了大明星。 ）
-Most people consider <u>a school teacher</u> <u>a good wife</u>. （大多数人认为小学老师是理想的太太。 ）
+- I find <u>the purse</u> <u>pretty</u>. （我觉得这个包包很漂亮。）
+- The tip made <u>the question</u> <u>easy</u>. （因为有提示，所以问题变得很容易。）
+- I consider <u>the man</u> <u>quite a gentleman</u>. （我认为此是个十足的绅士。）
+- The boss found <u>your suggestion</u> <u>exciting</u>. （老板觉得你的提议很刺激。）
+- The bus ride made <u>the woman</u> <u>dizzy</u>. （搭巴士让这个女人感觉头晕。）
+- I find <u>the wine</u> <u>sweet</u>. （我觉得酒有甜味。 ）
+- The man’s poverty kept <u>him</u> <u>single</u>. （此人的贫穷使他继续保持单身。）
+- The victory made <u>the player</u> <u>professional</u>. (这场胜历史这位球员转入职业。)
+- The doctor proclaimed <u>the drug</u> <u>effective</u>. （医生宣称这种药有效。）
+- The hit movie made <u>the actor</u> <u>a big star</u>. （这部轰动的电影使这位演员成了大明星。 ）
+- Most people consider <u>a school teacher</u> <u>a good wife</u>. （大多数人认为小学老师是理想的太太。 ）
 
 ## 补语的词类
 
@@ -275,12 +275,12 @@ S V O O
 
 再看一个例子：
 
-The man called the cat “Fatty”.
+The man called the cat "Fatty".
 （此人叫这只猫「胖子」。​​）
 
 这也是四个元素的句型，第四个元素 Fatty 是个专有名词。它是补语还是第二个宾语？可以在中间加个 be 动词来检验：The cat was Fatty.，意思和原句差不多，所以 Fatty 就是宾语补足语，如下：
 
-<u>The man</u> <u>called</u> <u>the cat</u> <u>“Fatty”</u>.
+<u>The man</u> <u>called</u> <u>the cat</u> <u>"Fatty"</u>.
 S V O C
 
 如果在主词、动词、宾语后面还有个形容词，这个形容词应该是宾语补足语，句型是 S + V + O + C。如果在主词、动词、宾语后面还有个名词，这个名词可能是第二个宾语、也可能是宾语补足语。可以把第三、第四个元素拿出来、中间加个 be 动词来检验：意思相同的话就是 S + V + O + C，否则就是 S + V + O + O 的句型。
