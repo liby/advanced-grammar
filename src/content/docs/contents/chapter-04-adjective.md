@@ -2,11 +2,15 @@
 title: 第四章 形容词
 ---
 
-形容词是用来修饰名词专用的词类。要和名词发生关系，形容词有两种主要的位​​置可以使用：1\. 名词短语中；2\. 补语位置（主词补语与宾语补足语）。放在名词短语中的形容词称为 attributive adjectives，具有界定这个名词**特质（attribute）**&#8203;的功能。放在补语位置的形容词则称为 predicative adjectives，只是用来对名词进行**叙述（predication）**&#8203;的。例如：
+形容词是用来修饰名词专用的词类。要和名词发生关系，形容词有两种主要的位​​置可以使用：
+  1. 名词短语中
+  2. 补语位置（主词补语与宾语补足语）
 
-Mr. Wang, my boss, is <u>a busy man</u>.
+放在名词短语中的形容词称为 attributive adjectives，具有界定这个名词**特质（attribute）**&#8203;的功能。放在补语位置的形容词则称为 predicative adjectives，只是用来对名词进行**叙述（predication）**&#8203;的。例如：
 
-<u>The man</u> is <u>busy</u> today.
+  1. Mr. Wang, my boss, is <u>a busy man</u>.
+
+  2. <u>The man</u> is <u>busy</u> today.
 
 第 1 句的 busy 用在名词片語 a busy man 當中，這個 busy 稱為 attributive adjective，點出「忙碌」是此人的一項特質。換句話說：這是個「大忙人」，每天都很忙。反之，第 2 句用在補語位置的 busy 則是 predicative adjective，只是對此人做這樣一句敘述：他今天很忙、沒空。或許忙過今天之後，明天以後都很空也說不一定。所以，同樣一個形容词 busy，放在兩種不同位置來修飾名词 man，收到的是兩種不同的效果。
 
