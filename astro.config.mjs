@@ -22,6 +22,9 @@ export default defineConfig({
       ],
     }),
   ],
+  image: {
+    domains: ["raw.githubusercontent.com"],
+  },
   redirects: {
     '/': '/contents/01-introduction/'
   }
