@@ -53,7 +53,7 @@ title: 第二章 名词短语
 - my money 我的钱
 - the water 这些水
 
-### 一．可数名词
+### 一、可数名词
 
 可数名词主要有两大类：
 
@@ -75,7 +75,7 @@ title: 第二章 名词短语
 - an hour 一小时
 - 15 cents 十五美分
 
-### 二．不可数名词
+### 二、不可数名词
 
 不可数名词可以分成四类，如下。
 
@@ -293,7 +293,7 @@ I want <u>these</u>.
 | half | your | twenty | expensive | houses | 你那二十栋豪宅的半数 |
 | both | the | first | heroic | explorers | 第一批两位英雄探险家都在内 |
 
-### 一．前位限定词
+### 一、前位限定词
 
 在限定词中排第一顺位的称为前位限定词。与中位限定词共同使用时，前位限定词一定要放在前面。包括 all, both, half, one-third, one-fifth, double, twice, three times, such 等等都属于前位限定词。例如：
 
@@ -307,7 +307,7 @@ I want <u>these</u>.
 | one-third | the | time | 时间的三分之一 |
 | such | a | surprise | 这么大的惊喜 |
 
-### 二．后位限定词
+### 二、后位限定词
 
 后位限定词用在名词短语中要排在后面的顺位。如果和前位限定词或中位限定词共同使用时，后位限定词一定要放在最后面（当然，它的位置仍然在形容词的前面）。后位限定词包括所有的数目字（three, 200）、序数（first, second, 300th, last），以及表示「多、少」的 many, much, little, few 等等。例如：
 
@@ -319,7 +319,7 @@ I want <u>these</u>.
 | a | few | people | 少数几个人 |
 | those | many | difficulties | 为数众多的那些问题 |
 
-### 三．中位限定词
+### 三、中位限定词
 
 限定词当中出现频率最高的是中位限定词，包括冠词（a, an, the 以及零冠词）、指示限定词（this, that, these, those）、不定限定词（some, any, either）、否定限定词（no, neither）、全称限定词（every, each）与所有格（my, your, John's）等等都属于中位限定词。例如：
 
@@ -354,7 +354,7 @@ I want <u>these</u>.
 
 名词短语的构造具有「限定词+ 形容词+ 名词」这三个位置。其中「限定词」的位置与「名词」的位置都可以分别再装一个名词短语进去。以下分别介绍。
 
-### 一．限定词位置的名词短语
+### 一、限定词位置的名词短语
 
 看看下面这个名词短语的例子：
 
@@ -370,7 +370,7 @@ I want <u>these</u>.
 
 这几个名词短语也是一样，分别都有另外一个名词短语（the school, a man, my father）以所有格的形态躲在限定词的位置。
 
-### 二．名词位置的名词短语
+### 二、名词位置的名词短语
 
 名词短语末尾的名词位置，也可以塞一个完整的名词短语进去。例如：
 
@@ -439,7 +439,7 @@ Today I interviewed for <u>no fewer than four jobs</u>, but didn’t get any def
 
 以使用频率而言，最常看到的限定词就是冠词（属于中位限定词），可分为不定冠词 a 或 an、定冠词 the，以及零冠词。这也是英文写作最容易出错的地方之一：有时该加冠词的地方没有加、有时该用 a 或 an 却用上了 the 之类。以下就三种冠词分别探讨。
 
-### 一.不定冠词 a 或 an
+### 一、不定冠词 a 或 an
 
 要了解不定冠词 a 或 an 的用法，不妨从这个观察切入：a 或 an 就是 one 的弱化结果。事实上，a 或 an 是中古英文，来源就出自古英文中表示 one 的古字。
 
@@ -450,7 +450,7 @@ Today I interviewed for <u>no fewer than four jobs</u>, but didn’t get any def
 
 在名词短语 black-faced spoonbills 中，只有形容词(black-faced)和名词(spoonbills)两个部分，看不到限定词。这是因为名词位置的 spoonbills 是复数，前面限定词位置自然不能再说 one，也就是不能加 a 这个不定冠词。这时就可以选择把限定词位置空下来（称为零冠词）。反之，在 a bird 这样名词短语中，名词 bird 是单数，而且是可数名词，可以说「一只」（one），因此需要有冠词 a。
 
-### 二. 零冠词
+### 二、零冠词
 
 语法学家创造出**零冠词(the zero article)**&#8203;这个观念,主要是为了便于诠释名词短语,同时也可以提醒使用者在写名词短语的时候不要忘了加限定词。
 
@@ -478,7 +478,7 @@ Today I interviewed for <u>no fewer than four jobs</u>, but didn’t get any def
 
 这个句子里的 air 是正确的名词短语，采用了零冠词（air 是抽象名词，不必作单复数的表示）。另外，people 也是正确的名词短语，因为它是复数的「人们」，已经做了复数的表示，所以前面采用零冠词。 写作时为了避免名词短语的错误，应该养成习惯：英文句子中的名词一定以名词短语的形状出现，也就是必须有限定词，包括零冠词。
 
-### 三．定冠词 the
+### 三、定冠词 the
 
 定冠词 the 也是中古英文，来自古英文中表示 that 的字。所以，要了解 the 的用法可以由这个观察切入：the 是 that 或 those 的弱化，在可以用 that 或 those 的地方才可以用 the。 That 或 those 也是限定词的一种，或称「指示形容词」。凡是可以用 that 或 those 的地方都具有指示性，也就是指出是「那个」或「那些」。因为 the 是 that 或 those 的弱化，所以凡是可以用 the 的地方，不论是明指还是暗示，也都具有指示性。例如：
 

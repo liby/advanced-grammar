@@ -703,7 +703,7 @@ V 简化副词字句
 
 ## 简化从句练习
 
-### 一．请将以下之简化从句还原为限定从句
+### 一、请将以下之简化从句还原为限定从句
 
 1, That villa <u>being auctioned now</u> used to be a hotel.
 （那栋正在拍卖的别墅本来是旅馆。）
@@ -748,7 +748,7 @@ The museum, <u>because it has been renovated twice</u>, is much larger and has a
 
 <u>When they had received instructions</u>, the agents went on their different ways.
 
-### 二．请将以下各句中的从属从句简化
+### 二、请将以下各句中的从属从句简化
 
 1, <u>Because the window was wide open</u>, rain spilled all over the floor.
 （因为窗户大开，雨洒了一地。）

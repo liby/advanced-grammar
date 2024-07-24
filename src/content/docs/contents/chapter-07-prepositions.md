@@ -85,7 +85,7 @@ S V 介词短语
 
 短语动词可分成及物动词与不及物动词，而及物动词中又可分成可以拆开的短语动词和不可拆开的短语动词。所以短语动词大致可以分成以下几种。
 
-### 一．及物动词、不可拆开（宾语必须放在短语后面）
+### 一、及物动词、不可拆开（宾语必须放在短语后面）
 
 #### get over 康复，痊愈
 
@@ -114,7 +114,7 @@ Don’t worry; I’ll <u>stand by you</u>.
 Your team is next; please <u>stand by</u>.
 （下一个轮到你们这队了，请准备。）
 
-### 二．不及物动词
+### 二、不及物动词
 
 #### come about 發生
 
@@ -138,7 +138,7 @@ The bomb <u>went off</u> in the middle of the night.
 The meeting was postponed because too few people <u>turned up</u>.
 （會議延期了，因為出席的人太少。）
 
-### 三．及物动词、可以拆开（宾语可放在短语后面、也可开放在中间）
+### 三、及物动词、可以拆开（宾语可放在短语后面、也可开放在中间）
 
 #### bring up 抚养长大
 
@@ -175,7 +175,7 @@ He <u>made it up</u>.
 He and his separated wife finally <u>made up</u>.
 （他和分居的老婆终于合好了。）
 
-### 四．三个字以上的短语动词，及物、不可拆开（宾语应放在后面）
+### 四、三个字以上的短语动词，及物、不可拆开（宾语应放在后面）
 
 #### catch up with 赶上
 
