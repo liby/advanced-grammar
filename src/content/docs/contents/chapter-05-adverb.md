@@ -284,12 +284,12 @@ He is short, however, he plays basketball well. (误)
 Were you <u>in</u> last night?
 (昨晚你在家吗？)
 
-介副词 in 当主词补语使用，修饰主词 you。
+介副词 in 当主语补足语使用，修饰主词 you。
 
 Time is <u>up</u>.
 (时间到！)
 
-介副词 up 当主词补语使用，修饰主词 time。
+介副词 up 当主语补足语使用，修饰主词 time。
 
 Don’t look <u>down</u>.
 (别往下看！)
@@ -330,17 +330,17 @@ He <u>had</u> an accident <u>there yesterday</u>.
 
 ### 可以当补语的副词
 
-补语（包括主词补语和宾语补足语）最常见的词类是名词和形容词。但是时间副词、地方副词与介副词也都可以当补语使用。例如：
+补语（包括主语补足语和宾语补足语）最常见的词类是名词和形容词。但是时间副词、地方副词与介副词也都可以当补语使用。例如：
 
 The exam is <u>only one week away</u>. It's <u>next Friday</u>.
 （考试只剩一周就到了，在下周五。）
 
-时间副词短语 only one week away 和 next Friday 分别在这两个句子中担任主词补语角色。
+时间副词短语 only one week away 和 next Friday 分别在这两个句子中担任主语补足语角色。
 
 The police is <u>here</u>. Something’s <u>up</u>.
 （警察来了。一定有事。）
 
-地方副词 here 和介副词 up 分别在这两个句子中担任主词补语角色。
+地方副词 here 和介副词 up 分别在这两个句子中担任主语补足语角色。
 
 ## 副词种类与位置的比较
 
@@ -429,7 +429,7 @@ The enemy is advancing. <u>Stand</u> <u>firm</u>.
 V C
 （敌人推进了。大家稳着点。）
 
-这个句子的意思也不是叫大家「用力站」，而是要「稳住」。句型是 S + V + C，形容​​词 firm 是主词补语，修饰的对像是命令句省略掉的主词 you。
+这个句子的意思也不是叫大家「用力站」，而是要「稳住」。句型是 S + V + C，形容​​词 firm 是主语补足语，修饰的对像是命令句省略掉的主词 you。
 
 再看看 clean/cleanly 的例子：
 

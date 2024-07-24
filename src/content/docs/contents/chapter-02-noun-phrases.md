@@ -510,7 +510,7 @@ John is <u>a very tall player</u>, but he's not <u>the tallest player</u> on the
 Mangoes are <u>most expensive</u> in early summer, when they first come out.
 （芒果在初夏最贵，那是刚上市的时候。）
 
-上句中的 most expensive 就是形容词 expensive 的最高级，但就是没有加 the。因为：这个形容词并非放在名词短语中，而是放在主词补语位置。定冠词 the 属于限定词的一种，应该和名词共同出现，除非是省略掉名词（如上文提过的 the rich, the poor, the new, the unknown 等等）。像上句中的情况，most expensive 是个纯粹的形容词补语，修饰主词 mangoes。因为形容词后面根本没有名词，当然也就不会有要加冠词 the 的问题。
+上句中的 most expensive 就是形容词 expensive 的最高级，但就是没有加 the。因为：这个形容词并非放在名词短语中，而是放在主语补足语位置。定冠词 the 属于限定词的一种，应该和名词共同出现，除非是省略掉名词（如上文提过的 the rich, the poor, the new, the unknown 等等）。像上句中的情况，most expensive 是个纯粹的形容词补语，修饰主词 mangoes。因为形容词后面根本没有名词，当然也就不会有要加冠词 the 的问题。
 
 不过，刚才那个句子，如果这样说也是可以接受的：
 
@@ -618,7 +618,7 @@ This is not <u>the Chicago</u> I remember.
 
 反之，有时候也可以把普通名词当做专有名词使用、前面不加冠词。例如放在补语位置的普通名词，如果符合一些特定条件，就可以视同专有名词看待，也就是前面不加限定词。
 
-这个问题可以从下面这个角度来理解。以主词补语为例，因为补语和主词之间具有全等关系，如果主词是个专有名词（例如人名），那么它的补语既然和它全等，便也可以视同专有名词看待。但是还要符合一个条件：在补语位置的这个名词必须符合专有名词「只有一个」的特性，才能够把它视同专有名词使用。例如：
+这个问题可以从下面这个角度来理解。以主语补足语为例，因为补语和主词之间具有全等关系，如果主词是个专有名词（例如人名），那么它的补语既然和它全等，便也可以视同专有名词看待。但是还要符合一个条件：在补语位置的这个名词必须符合专有名词「只有一个」的特性，才能够把它视同专有名词使用。例如：
 
 <u>Bill Gates</u> <u>is</u> <u>Chairman</u> of Microsoft.
 S V C
@@ -640,7 +640,7 @@ S V C
 S V C
 （比尔盖兹也是比尔与梅琳达盖兹基金会的一名信托人。）
 
-这个句子的主词补语 trustee 仍然和当主词的专有名词 Bill Gates 全等，似乎也可以把它当作专有名词看待。但是，「比尔与梅琳达盖兹基金会」有三名信托人：比尔盖兹、夫人梅琳达盖兹，以及股神华伦巴菲特。所以，这个补语 trustee 并不符合专有名词「只有一个」的要求、不能视同专有名词看待。因此还是要加上限定词成为 a trustee「一名信托人」。
+这个句子的主语补足语 trustee 仍然和当主词的专有名词 Bill Gates 全等，似乎也可以把它当作专有名词看待。但是，「比尔与梅琳达盖兹基金会」有三名信托人：比尔盖兹、夫人梅琳达盖兹，以及股神华伦巴菲特。所以，这个补语 trustee 并不符合专有名词「只有一个」的要求、不能视同专有名词看待。因此还是要加上限定词成为 a trustee「一名信托人」。
 
 ### 同位格位置
 
@@ -649,11 +649,11 @@ S V C
 Ban Ki-moon, <u>Secretary General of the UN</u>, is a very powerful man.
 （潘基文，联合国秘书长，是个很有权势的人。）
 
-句中的 Secretary General of the UN 一般称为同位格，其实就是 who is Secretary General of the UN 这个形容词子句的简化。其中 who 代表 Ban Ki-moon，而 Secretary General 则是主词补语，和 Ban Ki-moon 是全等关系，而且符合专有名词「只有一个」的条件，所以可以选择视同专有名词处理，不加限定词。
+句中的 Secretary General of the UN 一般称为同位格，其实就是 who is Secretary General of the UN 这个形容词子句的简化。其中 who 代表 Ban Ki-moon，而 Secretary General 则是主语补足语，和 Ban Ki-moon 是全等关系，而且符合专有名词「只有一个」的条件，所以可以选择视同专有名词处理，不加限定词。
 
 ### 宾语补足语位置
 
-主词补语位置要注意该补语是否为专有名词，宾语补足语位置也是一样。例如：
+主语补足语位置要注意该补语是否为专有名词，宾语补足语位置也是一样。例如：
 
 <u>Queen Elizabeth</u> <u>made</u> <u>Charles</u> <u>Prince of Wales</u>.
 S V O C

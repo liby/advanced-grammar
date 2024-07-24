@@ -8,7 +8,7 @@ title: 第七章 介词
 名词 介词短语
 （公司有困难了。）
 
-介词短语 in trouble 当形容词使用，在句中充当主词补语、修饰主词 the company（名词）。
+介词短语 in trouble 当形容词使用，在句中充当主语补足语、修饰主词 the company（名词）。
 
 I <u>leave</u> <u>for Hong Kong</u> tomorrow.
 动词 介词短语

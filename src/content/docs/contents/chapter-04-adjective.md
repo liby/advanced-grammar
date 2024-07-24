@@ -4,7 +4,7 @@ title: 第四章 形容词
 
 形容词是用来修饰名词专用的词类。要和名词发生关系，形容词有两种主要的位​​置可以使用：
   1. 名词短语中
-  2. 补语位置（主词补语与宾语补足语）
+  2. 补语位置（主语补足语与宾语补足语）
 
 放在名词短语中的形容词称为 attributive adjectives，具有界定这个名词**特质（attribute）**&#8203;的功能。放在补语位置的形容词则称为 predicative adjectives，只是用来对名词进行**叙述（predication）**&#8203;的。例如：
 
@@ -223,7 +223,7 @@ time immemorial     久远以前
 S V C
 （这些花闻起来很香。）
 
-上句中的 sweet 是个形容词单字，放在主词补语位置、修饰主词 these flowers.
+上句中的 sweet 是个形容词单字，放在主语补足语位置、修饰主词 these flowers.
 
 <u>The boss</u> <u>kept</u> <u>us</u> <u>busy</u>.
 S V O C
@@ -235,7 +235,7 @@ S V O C
 S V C
 （那栋大楼有18层高。）
 
-形容词短语 18 stories tall 放在主词补语位置、修饰主词 that building。请注意：形容词短语中可以包含复数名词，所以 18 stories 用的是复数。
+形容词短语 18 stories tall 放在主语补足语位置、修饰主词 that building。请注意：形容词短语中可以包含复数名词，所以 18 stories 用的是复数。
 
 <u>I</u> <u>saw</u> <u>the dog</u> <u>crossing the street</u>.
 S V O C
@@ -253,7 +253,7 @@ S V C
 
 上句中那个 a- 开头的形容词 asleep，来自古英文的介系词短语 on sleep，所以不适合放在名词短语中，只能当作后位修饰语、或者放在补语位置使用。接下来几个例子的性质都相同，请读者自行揣摩。
 
-### 主词补语：
+### 主语补足语：
 
 <u>The kid</u> <u>looks</u> <u>afraid</u>.
 S V C
