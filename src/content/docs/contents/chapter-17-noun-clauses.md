@@ -9,7 +9,7 @@ title: 第十七章 名词从句
 Chicago is a <u>grain-shipping</u> center.
 
 Chicago is a center <u>that ships grain</u>. 形容词从句
-（ 芝加哥是谷物转运中心。）]
+（芝加哥是谷物转运中心。）]
 
 第 1 句是个简单句，名词短语 a grain-shipping center 中有个复合词的形容词 grain-shipping 修饰后面的名词 center。第 2 句则是复杂句，其中的主要从句是 Chicago is a center。后面经由关系词 that 的引导，放进一个形容词从句 that ships grain 用来修饰前面的名词短语 a center。这个形容词从句扮演的角色和第1句中的形容词复合词 grain-shipping 相同。
 
@@ -126,7 +126,7 @@ S 名词从句 V C
 
 例如：
 
-The manager hinted <u>at</u> <u>whether he would sign the contract</u>. 介词 名词从句 （经理暗示了一下他是否要签署合约。）
+The manager hinted <u>at</u> <u>whether he would sign the contract</u>. 介词 名词从句（经理暗示了一下他是否要签署合约。）
 
 这个复杂句中有个介词 at，它后面的宾语位置可以放由 whether 引导的名词从句，但是这个位置不能用 if，否则就是语法错误。
 
@@ -156,7 +156,7 @@ S 名词从句 V C
 
 放在句首主语位置的 that 从句，连词 that 不能省略，因为如果省掉的话，读者看到的是这样一个句子：
 
-The suspect has a strong alibi is an undeniable fact. （误）
+The suspect has a strong alibi is an undeniable fact.（误）
 
 所谓「先入为主」，读者阅读这句话的印象是 the suspect 就是主语、has 是动词、a strong alibi 是宾语，到这里都没有问题。但是接下来读者又看到一个动词 is，就会无法判断这个句子的句型与意思。所以，从属连词 that 引导的名词从句放在句首主语位置时，连词 that 不得省略。
 

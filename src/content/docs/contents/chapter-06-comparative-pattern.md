@@ -153,15 +153,15 @@ S V C
 
 <u>Yellowstone</u> <u>is</u> <u>most crowded</u> in summer.
 S V C
-（ 夏天黄石公园的人潮最多。）
+（夏天黄石公园的人潮最多。）
 
 形容词 crowded 在这两个句子中都是补语位置的 predicative adjectives，用来形容主词 Yellowstone。这个位置的形容词因为不出现在名词短语中，自然不必加冠词。再看下例：
 
 Yellowstone is <u>a crowded scenic spot</u>.
-（ 黄石公园是人潮汹涌的风景区。）
+（黄石公园是人潮汹涌的风景区。）
 
 Yellowstone is <u>the most crowded</u> of the state's scenic spots.
-（ 黄石公园是这一州的风景区当中人潮最多的。）
+（黄石公园是这一州的风景区当中人潮最多的。）
 
 第 1 句中的补语是名词短语 a crowded scenic spot，形容词 crowded 位于名词短语中。第 2 句中 the most crowded 之后虽没有名词，可是有介系词短语 of the state's scenic spots（在该州各风景区之中）跟在后面，因而可以看出来它是 the most crowded one 的省略，形容词 most crowded 出现于名词短语 the one 的中间，「在该州各风景区之中最拥挤的『那个』（风景区）」。在一个特定的范围中指出「最……」的一个，具有明确的指示功能，因而需要定冠词 the。这种「指示性」才是要加定冠词的真正原因。
 
@@ -191,7 +191,7 @@ Of all my students, John studies <u>(the) hardest</u>.
 
 比较级的句子要求对称工整，包括比较的对象在内也要对称。亦即，「谁和谁比」不能搞错。例如：
 
-<u>My car</u> is bigger than <u>you</u>. （误）
+<u>My car</u> is bigger than <u>you</u>.（误）
 
 这句话就讲不通。我的车怎么拿来和你的人相比呢？应该这样说才对称：
 
@@ -208,7 +208,7 @@ Of all my students, John studies <u>(the) hardest</u>.
 
 比较的双方必须平行对称，这在英文写作中是相当严格的要求，也是最容易出错的地方之一。例如：
 
-<u>Prices of papayas in Thailand</u>, where the fruit is produced in abundance, are much lower than <u>England</u>, where it must be imported. （不佳）
+<u>Prices of papayas in Thailand</u>, where the fruit is produced in abundance, are much lower than <u>England</u>, where it must be imported.（不佳）
 （泰国木瓜的价钱——此地盛产木瓜——比英国低得多，英国的木瓜必须靠进口。）
 
 这个句子乍看之下好像没​​有问题。但是仔细分析就会发现：这个句子比较的是 prices「价钱」与 England「英国」，这两个不对称的概念无法相比。比较级的句子如果有任何问题、没有把握对不对，最好先还原成两个平行对称、没有省略的子句来看：
@@ -229,7 +229,7 @@ Of all my students, John studies <u>(the) hardest</u>.
 
 但是，如果连 in 都省略掉，读者可能误以为这个句子是 prices 和 England 在比较，那就是不好的句子。再看一个例子：
 
-<u>Video games developed by this project team</u> are more exciting than <u>they are by any other team in this company</u>. （误）
+<u>Video games developed by this project team</u> are more exciting than <u>they are by any other team in this company</u>.（误）
 （这个专案小组研发的电玩，比这家公司其他团队的都更加刺激。）
 
 这个句子主要的错误在于副词子句中不该使用人称代词 they。先把这个比较句法还原如下：
@@ -248,18 +248,18 @@ Of all my students, John studies <u>(the) hardest</u>.
 
 除了前述「大于、小于、等于」的比较句法之外，英文当中凡是拿两样东西来相比，都应该注意平行对称的要求。例如：
 
-Compared with <u>the high crime rates</u> of New York, <u>Beijing residents</u> live in a much safer environment. （不佳）
+Compared with <u>the high crime rates</u> of New York, <u>Beijing residents</u> live in a much safer environment.（不佳）
 （比起纽约的高犯罪率，北​​京居民生活在安全得多的环境中。）
 
 这个句子里面虽然没有形容词或副词的比较级，但是仍然在做比较、也就仍然要注意平行对称的要求。句中比较的双方，一个是 the high crime rates「高犯罪率」、一个是 Beijing residents「北京居民」，两者并不对称、无法相比。可分别修改如下：
 
-Compared with <u>the high crime rates of New York</u>, <u>those</u> of Beijing are much lower. （比起纽约的高犯罪率，北​​京的就低得多了。）
+Compared with <u>the high crime rates of New York</u>, <u>those</u> of Beijing are much lower.（比起纽约的高犯罪率，北​​京的就低得多了。）
 
-Compared with <u>residents of New York</u>, where crime rates are high, <u>Beijing residents</u> live in a much safer environment. （比起纽约居民——那里的犯罪率相当高——北京居民生活在安全得多的环境中。）
+Compared with <u>residents of New York</u>, where crime rates are high, <u>Beijing residents</u> live in a much safer environment.（比起纽约居民——那里的犯罪率相当高——北京居民生活在安全得多的环境中。）
 
 这两种讲法，前者是以犯罪率和犯罪率相比（用 those 避免重复）、后者是以居民和居民相比，都符合英文比较句法的平行对称要求。再看一个例子：
 
-Like <u>Shakespeare</u>, <u>Keats' poetry</u> is a true reflection of life. （不佳） （和莎士比亚一样，济慈的诗也相当真实地反映人生。）
+Like <u>Shakespeare</u>, <u>Keats' poetry</u> is a true reflection of life.（不佳）（和莎士比亚一样，济慈的诗也相当真实地反映人生。）
 
 这个句子当中也没有比较级，只是用介系词 like 来表示「相像」。这也构成一种比较、也就必须顾虑比较对象的平行对称要求。句中是拿 Shakespeare 这个「人」和 Keats' poetry 这个「物」互相比较，并不符合平行对称要求。可修改如下：
 
@@ -275,7 +275,7 @@ Like <u>Shakespeare's</u>, <u>Keats' poetry</u> is a true reflection of life.
 
 如前所述，比较级的句子虽然是从属子句，但是有些地方很像对等子句，例如它与主要子句重复的元素可以选择省略。但是，省略要以「够清楚」为限，不能过度省略而伤害到清楚性。尤其要注意的是：不能造成有两种解释、模棱两可的结果。例如：
 
-These restaurateurs do more business with tourists than local farmers. （不佳）
+These restaurateurs do more business with tourists than local farmers.（不佳）
 
 这个句子的问题在于：local farmers 是跟 restaurateurs 比、还是跟 tourists 比，并没有交代清楚。这两种比较的情况是不一样的。如果是跟 restaurateurs 比，可以从下面这个句切入：
 
@@ -298,7 +298,7 @@ S V O
 
 右边 than 子句中的动词 do 与主要子句的动词也是重复。因为比较句法具有类似对等子句的特色，本来可以选择把重复的动词省略掉的，但是如果再省略掉句尾的 do，成为先前那个句子：
 
-<u>These restaurateurs do more business with tourists</u> than <u>local farmers</u>. （不佳）
+<u>These restaurateurs do more business with tourists</u> than <u>local farmers</u>.（不佳）
 
 句意会变成不清楚，因为 local farmers 这时候可以有 these restaurateurs 与 tourists 这两个可能的比较对象，就会变成模棱两可。所以句尾的动词 do 不宜省略。必须留下 do，读者才知道 local farmers 是主词、也才知道它的比较对像是主要子句的主词 these restaurateurs。
 
@@ -333,7 +333,7 @@ These restaurateurs do more business <u>with tourists</u> than <u>with local far
 
 比较句法除了经常会省略之外，有时还可以选择倒装。倒装的目的，主要是为了增加清楚性。例如：
 
-<u>Manual laborers</u> are more strongly opposed to <u>immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country. （不佳）
+<u>Manual laborers</u> are more strongly opposed to <u>immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.（不佳）
 
 这个句子不清楚，主要是因为从属子句中的 white-collar workers 看不出来是主词还是宾语，所以它有可能和主要子句的主词 manual laborers 相比、也有可能和宾语 immigrants 相比，是个模棱两可、并不清楚的比较。如果 white-collar workers 比较的对像是宾语 immigrants，那么这个比较句法可以从下面这两句切入：
 
@@ -382,7 +382,7 @@ S V C
 
 其实，从属子句中的动词 are 也和主要子句的动词重复，本来是可以省略的。但是，必须把动词 are 留下来，读者才知道 white-collar workers 是从属子句的主词、也才知道 white-collar workers 的比较对像是主要子句的主词 manual laborers。如果把重复的动词 are 省掉，会变成这样：
 
-<u>Manual laborers</u> are more strongly opposed to <u>immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country. （不佳）
+<u>Manual laborers</u> are more strongly opposed to <u>immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.（不佳）
 
 这又回复到刚才那个句意不清的句子。读者无从判断 white-collar workers 是主词还是宾语、也就无从判断它的比较对像是主要子句的主词 manual laborers 还是宾语 immigrants。 为了排除这种模棱两可的情况，必须把 are 留下来才够清楚，如下：
 

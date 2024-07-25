@@ -74,7 +74,7 @@ S V O
 
 这时候应该把 turned on 当一个动词来看（称为短语动词），后面的 the light 是动词 turned on 的宾语。因为，如果第 2 句仍然采用第 1 句的句型来诠释，成为：
 
-<u>The man</u> <u>turned</u> <u>on the light</u>. （误）
+<u>The man</u> <u>turned</u> <u>on the light</u>.（误）
 S V 介词短语
 
 那么，介系词短语 on the light 是个地方副词（在灯上），用来修饰动词 turned，整个句子的意思就会变成：「这名男子在灯上旋转」。这样解释显然讲不通。而是应该把 turned on 合在一起当成动词看待，意思是「打开」。
@@ -418,7 +418,7 @@ Do you know <u>what</u> Tom has been <u>up to</u> recently?
 
 ### between / among 在 … 之间
 
-一般语法书说 between 用于表示两者之间，among 则是三者以上。这个区别大致说来是可以接受的，可是要拿它当规则来背，就会有例外。其实这两个介系词的差别主要不在两个与多个之差，而在于：between 有标示位置的功能（意思是「夹在中间」），among 则没有（只表示「其中，之中」 ）。例如：
+一般语法书说 between 用于表示两者之间，among 则是三者以上。这个区别大致说来是可以接受的，可是要拿它当规则来背，就会有例外。其实这两个介系词的差别主要不在两个与多个之差，而在于：between 有标示位置的功能（意思是「夹在中间」），among 则没有（只表示「其中，之中」）。例如：
 
 The Rhine flows <u>between France and Germany</u>.
 (莱茵河流经法国与德国中间。)
@@ -444,7 +444,7 @@ You can all go <u>except for George</u>.
 <u>Except for George</u>, you can all go.
 (大家都能去，除了乔治。)
 
-### on / about （谈论）关于…
+### on / about（谈论）关于…
 
 文章或演说的主题，如果采比较正式的口吻、比较专业或学术化，就应该用 on 这个介系词来表示。如果是非正式的口吻，用 about 就行了。
 
@@ -509,7 +509,7 @@ I love to <u>read</u> <u>books</u> <u>with pictures in my leisure time</u>.
 
 使用介系词短语和使用其他的修饰语一样，都得小心不要犯模棱两可的错误。例如：
 
-The secretary <u>had to retype</u> the letter which she <u>had been working on</u> <u>under the order of the manager</u>. （不佳）
+The secretary <u>had to retype</u> the letter which she <u>had been working on</u> <u>under the order of the manager</u>.（不佳）
 
 这个句子写得不好，因为介系词短语 under the order of the manager 放的位置既是全句的句尾、又是关系子句的句尾，所以它可以修饰主要子句的动词 had to retype 、也可以修饰关系子句的动词 had been working on，造成模棱两可的结果。可以分别修改如下：
 
@@ -521,7 +521,7 @@ The secretary had to retype the letter which, <u>under the order of the manager<
 
 再看一个例子：
 
-I <u>saw</u> that many houses <u>were destroyed</u> by fire <u>on TV</u>. （不佳）
+I <u>saw</u> that many houses <u>were destroyed</u> by fire <u>on TV</u>.（不佳）
 
 介词短语 by fire 放在被动态的动词 were destroyed 后面修饰它，意思很清楚（「被火烧毁」）。但是另一个介系词短语 on TV 是个地方副词，放在这个位置一方面是全句的句尾、另一方面又是名词子句（that 子句）的句尾，所以它可以修饰主要子句的动词 saw、也可以修饰名词子句的动词 were destroyed，造成模棱两可的结果。应修改如下：
 

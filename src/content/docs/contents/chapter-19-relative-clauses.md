@@ -27,7 +27,7 @@ Nobody else knows <u>it</u>.
 
 ## 关系代词
 
-主要从句中的先行词如果是「人」，那么从属从句中与其重复而建立关系的元素应该是同样的名词、或者是代词 he, she, they 之类，这些代词改写为关系代词就是 who （单复数拼法相同，另外还有宾格 whom、所有格 whose ）。反之，主要从句中的先行词如果是「事、物」，那么关系从句中与其重复而建立关系的元素应该是同样的名词、或者是代词 it, they 之类，这些代词改写为关系代词就是 which（单复数拼法相同，宾格仍是 which、所有格借用 whose）。另外，不论先行词是人还是物，关系从句只要具有「指示」功能（指出「哪一个、哪一些」），那么关系代词（who, whom 或 which）都可以采用由指示代词衍生出来的 that 来取代。以下分别说明。
+主要从句中的先行词如果是「人」，那么从属从句中与其重复而建立关系的元素应该是同样的名词、或者是代词 he, she, they 之类，这些代词改写为关系代词就是 who（单复数拼法相同，另外还有宾格 whom、所有格 whose）。反之，主要从句中的先行词如果是「事、物」，那么关系从句中与其重复而建立关系的元素应该是同样的名词、或者是代词 it, they 之类，这些代词改写为关系代词就是 which（单复数拼法相同，宾格仍是 which、所有格借用 whose）。另外，不论先行词是人还是物，关系从句只要具有「指示」功能（指出「哪一个、哪一些」），那么关系代词（who, whom 或 which）都可以采用由指示代词衍生出来的 that 来取代。以下分别说明。
 
 ### Who 的用法（包括 whom, whose, that）
 
@@ -313,7 +313,7 @@ The whole house was overrun with <u>ants</u>, <u>which were</u> rather weird.
 
 上面那两个句子可以靠动词的单复数来判断。但是如果 which 有两个可能的先行词、又无法判断该是哪一个，那么这种句子就没写清楚、是不好的句子。例如：
 
-The whole house was overrun with ants, <u>which frightened</u> the visitor. （不佳）
+The whole house was overrun with ants, <u>which frightened</u> the visitor.（不佳）
 
 关系从句的动词 frig​​htened 看不出来是单数还是复数，表示主语 which（以及先行词）单复数都可以。这时候，先行词说是「这件事情」也讲得通、说是「这种蚂蚁」也讲得通。一个句子有两种可能的解释、令读者无法判断作者到底是什么意思，这就是不好的句子。碰到这种情况必须改写到清楚为止。改写的办法很多，有一种很好用的办法是加个同位格在关系代词 which 前面，例如：
 
@@ -434,10 +434,10 @@ S V O
 
 这两个句子在名词 man 上产生交集而建立关系，可以制造关系从句。做法是把句 2 中的重复点 this man 改写为关系代词 who，成为关系从句 who has done so much for my family。接下来要选择位置来安插这个关系从句。如果套用语法书的规则，那么关系从句必须放在先行词（句 1 中的 a man）后面。结果是下面这个极不清楚的句子：
 
-I can’t leave <u>a man</u> [who has done so much for my family] behind. （不佳）
+I can’t leave <u>a man</u> [who has done so much for my family] behind.（不佳）
 先行词 关系从句
 
-这个句子不好，是因为关系从句虽然和它修饰的对象（先行词 a man ）很接近、够清楚，但是主要从句的宾语补足语（behind）和宾语（a man）之间却隔了一个长长的从句，造成主要从句的句型不清楚：读者很可能会误以为 behind 是属于关系从句的一部分、用来修饰 my family 的。为了避免这种误解、增加句子的清楚性，应该选择把关系从句移到后面，成为：
+这个句子不好，是因为关系从句虽然和它修饰的对象（先行词 a man）很接近、够清楚，但是主要从句的宾语补足语（behind）和宾语（a man）之间却隔了一个长长的从句，造成主要从句的句型不清楚：读者很可能会误以为 behind 是属于关系从句的一部分、用来修饰 my family 的。为了避免这种误解、增加句子的清楚性，应该选择把关系从句移到后面，成为：
 
 <u>I</u> <u>can’t leave</u> <u>a man</u> <u>behind</u>, [who has done so much for my family].
 S V O C 关系从句
@@ -454,14 +454,14 @@ S V O
 
 两个句子在 book 这个名词产生交集而建立关系，可以制造关系从句来连接起来。做法是把句 2 中的重复点 the book 改写为关系代词 which，成为 which focuses on social relations 这个关系从句。接下来要选择位置来安插这个关系从句。如果套用语法规则、把关系从句直接放在先行词 a book 后面，会成为下面这个不清楚的句子：
 
-I found <u>a book</u> [which focuses on social relations] in the library. （不佳）
+I found <u>a book</u> [which focuses on social relations] in the library.（不佳）
 先行词 关系从句
 
 这个句子不好，是因为句尾的介词短语 in the library 本来是修饰主要从句动词 found 的，但是中间插入关系从句之后，变成也可以修饰更接近的对象 social relations。因而这个句子可能有两种意思：除了原本的解释「我在图书馆找到一本谈社交关系的书」之外，还可以解释为「我找到一本书，谈的是图书馆内的社交关系」，两种解释大不相同。一个句子可以有两种不同的解释，这就是不好的句子。
 
 为了避免这种不清楚的结果，如果把关系从句移到后面去，产生的结果又是另一个不清楚的句子：
 
-I found <u>a book</u> in the library [which focuses on social relations]. （不佳）
+I found <u>a book</u> in the library [which focuses on social relations].（不佳）
 先行词 关系从句
 
 这时候，关系代词 which 和先行词 a book 中间多了另一个可能的先行词 the library，所以看起来 which 的先行词也极有可能是 library。如果是 library 当先行词，这个句子的意思就变成：「我在那个以社交关系为主要内容的图书馆内找到一本书」。所以这个句子仍然有两种可能的解释、结果仍然是不清楚。
@@ -471,7 +471,7 @@ I found <u>a book</u> in the library [which focuses on social relations]. （不
 In the library I found <u>a book</u> [which focuses on social relations].
 先行词 关系从句
 
-这时候，介词短语 in the library 只能修饰主要从句动词 found（在图书馆内找到），而关系从句也只能修饰先行词 a book（以社交关系为重点的是那本书） ，这样才算把意思交代清楚。
+这时候，介词短语 in the library 只能修饰主要从句动词 found（在图书馆内找到），而关系从句也只能修饰先行词 a book（以社交关系为重点的是那本书），这样才算把意思交代清楚。
 
 ## 复合关系代词
 
@@ -683,7 +683,7 @@ Every year the superstar set aside some time he can travel incognito with his wi
 
 但是，先行词是重要的名词类，而且关系从句必须依附在先行词上来修饰它，所以是不能省略的。只有在采用复合关系代词时才能够省略先行词。上面那个句子如果省掉先行词 some time 就是个错误：
 
-Every year the superstar set aside when he can travel incognito with his wife. （误）
+Every year the superstar set aside when he can travel incognito with his wife.（误）
 
 读者如果看到这样的句子，请换个角度来诠释它：
 
@@ -741,7 +741,7 @@ The artist rented an apartment he could work.
 
 但是，先行词 an apartment 显然不能省略，不然就会出现这个错误的句子：
 
-The artist rented where he could work. （误）
+The artist rented where he could work.（误）
 
 ### 三、how
 
@@ -758,7 +758,7 @@ S V 副词
 第 2 句中表示方法状态的副词 so，意思就是 in this way，和第 1 句中的先行词 the way 有交集而建立关系，可以改写为关系副词 how，移到句首来连接两句，成为这个复杂句：
 
 <u>I</u> never <u>found out</u> <u>the way</u> <u>how he escaped</u>.
-S V O（先行词） 关系从句
+S V O（先行词）关系从句
 
 关系从句和先行词之间没有逗点隔开，这种从句具有指示功能，所以可以选择用指示性明确的 that 取代 how，也可以选择省略掉 how，如下：
 
@@ -1020,7 +1020,7 @@ The ship is to boldly <u>go</u> [<u>where</u> none has gone before].
 
 1.  复合关系代词（what, whatever, whoever, whichever），解释为 anything that, anyone that 等等，包含先行词在内。复合关系代词引导的从句是名词从句，例如：
 
-[<u>What(ever)</u>（= Anything that） he says] can’t be true.
+[<u>What(ever)</u>（= Anything that）he says] can’t be true.
 复合关系代词 名词从句
 （不论他说什么都不是真的。）
 

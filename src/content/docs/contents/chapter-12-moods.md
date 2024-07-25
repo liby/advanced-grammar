@@ -144,7 +144,7 @@ S V C 名词从句
 If the landslide <u>had occurred</u> a few seconds later, the bus <u>could have passed through</u> safely.
 (土石流要是晚几秒发生，巴士就可以安全通过了。)
 
-这句话背后的事实是：土石流就是早了那几秒，造成巴士遭到掩埋。因为，这个句子叙述过去的事情，却采用过去完成来表示非事实：if 引导的条件副词从句中用过去完成时 had occurred，主要从句中也是采用过去完成时，但是分成语气助动词的过去（ could，表示「就可」）、以及原形动词的完成（have passed through）。这个句子，因为条件副词从句中有助动词 had，所以可以选择用倒装的方式来省略从属连词 if，如下：
+这句话背后的事实是：土石流就是早了那几秒，造成巴士遭到掩埋。因为，这个句子叙述过去的事情，却采用过去完成来表示非事实：if 引导的条件副词从句中用过去完成时 had occurred，主要从句中也是采用过去完成时，但是分成语气助动词的过去（could，表示「就可」）、以及原形动词的完成（have passed through）。这个句子，因为条件副词从句中有助动词 had，所以可以选择用倒装的方式来省略从属连词 if，如下：
 
 <u>Had the landslide</u> occurred a few seconds later, the bus could have passed through safely.
 
@@ -246,7 +246,7 @@ I <u>should have ignored</u> the insult then, only that I <u>was</u> too angry.
 V O
 （走路小心！）
 
-这是提醒对方走路要小心，并非叙述事实的「陈述语气」、也不是「非事实」的「假设语气」，而是「希望成为事实」，属于命令或祈使语气，采用原形动词（watch ）来表示。乍看之下没有主语，是因为在直接命令句中，主语 you 通常会省略掉。
+这是提醒对方走路要小心，并非叙述事实的「陈述语气」、也不是「非事实」的「假设语气」，而是「希望成为事实」，属于命令或祈使语气，采用原形动词（watch）来表示。乍看之下没有主语，是因为在直接命令句中，主语 you 通常会省略掉。
 
 许多语法书主张：Watch your step 这种说法等于 You should watch your step，笔者从前也接纳这种说法。不过，严格讲起来，这两种说法的语气其实并不相同。 You should watch your step 的动词短语是 should watch，用上了语气助动词 should。而一旦用到了语气助动词，这个动词短语就属于表达「不确定」情况​​的「条件语气」：「你走路应该小心」，意思是说对方「有责任、有义务」要小心，这是对方的事，和说话的人无关。而 Watch your step 则是属于「命令语气」，表示「我要你小心」。仔细玩味会发现，这两种语气是不一样的。只有「命令语气」才能够表达说话者的主观意愿。再比较一组例子：
 

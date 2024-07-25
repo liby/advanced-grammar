@@ -310,7 +310,7 @@ S V O 简化副词从句
 
 写作分词构句，要特别注意「主语相同」的要求：副词从句简化为分词构句，前提是副词从句的主语必须和主要从句相同，否则不能省略主语。如果副词从句的主语和主要从句并不相同却被省略掉，这是一种最常犯的写作错误，甚至取了一个特别的名称来称呼它：**dangling modifier「悬荡修饰语」**&#8203;。例如：
 
-[Trying to keep the boat afloat in the storm], <u>a lot of cargo</u> was jettisoned. （误）
+[Trying to keep the boat afloat in the storm], <u>a lot of cargo</u> was jettisoned.（误）
 dangling modifier S
 (为了维持船只在风暴中不沉，许多货物被抛弃掉。)
 
@@ -325,7 +325,7 @@ S
 
 主要从句改为用 the sailors 为主语，和原来那个副词从句 Because <u>the sailors</u> were trying to keep the boat afloat in the storm 里面的主语相同，这样才可以把副词从句简化为上面那个分词构句（中括号内的部分）。再看一个例子：
 
-<u>This new medicine</u> cannot really cure a patient [unless treated in the earliest stages of lung cancer]. （误）
+<u>This new medicine</u> cannot really cure a patient [unless treated in the earliest stages of lung cancer].（误）
 S dangling modifier
 (这种新药不能真正治好病人，除非在肺癌的最初期就接受治疗。)
 
@@ -436,7 +436,7 @@ The new is <u>so</u> bad [that it can make me cry].
 
 [To tell you the truth], I want to quit.
 简化副词从句
-（坦白说，我想辞职不干了。 ）
+（坦白说，我想辞职不干了。）
 
 中括号内的部分是个简化副词从句，可以还原如下：
 

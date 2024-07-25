@@ -107,7 +107,7 @@ I’m not <u>particular</u> about where to dine.
 
 在名词短语 our chief reason 中，形容词 chief 的功能在于指出「最主要的那个」，类似限定词的用法。这种形容词只能放在名词短语中，放到补语位置就属用字错误，如下：
 
-Our reason was chief. （误）
+Our reason was chief.（误）
 
 类似的还有 main, principal 等，都是只能放在名词短语中使用。
 
@@ -164,7 +164,7 @@ George Pritchard is <u>an old friend</u>.
 He graduated from <u>a prestigious old American law school</u>.
 (祂从一家地位崇高、历史悠久的美国法学院毕业。)
 
-在这个例子中，冠词 a 属于限定词、school 是名词。在 a school 中间有几个形容词单词要排列。首先，law 也是个名词，和 school 放在一起构成一个复合名词（compound）、成为 law school「法学院」。这里的 law 是名词转作形容词使用，并且和真正的名词 school 共同来表示这是「法学院」，所以 law 可说是这个名词短语定义中不可或缺的一部分，表现名词短语属性（attribute ）的功能很明显，应该和名词 school 放得最接近。
+在这个例子中，冠词 a 属于限定词、school 是名词。在 a school 中间有几个形容词单词要排列。首先，law 也是个名词，和 school 放在一起构成一个复合名词（compound）、成为 law school「法学院」。这里的 law 是名词转作形容词使用，并且和真正的名词 school 共同来表示这是「法学院」，所以 law 可说是这个名词短语定义中不可或缺的一部分，表现名词短语属性（attribute）的功能很明显，应该和名词 school 放得最接近。
 
 其次，American 这个形容词表示这是「美国的」法学院。相对于 law 而言，American 这个形容词已经不再那么明显是属于定义的一部分，所以放的位置距离名词远些。但是，至少 American 是一个不可变的性质：美国法学院就是美国法学院，不会变成英国或者法国的。反之，看看更前面的形容词 old。这家法学院刚成立时是新的，历经岁月的变迁才逐渐变「老」。所以，new 或 old 是可变的，不像 American 那样不可变。愈是可变的性质愈和名词的「定义、属性」扯不上关系，所以要放得离名词愈远。最后还有个形容词 prestigious「地位崇高的」。首先，这是比 new 或 old 更容易变的特质：如果发生几件丑闻，这家学院的地位可能一落千丈、立即不再崇高。而且，地位崇高与否是比较主观的判断，不像 new 或 old 是比较客观的事情。愈是主观、可变的特质，愈不属于这个名词的「属性、定义」，位置就要放得愈远。
 

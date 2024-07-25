@@ -121,7 +121,7 @@ S V C
 
 ### 连贯性
 
-<u>The chairman</u> should step down for now because the court is investigating <u>him</u> for a possible crime. （不佳）
+<u>The chairman</u> should step down for now because the court is investigating <u>him</u> for a possible crime.（不佳）
 (董事长应该暂时下台，因为法院正在调查他可能涉及犯罪。)
 
 这个句子，主要子句的主词是 the chairman，从属连接词 because 引导的副词子句主词却是 the court。当然，前后两个子句的主词并不是一定要相同。不过，副词子句中确实有代词 him 代表 the chairman，表示前后两个子句中确实有重复的元素。如果能够改成两个子句的主词相同，那么这个句子的叙述就会感觉比较连贯、修辞效果会加强。做法就是把副词子句中的 him 拿出来改写成被动态，如下：
@@ -159,7 +159,7 @@ My wallet was stolen.
 
 ### 简洁性
 
-Because the nurse told <u>him</u> to wait outside, <u>the man</u> found a chair and sat down. （不佳）
+Because the nurse told <u>him</u> to wait outside, <u>the man</u> found a chair and sat down.（不佳）
 （因为护士叫他在外面等，这名男子就找了张椅子坐下。）
 
 在 because 引导的副词子句中，him 是宾语，但是在主要子句中 the man 却是主词。这两个子句中的主词不一致，造成叙事不连贯，可以采用被动态改写如下：

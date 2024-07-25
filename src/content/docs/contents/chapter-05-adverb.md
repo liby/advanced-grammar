@@ -43,9 +43,9 @@ The dog <u>furiously</u> <u>barked</u> at the mailman.
 S V C (adv.)
 (他很不情愿地维持单身。)
 
-这个句子因为有补语 single 这个主要元素，方法状态的副词 reluctantly 就被挤到后面去，和它修饰的对象（动词 stayed ）有了一些距离。如果不这样处理，而是把副词 reluctantly 直接放在动词后面，产生出来的句子就不大清楚：
+这个句子因为有补语 single 这个主要元素，方法状态的副词 reluctantly 就被挤到后面去，和它修饰的对象（动词 stayed）有了一些距离。如果不这样处理，而是把副词 reluctantly 直接放在动词后面，产生出来的句子就不大清楚：
 
-He stayed reluctantly single. （不佳）
+He stayed reluctantly single.（不佳）
 
 这时候，副词 reluctantly 不大清楚是用来修饰它前面的动词 stayed、还是修饰它后面的形容词 single。修饰语修饰的对象模棱两可，这是写作的败笔，要尽量避免。另一个可以放的位置是在动词前面，如下：
 
@@ -72,7 +72,7 @@ S V O
 
 宾语 the girl 后面还有一个分词短语 sitting at the counter，是形容词子句 who was sitting at the counter 的简化。这时候，如果方法状态的副词 openly 还是放在句尾，那么它修饰的对象可能是 harassed、也可能是 sitting，这句话就没有表达清楚：
 
-He <u>harassed</u> the girl <u>sitting</u> at the counter <u>openly</u>. （不佳）
+He <u>harassed</u> the girl <u>sitting</u> at the counter <u>openly</u>.（不佳）
 
 这种讲法，意思可能是「公开骚扰」、也可能是「公开坐在柜台」，是模棱两可的说法。另外，如果把 openly 移到 sitting at the counter 前面，会变成下面这个句子：
 
@@ -257,7 +257,7 @@ He is short, however, he plays basketball well. (误)
 
 这种错误甚至有一个专门称呼:comma splice。读者应特别注意,写作时不要犯这种错误。
 
-### 分离副词 （disjuncts）
+### 分离副词（disjuncts）
 一般语法书都说这种副词是修饰全句的副词，这种说法也可以接受。不过，如果深入观察省略的情形，就可以看出这种副词原本属于另一个子句，是该子句中的方法、状态副词。看看这个例子：
 
 <u>Theoretically</u>, your proposal might work.
@@ -358,13 +358,13 @@ Let’s <u>discuss</u> this problem <u>practically</u>.
 第 1 句中的 practically 是个程度副词，修饰形容词 impossible，表示「几乎不可能」，应置于 impossible 前面。第 2 句中的 practically 是方法状态副词，修饰动词 discuss 的方式，应置于宾语 this problem 后面。第 3 句中的 practically 是个分离副词，是 practically speaking 的省略，应置于句首。再看一组例子：
 
 His ideas <u>are generally</u> very helpful.
-（ 他的点子通常都很管用。）
+（他的点子通常都很管用。）
 
 He <u>described</u> the plan <u>generally</u>, without much detail.
-（ 他很笼统地描述这项计画，没有说很多细节。）
+（他很笼统地描述这项计画，没有说很多细节。）
 
 <u>Generally</u>, I like his ideas.
-（ 一般说来，我很喜欢他的点子。）
+（一般说来，我很喜欢他的点子。）
 
 第 1 句中的 generally 是个频率副词，修饰动词 are，表示「通常」，应置于动词后面。第 2 句中的 generally 是方法状态副词，修饰动词 describe 的方式，应置于宾语 the plan 后面。第 3 句中的 generally 是个分离副词，是 generally speaking 的省略，应置于句首。
 
@@ -385,7 +385,7 @@ The boss wanted this man to be <u>badly punished</u>.
 
 方法状态的副词，如果放在动词后面不够清楚，往往移动到动词前面就会比较清楚。下面这个例子的情况差不多：
 
-The man was seen <u>clearly</u> to be dying. （不佳）
+The man was seen <u>clearly</u> to be dying.（不佳）
 
 方法、状态的副​​词 clearly 放在这个位置，可以修饰前面的动词 see（明显看出来）、也可以修饰后面的动词 die（明显将死亡），犯有模棱两可的毛病。可分别修改如下：
 
@@ -397,7 +397,7 @@ The man was seen to be <u>clearly dying</u>.
 
 再看一个例子：
 
-He <u>confessed</u> that he had been <u>abusing</u> his wife <u>openly</u>. （不佳）
+He <u>confessed</u> that he had been <u>abusing</u> his wife <u>openly</u>.（不佳）
 
 方法状态的副词 openly 放在这个位置，既是主要子句的句尾、又是名词子句（that 子句）的句尾。它修饰的对象到底是主要子句的动词 confess 还是名词子句的动词 abuse，并不清楚，所以是不好的句子。可分别修改如下：
 

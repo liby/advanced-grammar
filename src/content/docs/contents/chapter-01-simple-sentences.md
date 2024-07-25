@@ -150,17 +150,17 @@ S V O C
 
 下面这些例子，画底线部分分别是宾语（O）与补语（C）。请读者试试看，拿宾语出来当主词、中间加个 be 动词，后面的补语就变成主语补足语。结果将是上一节列出的那些 S + V + C 的句子。
 
-- I find <u>the purse</u> <u>pretty</u>. （我觉得这个包包很漂亮。）
-- The tip made <u>the question</u> <u>easy</u>. （因为有提示，所以问题变得很容易。）
-- I consider <u>the man</u> <u>quite a gentleman</u>. （我认为此是个十足的绅士。）
-- The boss found <u>your suggestion</u> <u>exciting</u>. （老板觉得你的提议很刺激。）
-- The bus ride made <u>the woman</u> <u>dizzy</u>. （搭巴士让这个女人感觉头晕。）
-- I find <u>the wine</u> <u>sweet</u>. （我觉得酒有甜味。 ）
-- The man’s poverty kept <u>him</u> <u>single</u>. （此人的贫穷使他继续保持单身。）
+- I find <u>the purse</u> <u>pretty</u>.（我觉得这个包包很漂亮。）
+- The tip made <u>the question</u> <u>easy</u>.（因为有提示，所以问题变得很容易。）
+- I consider <u>the man</u> <u>quite a gentleman</u>.（我认为此是个十足的绅士。）
+- The boss found <u>your suggestion</u> <u>exciting</u>.（老板觉得你的提议很刺激。）
+- The bus ride made <u>the woman</u> <u>dizzy</u>.（搭巴士让这个女人感觉头晕。）
+- I find <u>the wine</u> <u>sweet</u>.（我觉得酒有甜味。）
+- The man’s poverty kept <u>him</u> <u>single</u>.（此人的贫穷使他继续保持单身。）
 - The victory made <u>the player</u> <u>professional</u>. (这场胜历史这位球员转入职业。)
-- The doctor proclaimed <u>the drug</u> <u>effective</u>. （医生宣称这种药有效。）
-- The hit movie made <u>the actor</u> <u>a big star</u>. （这部轰动的电影使这位演员成了大明星。 ）
-- Most people consider <u>a school teacher</u> <u>a good wife</u>. （大多数人认为小学老师是理想的太太。 ）
+- The doctor proclaimed <u>the drug</u> <u>effective</u>.（医生宣称这种药有效。）
+- The hit movie made <u>the actor</u> <u>a big star</u>.（这部轰动的电影使这位演员成了大明星。）
+- Most people consider <u>a school teacher</u> <u>a good wife</u>.（大多数人认为小学老师是理想的太太。）
 
 ## 补语的词类
 
@@ -254,7 +254,7 @@ S V O
 
 再看一个例子：
 
-The cat looked elegant. （猫看起来很优雅。）
+The cat looked elegant.（猫看起来很优雅。）
 
 这也是三个元素的句型。主词是名词短语 the cat，动词是 looked，后面的形容词 elegant 是第三个元素。三个元素的句型只有 S + V + O 和 S + V + C 这两种选择，但是宾语必须是名词类，形容词 elegant 不能当宾语。所以，elegant 就只有一个可能：是补语。而检验主语补足语的方式就是把动词换成 be 动词试试看：The cat was elegant.意思和原句差不多，所以可以确定原句是 S + V + C 的句型，如下。
 

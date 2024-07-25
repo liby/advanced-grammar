@@ -6,7 +6,7 @@ title: 引：广读学英语
 
 先来看看英文教学法的历史沿革，以便了解广读在其中扮演的角色。
 
-TESOL（Teaching English to Speakers of Other Languages​）领域中正统的英文教学方法，主要有语法翻译法（Grammar Translation）、句型练习法（Pattern Practice）、沟通法（Communicative Approach）、阅读法（Reading Approach） 、综合法（General Approach）等五种。以下分别说明。
+TESOL（Teaching English to Speakers of Other Languages​）领域中正统的英文教学方法，主要有语法翻译法（Grammar Translation）、句型练习法（Pattern Practice）、沟通法（Communicative Approach）、阅读法（Reading Approach）、综合法（General Approach）等五种。以下分别说明。
 
 ## 语法翻译法
 

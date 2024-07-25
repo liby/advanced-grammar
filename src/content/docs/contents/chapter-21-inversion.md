@@ -278,7 +278,7 @@ S V O 连词 S V O
 
 从属连词 than 引导的副词从句（中括号内的部分）修饰比较级的副词 more。这个副词从句里面，动词 loves 与宾语 the cat 都和主要从句重复。但是，如果选择省略掉这些重复的部分，造成的结果是下面这个不够清楚的句子：
 
-My uncle loves his cat more than his wife, who keeps a singing canary and two talking parrots. （不佳）
+My uncle loves his cat more than his wife, who keeps a singing canary and two talking parrots.（不佳）
 
 这个句子不清楚，因为它有两种解释。第一：his wife 和主语 my uncle 比较，意思是「我叔叔爱猫超过他太太爱猫」，这种解释就是上面句 A 省略的结果。第二：his wife 和宾语 his cat 比较，意思是「我叔叔爱猫超过他爱老婆」，这种解释是下面那个句 B 省略的结果：
 

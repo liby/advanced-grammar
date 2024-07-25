@@ -60,7 +60,7 @@ S V C
 如果是没有疑问词引导的疑问句（叫做 Yes/No Question），改造成名词从句时除了要拿掉问号之外，还要外加 whether 这个从属连词（表示「是否」，来自 either … or）。如果是要改造成副词从句，那么除了同样要拿掉问号之外，也要外加同样一个从属连词 whether，但是这时候 whether 不再解释为「是否」，而是表示「不论」。如果不加 whether，改成加 no matter 也是一样，仍然表示「不论」。请比较：
 
 <u>Whether he’s still alive (or not)</u> <u>is</u> <u>difficult</u> to say.
-S（名词从句） V C
+S（名词从句）V C
 (他是否还活着，这个问题很难说。)
 
 <u>Whether he’s still alive (or not)</u>, <u>I</u>’<u>m not going to marry</u> <u>anyone</u> else.

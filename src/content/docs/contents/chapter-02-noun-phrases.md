@@ -222,7 +222,7 @@ I have <u>two brothers-in-law</u>.
 The soldiers do <u>100 push-ups</u> every day.
 （这些兵每天要做一百个伏地挺身。）
 
-名词短语 100 push-ups 当中也有一个比较特别的复合名词：push-up 是由动词 push 串连上介副词 up 构告而成的复合名词。这种复合名词并没有哪个位置是主要的名词所在（不像 brother-in-law ），所以它的复数还是加在字尾（push-ups）。
+名词短语 100 push-ups 当中也有一个比较特别的复合名词：push-up 是由动词 push 串连上介副词 up 构告而成的复合名词。这种复合名词并没有哪个位置是主要的名词所在（不像 brother-in-law），所以它的复数还是加在字尾（push-ups）。
 
 ## 副词
 
@@ -285,7 +285,7 @@ I want <u>these</u>.
 
 ## 限定词的种类
 
-限定词的分类，依其性质可以分成**限制性（definite）**&#8203;限定词如 the, those, John's、以及**非限制性（indefinite）**&#8203;限定词如 a, some, fifty。若依其限定范围来划分，可以分成**部分性（partitive）**&#8203;限定词如 some、以及**全称性（universal）**&#8203;限定词如 all。不过，与英文写作比较密切相关的一种分类是以限定词在名词短语中出现的位置来划分：可以分成**前位限定词（predeterminers）**&#8203;、**中位限定词（central determiners）**&#8203;以及**后位限定词（ postdeterminers）**&#8203;。先看看下面几个例子：
+限定词的分类，依其性质可以分成**限制性（definite）**&#8203;限定词如 the, those, John's、以及**非限制性（indefinite）**&#8203;限定词如 a, some, fifty。若依其限定范围来划分，可以分成**部分性（partitive）**&#8203;限定词如 some、以及**全称性（universal）**&#8203;限定词如 all。不过，与英文写作比较密切相关的一种分类是以限定词在名词短语中出现的位置来划分：可以分成**前位限定词（predeterminers）**&#8203;、**中位限定词（central determiners）**&#8203;以及**后位限定词（postdeterminers）**&#8203;。先看看下面几个例子：
 
 | 前位 | 中位 | 后位 | 形容词 | 名词 | 翻译 |
 | --- | --- | --- | --- | --- | --- |
@@ -428,7 +428,7 @@ My uncle lives in <u>a three-story mansion</u>.
 
 名词与限定词的一致性是非常简单的观念，但是因为中文里面并不需要表达可数或不可数，所以我们在做英文写作时很容易忘记这项要求。而且，有一些限定词是连英美人士都经常会用错的，例如该用 fewer 的地方经常会误植为 less。看看下面的例子：
 
-Today I interviewed for <u>no less than four jobs</u>, but didn't get any definite answer. （不佳）
+Today I interviewed for <u>no less than four jobs</u>, but didn't get any definite answer.（不佳）
 （今天我面谈的工作多达四个，但是没有任何明确的回应。）
 
 大家都知道，表示「多」的限定词 many（可数）和 much（不可数），比较级同样是 more，例如 more books 与 more time 都是正确的。但是，表示「少」的限定词有 few 和 little 之分，其中 few 应配合可数名词使用、比较级是 fewer，而 little 应配合不可数名词使用、比较级是 less。也就是说：fewer 和 less 这两个限定词一个可数、一个不可数，不可混为一谈。上面那个例子中，no less than four jobs 有个错误在于：jobs 是复数可数名词，前面的限定词不能用不可数的 less，应该改为 fewer，如下：

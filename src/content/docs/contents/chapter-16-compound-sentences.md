@@ -100,7 +100,7 @@ China is <u>not only the world's most populous state but also the largest market
 
 这个句子还可以选择把 not only 移到句首、以倒装句的方式来加强语气。但是这样做的时候很容易产生如下的错误：
 
-Not only <u>is China the world's most populous state</u> but also <u>the largest market in the 21st century</u>. （误）
+Not only <u>is China the world's most populous state</u> but also <u>the largest market in the 21st century</u>.（误）
 A B
 
 像 not only A but also B 之类的对等连词相关字组，在对称方面的要求更为严格：A 与 B 必须对称。上面那个句子因为把 not only 移到句首变成了倒装句，造成的结果是 not only 与 but 之间（A 部分）变成一个完整的限定从句（is China the world’s most populous state）。但是 but 的右边（B 部分）却仍然只是一个名词短语（the largest market in the 21st century），所以 A 与 B 并不对称。应该把右边也改写为完整的限定从句才符合对称的要求，如下：
@@ -114,7 +114,7 @@ A B
 
 用对等连词连接的对等从句，因为必须对称所以经常会有重复的部分。想要避免重复的话，最常用的手段就是省略掉重复的部分，这又是一个写作时容易出错的地方。对等连词本身固然很单纯，但它在句中的运用却是变化万千。写作时凡是用到对等连词都要特别小心，尤其是「对称」的要求不得马虎。以下几个例子都有省略不当的错误，请读者仔细观察。
 
-After years of hard work, spring floods and summer droughts <u>have not and may never be</u> eliminated from this area. （误）
+After years of hard work, spring floods and summer droughts <u>have not and may never be</u> eliminated from this area.（误）
 
 这个句子可以还原为以下两个简单句：
 

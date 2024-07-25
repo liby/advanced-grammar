@@ -103,7 +103,7 @@ He spoke <u>quickly but clearly</u>.
 
 用对等连词连接起来的部分，彼此之间必须符合对称的要求，也就是在词类、构造、以及内容方面都要讲求对仗工整。对等连词连接的部分不对称，是写作时最常犯的错误之一，必须注意。请读者看看下面这个例子有何错误：
 
-War is <u>destructive, wasteful, and ultimately a futile deed</u>. （误）
+War is <u>destructive, wasteful, and ultimately a futile deed</u>.（误）
 
 战争具有毁灭性、非常浪费，归根究柢也是徒劳无功的行为。
 
@@ -113,7 +113,7 @@ War is <u>destructive, wasteful, and ultimately futile</u>.
 
 把第三项也改为形容词 futile，这三个形容词就有对称、可以用对等连词 and 连接了。再看一个例子：
 
-What I like about John is <u>his sincerity, humor, and because he is mature</u>. （误）
+What I like about John is <u>his sincerity, humor, and because he is mature</u>.（误）
 
 这个句子，主语部分是 what I like about John 这个名词从句，动词是 be 动词。后面的补语部分 his sincerity, humor, and because he is mature 有错误。 His sincerity 是个名词短语，由限定词 his 加名词 sincerity 构成；Humor 是个名词；后面的 because he is mature 则是个副词从句。这三个部分，构造各不相同，却用对等连词 and 连接在一起，违反对等连词的对称要求。应该改为三个名词短语 his sincerity, his humor, his maturity，用对等连词 and 连接起来，然后省略掉两个重复的限定词 his，如下：
 
@@ -149,14 +149,14 @@ Gold jewelry <u>looks beautiful and lasts forever</u>.
 
 第 1 句是用对等连词 and 连接 beautiful 和 elegant 这两个形容词，符合对称的要求。第2句则是用对等连词 and 连接 looks beautiful 和 lasts forever 这两个由动词引导的「谓语」，也符合对称的要求。不过，下面这个句子就有问题了：
 
-Gold jewelry <u>lasts forever but expensive</u>. （误）
+Gold jewelry <u>lasts forever but expensive</u>.（误）
 （黄金首饰永久不变质，但是很贵。）
 
 对等连词 but 的右边是形容词 expensive，左边必须也是形容词才符合对称要求。但是看看 but 的左边：forever 是时间副词、lasts 是动词，没有一个是能够​​和形容词 expensive 对称的东西，这就是一个错误。
 
 如果使用的对等连词是相关字组，那么对等连词对称的要求会更加严格。例如：
 
-Gold jewelry <u>not only looks beautiful but also elegant</u>. （不佳）
+Gold jewelry <u>not only looks beautiful but also elegant</u>.（不佳）
 
 虽然在对等连词 but 的右边有形容词 elegant、左边也有形容词 beautiful，但是仍然不符合对称的要求。这是因为句中采用了 not only A but also B 这个相关字组，那么 A 与 B 就必须对称。仔细看一下，A 的部分不是形容词 beautiful，而是由动词引导的谓语 looks beautiful，B 的部分却是一个单纯的形容词 elegant，所以这两个部分的词类并不一致、也就并不符合对称的要求。应该改成像下面的写法才对：
 
