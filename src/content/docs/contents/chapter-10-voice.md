@@ -124,16 +124,16 @@ S V C
 <u>The chairman</u> should step down for now because the court is investigating <u>him</u> for a possible crime.（不佳）
 (董事长应该暂时下台，因为法院正在调查他可能涉及犯罪。)
 
-这个句子，主要子句的主词是 the chairman，从属连接词 because 引导的副词子句主词却是 the court。当然，前后两个子句的主词并不是一定要相同。不过，副词子句中确实有代词 him 代表 the chairman，表示前后两个子句中确实有重复的元素。如果能够改成两个子句的主词相同，那么这个句子的叙述就会感觉比较连贯、修辞效果会加强。做法就是把副词子句中的 him 拿出来改写成被动态，如下：
+这个句子，主要从句的主词是 the chairman，从属连接词 because 引导的副词从句主词却是 the court。当然，前后两个从句的主词并不是一定要相同。不过，副词从句中确实有代词 him 代表 the chairman，表示前后两个从句中确实有重复的元素。如果能够改成两个从句的主词相同，那么这个句子的叙述就会感觉比较连贯、修辞效果会加强。做法就是把副词从句中的 him 拿出来改写成被动态，如下：
 
 <u>The chairman</u> should step down for now because <u>he</u> is being investigated for a possible crime.
 
-改成被动态之后，前后两个子句都以同一个人（the chairman）为主词，连贯性增强、叙事的效果也就变得更好了。因为师出有名，所以这个句子采用被动态是正确的选择。再看一个例子：
+改成被动态之后，前后两个从句都以同一个人（the chairman）为主词，连贯性增强、叙事的效果也就变得更好了。因为师出有名，所以这个句子采用被动态是正确的选择。再看一个例子：
 
 <u>The chairman</u> is not available now because a meeting is being presided over by <u>him</u>.
 (董事长现在没空，因为一场会议正在被他主持。）
 
-主要子句的主词 the chairman，在 because 引导的副词子句中也有出现。但是因为这个副词子句采用被动态，所以句中的主词变成了 a meeting，代表 the chairman 的 him 则变成了宾语。这种情况，采用被动态反而造成主词不连贯，可谓自找麻烦，应该还原为主动态比较通顺：
+主要从句的主词 the chairman，在 because 引导的副词从句中也有出现。但是因为这个副词从句采用被动态，所以句中的主词变成了 a meeting，代表 the chairman 的 him 则变成了宾语。这种情况，采用被动态反而造成主词不连贯，可谓自找麻烦，应该还原为主动态比较通顺：
 
 <u>The chairman</u> is not available now because <u>he</u> is presiding over a meeting.
 
@@ -162,12 +162,12 @@ My wallet was stolen.
 Because the nurse told <u>him</u> to wait outside, <u>the man</u> found a chair and sat down.（不佳）
 （因为护士叫他在外面等，这名男子就找了张椅子坐下。）
 
-在 because 引导的副词子句中，him 是宾语，但是在主要子句中 the man 却是主词。这两个子句中的主词不一致，造成叙事不连贯，可以采用被动态改写如下：
+在 because 引导的副词从句中，him 是宾语，但是在主要从句中 the man 却是主词。这两个从句中的主词不一致，造成叙事不连贯，可以采用被动态改写如下：
 
 Because <u>he</u> was told to wait outside, <u>the man</u> found a chair and sat down.
 
-两个子句改成主词相同之后，连贯性增强了，所以采用被动态是师出有名。不过，被动态的修辞效果还不止于此。一旦主词变成相同，副词子句就可以进成简化，如下：
+两个从句改成主词相同之后，连贯性增强了，所以采用被动态是师出有名。不过，被动态的修辞效果还不止于此。一旦主词变成相同，副词从句就可以进成简化，如下：
 
 <u>Told to wait outside</u>, the man found a chair and sat down.
 
-这么一来，句子当中消除掉重复的元素，变得更为简洁、修辞效果就更好了。如果不先采用被动态造成两个子句主词相同的结果，就很难进行这样的简化。有关简化子句的做法，本书在后面相关的章节将会详述。
+这么一来，句子当中消除掉重复的元素，变得更为简洁、修辞效果就更好了。如果不先采用被动态造成两个从句主词相同的结果，就很难进行这样的简化。有关简化从句的做法，本书在后面相关的章节将会详述。

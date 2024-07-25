@@ -70,7 +70,7 @@ S (adv.) V O
 S V O
 (他骚扰那个坐在柜台的女孩。)
 
-宾语 the girl 后面还有一个分词短语 sitting at the counter，是形容词子句 who was sitting at the counter 的简化。这时候，如果方法状态的副词 openly 还是放在句尾，那么它修饰的对象可能是 harassed、也可能是 sitting，这句话就没有表达清楚：
+宾语 the girl 后面还有一个分词短语 sitting at the counter，是形容词从句 who was sitting at the counter 的简化。这时候，如果方法状态的副词 openly 还是放在句尾，那么它修饰的对象可能是 harassed、也可能是 sitting，这句话就没有表达清楚：
 
 He <u>harassed</u> the girl <u>sitting</u> at the counter <u>openly</u>.（不佳）
 
@@ -233,22 +233,22 @@ That is a <u>fairly</u> <u>long</u> story.
 程度副词 fairly 表示「颇高」的程度，在此修饰形容词 long。
 
 ### 连接副词（conjunctive）
-这种副词,意思和对等连接词( and、or、but )类似，但是缺乏连接词的语法功能。亦即，连接副词可以用来表示前后两个子句之间的逻辑关系，但是不能用它来连接两个子句, 必须借助标点符号: 加上分号把两个子句分开，或者用句点之类断开变成两句话。
+这种副词,意思和对等连接词( and、or、but )类似，但是缺乏连接词的语法功能。亦即，连接副词可以用来表示前后两个从句之间的逻辑关系，但是不能用它来连接两个从句, 必须借助标点符号: 加上分号把两个从句分开，或者用句点之类断开变成两句话。
 
 Sales have increased 20%; <u>besides</u>, production cost has come down.
 (销售上涨20%,而且生产成本又降低了。)
 
-这里面有两个对等子句，中间缺乏连接词，只有个连接副词 besides。这个连接副词的意思近似对等连接词 and，但它是副词类、并不具备连接两个子句的语法功能，所以要借助分号 (;) 这个标点符号才能连接两个子句。
+这里面有两个对等从句，中间缺乏连接词，只有个连接副词 besides。这个连接副词的意思近似对等连接词 and，但它是副词类、并不具备连接两个从句的语法功能，所以要借助分号 (;) 这个标点符号才能连接两个从句。
 
 <u>Consequently</u>, we should have no problem reaching our goals this year.
 (因此,我们达成今年的目标应该没有问题。)
 
-这句话和上一句之间有因果关系，用 consequently 这个连接副词表示。连接副词的意思类似连接词 so，但是并不具备连接两个子句的语法功能,所以和上一句之间用句点断开、另起一句。
+这句话和上一句之间有因果关系，用 consequently 这个连接副词表示。连接副词的意思类似连接词 so，但是并不具备连接两个从句的语法功能,所以和上一句之间用句点断开、另起一句。
 
 <u>However</u>, projections for the next fiscal year are not very optimistic.
 (不过,下一个会计年度的预期却不甚乐观。)
 
-这句话和上一句之间有相反关系，用 however 这个连接副词表示，意思类似对等连接词 but。但是 however 并非真正的连接词，不能用它来连接两个子句，所以同样选择用句点和上一句断开、成为两句话。
+这句话和上一句之间有相反关系，用 however 这个连接副词表示，意思类似对等连接词 but。但是 however 并非真正的连接词，不能用它来连接两个从句，所以同样选择用句点和上一句断开、成为两句话。
 
 两个完整的句子之间没有连接词、却直接打个逗点就连在一起,这是写作时最常犯的错误之一:
 
@@ -258,7 +258,7 @@ He is short, however, he plays basketball well. (误)
 这种错误甚至有一个专门称呼:comma splice。读者应特别注意,写作时不要犯这种错误。
 
 ### 分离副词（disjuncts）
-一般语法书都说这种副词是修饰全句的副词，这种说法也可以接受。不过，如果深入观察省略的情形，就可以看出这种副词原本属于另一个子句，是该子句中的方法、状态副词。看看这个例子：
+一般语法书都说这种副词是修饰全句的副词，这种说法也可以接受。不过，如果深入观察省略的情形，就可以看出这种副词原本属于另一个从句，是该从句中的方法、状态副词。看看这个例子：
 
 <u>Theoretically</u>, your proposal might work.
 (理论上，你提的案子可能行得通。)
@@ -268,14 +268,14 @@ He is short, however, he plays basketball well. (误)
 <u>Theoretically speaking</u>, your proposal might work.
 (从理论上说，你提的案子可能行得通。)
 
-画底线部分（theoretically speaking）是个经过简化的副词子句，可以进一步还原如下：
+画底线部分（theoretically speaking）是个经过简化的副词从句，可以进一步还原如下：
 
 <u>If we are speaking theoretically</u>, your proposal might work.
 (如果我们从理论上来说，你提的案子可能行得通。)
 
-画底线部分（if we are speaking theoretically）是个表示条件的副词子句，句中的 theoretically 是个方法、状态的副​​词，修饰动词 speak 的「方式」。但是，整个副词子句简化到只剩下一个副词 theoretically，这种情况就称为分离副词（因为它并不是主要子句里面的一个副词），也就是传统语法所谓「修饰整句话」的副词。
+画底线部分（if we are speaking theoretically）是个表示条件的副词从句，句中的 theoretically 是个方法、状态的副​​词，修饰动词 speak 的「方式」。但是，整个副词从句简化到只剩下一个副词 theoretically，这种情况就称为分离副词（因为它并不是主要从句里面的一个副词），也就是传统语法所谓「修饰整句话」的副词。
 
-上面那个句子，副词子句的主词是 we、主要子句的主词是 your proposal，两个子句的主词并不相同。这种情况通常并不适合进行简化。但是，因为 theoretically speaking 这样的讲法已经变成惯用的短语，所以仍然可以接受。简化子句属于高级句型，本书将在后面的章节详述。
+上面那个句子，副词从句的主词是 we、主要从句的主词是 your proposal，两个从句的主词并不相同。这种情况通常并不适合进行简化。但是，因为 theoretically speaking 这样的讲法已经变成惯用的短语，所以仍然可以接受。简化从句属于高级句型，本书将在后面的章节详述。
 
 ### 介副词（particles）
 
@@ -399,7 +399,7 @@ The man was seen to be <u>clearly dying</u>.
 
 He <u>confessed</u> that he had been <u>abusing</u> his wife <u>openly</u>.（不佳）
 
-方法状态的副词 openly 放在这个位置，既是主要子句的句尾、又是名词子句（that 子句）的句尾。它修饰的对象到底是主要子句的动词 confess 还是名词子句的动词 abuse，并不清楚，所以是不好的句子。可分别修改如下：
+方法状态的副词 openly 放在这个位置，既是主要从句的句尾、又是名词从句（that 从句）的句尾。它修饰的对象到底是主要从句的动词 confess 还是名词从句的动词 abuse，并不清楚，所以是不好的句子。可分别修改如下：
 
 He <u>openly confessed</u> that he had been abusing his wife.
 （他公开承认他有在虐待他老婆。）
@@ -417,7 +417,7 @@ When you shake someone's hand, <u>you</u> <u>should hold</u> <u>it</u> <u>firmly
 S V O
 （与人握手时应用力，以示诚意。）
 
-主要子句是 S + V + O 的句型，方法状态的副词 firmly 置于宾语后面、修饰动词 hold。下面这句的情况不同：
+主要从句是 S + V + O 的句型，方法状态的副词 firmly 置于宾语后面、修饰动词 hold。下面这句的情况不同：
 
 <u>Hold</u> <u>the camera</u> <u>firm</u> while you take the picture.
 V O C

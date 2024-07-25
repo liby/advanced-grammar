@@ -291,7 +291,7 @@ S V O C
 
 ### 一些需要补充的形容词
 
-有一些放在主语位置的形容词,本身还不具备完整的意思,需要配合别的文字来做进一步的补充、意思才算完整。配合它来做补充的文字,常见的有不定词短语、介系词短语、以及名词子句三种。请看下面的例子:
+有一些放在主语位置的形容词,本身还不具备完整的意思,需要配合别的文字来做进一步的补充、意思才算完整。配合它来做补充的文字,常见的有不定词短语、介系词短语、以及名词从句三种。请看下面的例子:
 
 <u>I</u> <u>am</u> <u>eager</u> to begin the project.
 S V C
@@ -321,8 +321,8 @@ S V C
 S V C
 (这位飞行员的太太担心他可能会送命。)
 
-如果光是说 The pilot's wife is concerned，似乎也还没有讲清楚。加上名词子句 that he might get killed 之后意思算清楚。这个名词子句扮演什么角色，乍看之下不容易看出来。因为这个句子牵涉到省略，可以还原如下：
+如果光是说 The pilot's wife is concerned，似乎也还没有讲清楚。加上名词从句 that he might get killed 之后意思算清楚。这个名词从句扮演什么角色，乍看之下不容易看出来。因为这个句子牵涉到省略，可以还原如下：
 
 The pilot's wife is concerned over <u>the possibility</u> <u>that he might get killed</u>.
 
-在形容词 concerned 后面本来有个介系词短语 over the possibility 修饰它、说明是「对这种可能性」感到担心。接下来的 that he might get killed 这个名词子句扮演的角色是当 the possibility 的同位格使用。一旦省略掉介系词短语 over the possibility，就比较不容易看出来后面那个名词子句是​​什么功能了。
+在形容词 concerned 后面本来有个介系词短语 over the possibility 修饰它、说明是「对这种可能性」感到担心。接下来的 that he might get killed 这个名词从句扮演的角色是当 the possibility 的同位格使用。一旦省略掉介系词短语 over the possibility，就比较不容易看出来后面那个名词从句是​​什么功能了。

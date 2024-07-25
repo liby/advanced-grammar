@@ -2,11 +2,11 @@
 title: 第六章 比较句法
 ---
 
-英文的修饰语包括形容词与副词，都有比较级与最高级的变化。以连接词 as 或 than 连接的比较级句子，不论是形容词还是副词的比较级，都可以视为主要子句加从属子句构成的复杂句结构：从属连接词 than 或 as 引导的子句是副词子句。
+英文的修饰语包括形容词与副词，都有比较级与最高级的变化。以连接词 as 或 than 连接的比较级句子，不论是形容词还是副词的比较级，都可以视为主要从句加从属从句构成的复杂句结构：从属连接词 than 或 as 引导的从句是副词从句。
 
-比较级的从属子句虽然是副词子句，但是因为英文的比较句法具有「平行对称」的要求，所以有许多特色都和对等子句相同。除了上述「平行对称」的要求之外，比较句法也和对等子句一样经常会有省略。这是因为，两个符合平行对称要求的子句之间往往会有重复的部分，而重复会妨碍简洁性，因此要设法省略。
+比较级的从属从句虽然是副词从句，但是因为英文的比较句法具有「平行对称」的要求，所以有许多特色都和对等从句相同。除了上述「平行对称」的要求之外，比较句法也和对等从句一样经常会有省略。这是因为，两个符合平行对称要求的从句之间往往会有重复的部分，而重复会妨碍简洁性，因此要设法省略。
 
-不过，比较句法虽然近似对等子句，但是比较级的句子毕竟还是从属子句中的副词子句类，所以有些变化又和对等子句不同。例如比较句法经常可以选择用倒装句来表示，这就和一般的对等子句不一样。
+不过，比较句法虽然近似对等从句，但是比较级的句子毕竟还是从属从句中的副词从句类，所以有些变化又和对等从句不同。例如比较句法经常可以选择用倒装句来表示，这就和一般的对等从句不一样。
 
 可以这样说：英文的比较句法看似简单，其实变化很多，而且充满陷阱，写作时一不小心就会出错，是需要特别注意的句法之一。
 
@@ -27,21 +27,21 @@ S V C
 <u>Unit 4</u> <u>is</u> not so <u>long</u>.
 S V C
 
-从某个角度来看，这两个句子的关系有点像关系子句：两句在 long 这个字上有交集而产生关系。但是，真正的关系子句是在名词上建立关系（先行词一定是名词）而改写出来的形容词子句。我们现在看到的这两个句子则是在形容词 long 上有重复，要写成一个比较句法的复杂句结构，当中的从属子句是个副词子句。
+从某个角度来看，这两个句子的关系有点像关系从句：两句在 long 这个字上有交集而产生关系。但是，真正的关系从句是在名词上建立关系（先行词一定是名词）而改写出来的形容词从句。我们现在看到的这两个句子则是在形容词 long 上有重复，要写成一个比较句法的复杂句结构，当中的从属从句是个副词从句。
 
-第 1 句和第 2 句在比较的是 long 这个形容词补语，两句之间有「大于」的关系，可以用 longer than 来连接，其中 than 是从属连接词，引导副词子句，如下：
+第 1 句和第 2 句在比较的是 long 这个形容词补语，两句之间有「大于」的关系，可以用 longer than 来连接，其中 than 是从属连接词，引导副词从句，如下：
 
 Unit 3 is longer [<u>than</u> <u>Unit 4</u> <u>is</u>].
 连词 S V
 
-从属连接词 than 引导的子句（中括号内的部分）是个副词子句，修饰前面的形容词 longer ——也就是两个子句之间重复的那个比较点。请注意：副词子句中的补语 long 被省略掉了。这是比较句法的一个特色：从属子句当中，重复的比较点必须省略。
+从属连接词 than 引导的从句（中括号内的部分）是个副词从句，修饰前面的形容词 longer ——也就是两个从句之间重复的那个比较点。请注意：副词从句中的补语 long 被省略掉了。这是比较句法的一个特色：从属从句当中，重复的比较点必须省略。
 
-对等子句的特色是可以省略掉两个子句间重复的部分。比较级的句子虽然是从属子句，但是它也具有同样的特色，可以省略掉重复的部分。例如前面那个句子，从属子句的动词是 be 动词，和主要子句的动词一样，所以可以省略，成为：
+对等从句的特色是可以省略掉两个从句间重复的部分。比较级的句子虽然是从属从句，但是它也具有同样的特色，可以省略掉重复的部分。例如前面那个句子，从属从句的动词是 be 动词，和主要从句的动词一样，所以可以省略，成为：
 
 Unit 3 is longer [<u>than</u> <u>Unit 4</u>].
 连词 S
 
-一般的从属子句，不论是名词子句、形容词子句、还是副词子句，不会有这种情况出现（省略到只剩下连接词和主词），只有比较​​级这种介乎对等子句和从属子句之间的句法才看得到这种情况。另外，比较级的从属子句还可以选择倒装，如下：
+一般的从属从句，不论是名词从句、形容词从句、还是副词从句，不会有这种情况出现（省略到只剩下连接词和主词），只有比较​​级这种介乎对等从句和从属从句之间的句法才看得到这种情况。另外，比较级的从属从句还可以选择倒装，如下：
 
 Unit 3 is longer [<u>than</u> <u>is</u> <u>Unit 4</u>].
 连词 V S
@@ -53,7 +53,7 @@ Unit 3 is longer [<u>than</u> <u>is</u> <u>Unit 4</u>].
 Unit 3 is <u>less difficult than</u> Unit 4.
 （第三课没有第四课那么难。）
 
-道理和「大于」的句法相同，上面这个句子当中的 than Unit 4 应视为副词子句省略的结果，可以还原以及倒装如下：
+道理和「大于」的句法相同，上面这个句子当中的 than Unit 4 应视为副词从句省略的结果，可以还原以及倒装如下：
 
 Unit 3 is less difficult [<u>than</u> <u>Unit 4</u> (<u>is</u>)].
 连词 S V
@@ -83,12 +83,12 @@ S V C
 <u>Unit 3</u> <u>is</u> <u>boring</u>.
 S V C
 
-两句在形容词补语 boring 有交集而产生关系，但是情况不同于关系子句，而是采用 as … as 以比较句法连接，并省略掉重复的比较点 boring，如下：
+两句在形容词补语 boring 有交集而产生关系，但是情况不同于关系从句，而是采用 as … as 以比较句法连接，并省略掉重复的比较点 boring，如下：
 
 Unit 4 is as boring [<u>as</u> <u>Unit 3</u> (<u>is</u>)].
 连词 S V
 
-中括号内是副词子句，as 是连接词，主词是 Unit 3，动词是 is，补语 boring 是重复的比较点因而被省略掉。这个副词子句修饰的对像是前面的程度副词 as。同样的，这个子句也可以倒装，如下：
+中括号内是副词从句，as 是连接词，主词是 Unit 3，动词是 is，补语 boring 是重复的比较点因而被省略掉。这个副词从句修饰的对像是前面的程度副词 as。同样的，这个从句也可以倒装，如下：
 
 Unit 4 is as boring [<u>as</u> <u>is</u> <u>Unit 3</u>].
 连词 S V
@@ -101,15 +101,15 @@ Unit 3 is <u>half</u> as difficult as Unit 4.（小于）
 
 ## 准关系代词
 
-如上所述，比较句法因为会有一个重复的比较点，所以很像关系子句。因此比较句法所使用的从属连接词（than 与 as）也有人称之为「准关系代词」。
+如上所述，比较句法因为会有一个重复的比较点，所以很像关系从句。因此比较句法所使用的从属连接词（than 与 as）也有人称之为「准关系代词」。
 
-当然，准关系代词并非关系代词，比较级的副词子句也并非关系子句。不过，这两种构造确有其类似之处。例如：
+当然，准关系代词并非关系代词，比较级的副词从句也并非关系从句。不过，这两种构造确有其类似之处。例如：
 
 His father left him more money [than <u>he</u> <u>can ever spend</u>].
 S V
 （他父亲留下来的钱，他一辈子也花不完。）
 
-中括号内的部分是个从属子句，当中主词是 he，动词是 can spend，后面本来应该有个宾语 money。乍看之下好像是 than 一方面扮演连接词的角色、一方面又扮演代词的角色（代表 money、当宾语）。如果这样看待，那么 than 的功能和关系代词 which 确实是差不多。但是这样解读是不对的。上面那句话可以拆开为以下两句来切入：
+中括号内的部分是个从属从句，当中主词是 he，动词是 can spend，后面本来应该有个宾语 money。乍看之下好像是 than 一方面扮演连接词的角色、一方面又扮演代词的角色（代表 money、当宾语）。如果这样看待，那么 than 的功能和关系代词 which 确实是差不多。但是这样解读是不对的。上面那句话可以拆开为以下两句来切入：
 
 <u>His father</u> <u>left</u> <u>him</u> <u>much money</u>.
 S V O O
@@ -117,18 +117,18 @@ S V O O
 <u>He</u> <u>can spend</u> not so <u>much money</u>.
 S V O
 
-这两个句子在名词 money 上有重复，但并不是要制造关系子句，而是采用比较句法、以 more … than 连接，来做一个「大于」的比较。做法是：将第 1 句中的限定词 much 变成比较级 more，然后外加一个比较级的连接词 than 来引导第 2 句、再将第 2 句中重复的比较点（宾语 money）省略，就成为：
+这两个句子在名词 money 上有重复，但并不是要制造关系从句，而是采用比较句法、以 more … than 连接，来做一个「大于」的比较。做法是：将第 1 句中的限定词 much 变成比较级 more，然后外加一个比较级的连接词 than 来引导第 2 句、再将第 2 句中重复的比较点（宾语 money）省略，就成为：
 
 His father left him more money [than <u>he</u> <u>can ever spend</u>].
 S V
 
-也就是刚才看到的那个句子。中括号内的部分并不是形容词子句而是副词子句，这个副词子句修饰的对象不是名词短语 more money，而是其中的限定词 more。子句开头的 than 并不是关系词，而是外加的从属连接词。副词子句内的宾语 money 被省略掉，并非因为它是关系词，而是因为它是重复的比较点、必须省略。这个重复的比较点哪怕是出在主词的位置，同样也必须省略。例如：
+也就是刚才看到的那个句子。中括号内的部分并不是形容词从句而是副词从句，这个副词从句修饰的对象不是名词短语 more money，而是其中的限定词 more。从句开头的 than 并不是关系词，而是外加的从属连接词。副词从句内的宾语 money 被省略掉，并非因为它是关系词，而是因为它是重复的比较点、必须省略。这个重复的比较点哪怕是出在主词的位置，同样也必须省略。例如：
 
 This university cannot possibly take in as many students [as <u>meet</u> <u>its requirements</u>].
 V O
 （这家大学不可能把所有符合条件的学生全部招收进来。）
 
-乍看之下，中括号之内好像是个关系子句，as 是关系词、代表先行词 students、并且扮演关系子句主词的角色，动词是 meet、宾语是 its requirements。不过这样的诠释是错误的。这个句子可以拆开成为下面两句来理解：
+乍看之下，中括号之内好像是个关系从句，as 是关系词、代表先行词 students、并且扮演关系从句主词的角色，动词是 meet、宾语是 its requirements。不过这样的诠释是错误的。这个句子可以拆开成为下面两句来理解：
 
 <u>This university</u> <u>cannot possibly take in</u> <u>many students</u>.
 S V O
@@ -141,7 +141,7 @@ S V O
 This university cannot possibly take in as many students [as <u>meet</u> <u>its requirements</u>].
 V O
 
-也就是前面那个句子。中括号内的部分不是形容词子句而是副词子句，这个副词子句修饰的对象不是名词短语 many students，而是其中的限定词 many。子句开头的 as 不是关系词，而是外加的从属连接词。副词子句内的主词 many students 并不是改写成关系词 as，而是因为它是重复的比较点所以被省略掉。
+也就是前面那个句子。中括号内的部分不是形容词从句而是副词从句，这个副词从句修饰的对象不是名词短语 many students，而是其中的限定词 many。从句开头的 as 不是关系词，而是外加的从属连接词。副词从句内的主词 many students 并不是改写成关系词 as，而是因为它是重复的比较点所以被省略掉。
 
 ## 定冠词的判断
 
@@ -211,15 +211,15 @@ Of all my students, John studies <u>(the) hardest</u>.
 <u>Prices of papayas in Thailand</u>, where the fruit is produced in abundance, are much lower than <u>England</u>, where it must be imported.（不佳）
 （泰国木瓜的价钱——此地盛产木瓜——比英国低得多，英国的木瓜必须靠进口。）
 
-这个句子乍看之下好像没​​有问题。但是仔细分析就会发现：这个句子比较的是 prices「价钱」与 England「英国」，这两个不对称的概念无法相比。比较级的句子如果有任何问题、没有把握对不对，最好先还原成两个平行对称、没有省略的子句来看：
+这个句子乍看之下好像没​​有问题。但是仔细分析就会发现：这个句子比较的是 prices「价钱」与 England「英国」，这两个不对称的概念无法相比。比较级的句子如果有任何问题、没有把握对不对，最好先还原成两个平行对称、没有省略的从句来看：
 
 <u>Prices of papayas in Thailand are much lower</u> than <u>prices of papayas in England are</u>.
 
-先忽略原句当中两个插入的关系子句、再把省略掉的部分还原，结果就是上面这个句子。接下来再看看有哪些地方可以省略。首先，句尾的 are 是副词子句的动词，和主要子句的动词相同。比较句法在这方面很类似对等子句，可以选择省略掉重复的动词，成为：
+先忽略原句当中两个插入的关系从句、再把省略掉的部分还原，结果就是上面这个句子。接下来再看看有哪些地方可以省略。首先，句尾的 are 是副词从句的动词，和主要从句的动词相同。比较句法在这方面很类似对等从句，可以选择省略掉重复的动词，成为：
 
 <u>Prices of papayas in Thailand are much lower</u> than <u>prices of papayas in England</u>.
 
-再看主词部分。主要子句的主词是 prices of papayas in Thailand，副词子句的主词是 prices of papayas in England。若要避免重复 prices of papayas 这个名词部分，如前所述可用指示代词 those 取代，成为：
+再看主词部分。主要从句的主词是 prices of papayas in Thailand，副词从句的主词是 prices of papayas in England。若要避免重复 prices of papayas 这个名词部分，如前所述可用指示代词 those 取代，成为：
 
 <u>Prices of papayas in Thailand</u> are much lower than <u>those in England</u>.
 
@@ -232,15 +232,15 @@ Of all my students, John studies <u>(the) hardest</u>.
 <u>Video games developed by this project team</u> are more exciting than <u>they are by any other team in this company</u>.（误）
 （这个专案小组研发的电玩，比这家公司其他团队的都更加刺激。）
 
-这个句子主要的错误在于副词子句中不该使用人称代词 they。先把这个比较句法还原如下：
+这个句子主要的错误在于副词从句中不该使用人称代词 they。先把这个比较句法还原如下：
 
 <u>Video games developed by this project team</u> are more exciting than <u>video games developed by any other team in this company are</u>.
 
-这种讲法就是很清楚地在比较两种 video games。首先可以省略掉副词子句中与主要子句重复的动词 are，成为：
+这种讲法就是很清楚地在比较两种 video games。首先可以省略掉副词从句中与主要从句重复的动词 are，成为：
 
 <u>Video games developed by this project team</u> are more exciting than <u>video games developed by any other team in this company</u>.
 
-接下来，副词子句的主词 video games developed by any other team in this company 当中也有和主要子句的主词重复的部分。这种情况可选择用指示代词 those 来取代重复部分，成为：
+接下来，副词从句的主词 video games developed by any other team in this company 当中也有和主要从句的主词重复的部分。这种情况可选择用指示代词 those 来取代重复部分，成为：
 
 <u>Video games developed by this project team</u> are more exciting than <u>those by any other team in this company</u>.
 
@@ -273,7 +273,7 @@ Like <u>Shakespeare's</u>, <u>Keats' poetry</u> is a true reflection of life.
 
 ## 比较句法的省略
 
-如前所述，比较级的句子虽然是从属子句，但是有些地方很像对等子句，例如它与主要子句重复的元素可以选择省略。但是，省略要以「够清楚」为限，不能过度省略而伤害到清楚性。尤其要注意的是：不能造成有两种解释、模棱两可的结果。例如：
+如前所述，比较级的句子虽然是从属从句，但是有些地方很像对等从句，例如它与主要从句重复的元素可以选择省略。但是，省略要以「够清楚」为限，不能过度省略而伤害到清楚性。尤其要注意的是：不能造成有两种解释、模棱两可的结果。例如：
 
 These restaurateurs do more business with tourists than local farmers.（不佳）
 
@@ -291,16 +291,16 @@ S V O
 
 <u>These restaurateurs do more business with tourists</u> than <u>local farmers do with tourists</u>.
 
-左边是主要子句，右边由从属连接词 than 引导的部分是副词子句，当中重复的比较点 business 已经因为比较句法的要求而省略掉。接下来还可以省略重复的介系词短语 with tourists，成为：
+左边是主要从句，右边由从属连接词 than 引导的部分是副词从句，当中重复的比较点 business 已经因为比较句法的要求而省略掉。接下来还可以省略重复的介系词短语 with tourists，成为：
 
 <u>These restaurateurs do more business with tourists</u> than <u>local farmers do</u>.
 （这些餐厅业者做观光客的生意，比本地农民做的要多。）
 
-右边 than 子句中的动词 do 与主要子句的动词也是重复。因为比较句法具有类似对等子句的特色，本来可以选择把重复的动词省略掉的，但是如果再省略掉句尾的 do，成为先前那个句子：
+右边 than 从句中的动词 do 与主要从句的动词也是重复。因为比较句法具有类似对等从句的特色，本来可以选择把重复的动词省略掉的，但是如果再省略掉句尾的 do，成为先前那个句子：
 
 <u>These restaurateurs do more business with tourists</u> than <u>local farmers</u>.（不佳）
 
-句意会变成不清楚，因为 local farmers 这时候可以有 these restaurateurs 与 tourists 这两个可能的比较对象，就会变成模棱两可。所以句尾的动词 do 不宜省略。必须留下 do，读者才知道 local farmers 是主词、也才知道它的比较对像是主要子句的主词 these restaurateurs。
+句意会变成不清楚，因为 local farmers 这时候可以有 these restaurateurs 与 tourists 这两个可能的比较对象，就会变成模棱两可。所以句尾的动词 do 不宜省略。必须留下 do，读者才知道 local farmers 是主词、也才知道它的比较对像是主要从句的主词 these restaurateurs。
 
 另外一种情况，如果是 local farmers 和 tourists 比较，可以从下面这两个句子切入：
 
@@ -316,18 +316,18 @@ S V O
 
 <u>These restaurateurs do more business with tourists</u> than <u>these restaurateurs do with local farmers</u>.
 
-连词 than 引导的副词子句，中间省略掉了重复的比较点 business。副词子句的主词 these restaurateurs 和主要子句主词完全一样，可以用人称代词来取代，成为：
+连词 than 引导的副词从句，中间省略掉了重复的比较点 business。副词从句的主词 these restaurateurs 和主要从句主词完全一样，可以用人称代词来取代，成为：
 
 <u>These restaurateurs do more business with tourists</u> than <u>they do with local farmers</u>.
 (这些餐厅业者做观光客的生意多、做本地农民的生意少。)
 
-如果要进一步省略，可以把副词子句中和主要子句重复的主词与动词 they do 都省略掉，成为：
+如果要进一步省略，可以把副词从句中和主要从句重复的主词与动词 they do 都省略掉，成为：
 
 These restaurateurs do more business <u>with tourists</u> than <u>with local farmers</u>.
 
-只要留下介系词 with，读者就知道 local farmers 是宾语、也知道它的比较对像是主要子句中同样位置的宾语 tourists。但是，如果把介系词 with 也省略掉，又会变成先前那个不佳的句子，因为读者无从判断 local farmers 是主词还是宾语，也就无从判断它是和 these restaurateurs 相比还是和 tourists 相比，句意就会变成不清楚。
+只要留下介系词 with，读者就知道 local farmers 是宾语、也知道它的比较对像是主要从句中同样位置的宾语 tourists。但是，如果把介系词 with 也省略掉，又会变成先前那个不佳的句子，因为读者无从判断 local farmers 是主词还是宾语，也就无从判断它是和 these restaurateurs 相比还是和 tourists 相比，句意就会变成不清楚。
 
-经由以上的分析，我们可以下一个小结论：比较句法的平行对称要求类似对等子句，than 或 as 引导的从属子句中也可以像对等子句一样省略掉与主要子句重复的部分；但是省略要以「够清楚」为原则，要注意不得造成「模棱两可」的结果。
+经由以上的分析，我们可以下一个小结论：比较句法的平行对称要求类似对等从句，than 或 as 引导的从属从句中也可以像对等从句一样省略掉与主要从句重复的部分；但是省略要以「够清楚」为原则，要注意不得造成「模棱两可」的结果。
 
 ## 比较的倒装
 
@@ -335,7 +335,7 @@ These restaurateurs do more business <u>with tourists</u> than <u>with local far
 
 <u>Manual laborers</u> are more strongly opposed to <u>immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.（不佳）
 
-这个句子不清楚，主要是因为从属子句中的 white-collar workers 看不出来是主词还是宾语，所以它有可能和主要子句的主词 manual laborers 相比、也有可能和宾语 immigrants 相比，是个模棱两可、并不清楚的比较。如果 white-collar workers 比较的对像是宾语 immigrants，那么这个比较句法可以从下面这两句切入：
+这个句子不清楚，主要是因为从属从句中的 white-collar workers 看不出来是主词还是宾语，所以它有可能和主要从句的主词 manual laborers 相比、也有可能和宾语 immigrants 相比，是个模棱两可、并不清楚的比较。如果 white-collar workers 比较的对像是宾语 immigrants，那么这个比较句法可以从下面这两句切入：
 
 <u>Manual laborers</u> <u>are</u> strongly <u>opposed</u> to <u>immigrants</u>.
 S V C
@@ -351,15 +351,15 @@ S V C
 
 粗工比较强烈排斥移民，却不是那么排斥白领阶级——大量涌进国内的外人对后者的工作并不构成严重的威胁。
 
-从属连接词 than 引导的副词子句中，可以把和主要子句重复的主词（manual laborers）、动词（are）与补语（opposed）都省略掉，意思仍然清楚：
+从属连接词 than 引导的副词从句中，可以把和主要从句重复的主词（manual laborers）、动词（are）与补语（opposed）都省略掉，意思仍然清楚：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>to white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 
-只要把介系词短语 to white-collar workers 中的介系词 to 留下来，读者就知道 white-collar workers 是宾语、它的比较对像是主要子句中的宾语 immigrants。但是，如果把 to white-collar workers 当中的介系词 to 也省略掉，成为下面那句的情况，就不够清楚了：
+只要把介系词短语 to white-collar workers 中的介系词 to 留下来，读者就知道 white-collar workers 是宾语、它的比较对像是主要从句中的宾语 immigrants。但是，如果把 to white-collar workers 当中的介系词 to 也省略掉，成为下面那句的情况，就不够清楚了：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 
-在 white-collar workers 前面少了介系词 to，读者便无从判断它是主词还是宾语，因而也不清楚它的比较对像是主要子句的主词 manual laborers 还是宾语 immigrants。
+在 white-collar workers 前面少了介系词 to，读者便无从判断它是主词还是宾语，因而也不清楚它的比较对像是主要从句的主词 manual laborers 还是宾语 immigrants。
 
 另一种情况，如果 white-collar workers 的比较对像是 manual laborers，那么这个句子可以从以下这两句来切入：
 
@@ -376,19 +376,19 @@ S V C
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>are opposed to immigrants</u>.
 (粗工排斥移民的程度超过白领阶级排斥移民的程度——大量涌进国内的外人对白领阶级的工作并不构成严重的威胁。)
 
-这是个比较句法的复杂句。连接词 than 引导的从属子句中，补语部分 opposed to immigrants 和主要子句的补语相同、可以省略，成为：
+这是个比较句法的复杂句。连接词 than 引导的从属从句中，补语部分 opposed to immigrants 和主要从句的补语相同、可以省略，成为：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>are</u>.
 
-其实，从属子句中的动词 are 也和主要子句的动词重复，本来是可以省略的。但是，必须把动词 are 留下来，读者才知道 white-collar workers 是从属子句的主词、也才知道 white-collar workers 的比较对像是主要子句的主词 manual laborers。如果把重复的动词 are 省掉，会变成这样：
+其实，从属从句中的动词 are 也和主要从句的动词重复，本来是可以省略的。但是，必须把动词 are 留下来，读者才知道 white-collar workers 是从属从句的主词、也才知道 white-collar workers 的比较对像是主要从句的主词 manual laborers。如果把重复的动词 are 省掉，会变成这样：
 
 <u>Manual laborers</u> are more strongly opposed to <u>immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.（不佳）
 
-这又回复到刚才那个句意不清的句子。读者无从判断 white-collar workers 是主词还是宾语、也就无从判断它的比较对像是主要子句的主词 manual laborers 还是宾语 immigrants。 为了排除这种模棱两可的情况，必须把 are 留下来才够清楚，如下：
+这又回复到刚才那个句意不清的句子。读者无从判断 white-collar workers 是主词还是宾语、也就无从判断它的比较对像是主要从句的主词 manual laborers 还是宾语 immigrants。 为了排除这种模棱两可的情况，必须把 are 留下来才够清楚，如下：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country, <u>are</u>.
 
-但是细看一下这个句子，会发现从属子句中主词 white-collar workers 和动词 are 之间隔了一个很长的关系子句。主词和动词的距离太远会造成意思不清楚。而且，动词 are 是个系动词，它后面的补语 opposed to immigrants 省略掉之后，等于是借用主要子句中同样的一个补语。把 are 一个字远远抛在后面，和主词与补语之间都有颇长的距离，这是很不清楚的讲法。可是我们前面分析过，这个 are 又不能省略，否则会出现模棱两可的结果。碰到这种棘手的情况，最好的解决办法就是倒装：
+但是细看一下这个句子，会发现从属从句中主词 white-collar workers 和动词 are 之间隔了一个很长的关系从句。主词和动词的距离太远会造成意思不清楚。而且，动词 are 是个系动词，它后面的补语 opposed to immigrants 省略掉之后，等于是借用主要从句中同样的一个补语。把 are 一个字远远抛在后面，和主词与补语之间都有颇长的距离，这是很不清楚的讲法。可是我们前面分析过，这个 are 又不能省略，否则会出现模棱两可的结果。碰到这种棘手的情况，最好的解决办法就是倒装：
 
 <u>Manual laborers are more strongly opposed to immigrants</u> than <u>are white-collar workers</u>, whose jobs are not seriously threatened by outsiders that swarm into this country.
 

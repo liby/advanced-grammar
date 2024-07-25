@@ -18,7 +18,7 @@ title: 大陆与台湾英语术语对照表
 | 受词子句 | 宾语从句 | Object Clause |
 | 形容词子句 | 定语从句 | Adjective Clause |
 | 副词子句 | 状语从句 | Adverbial Clause |
-| 减化子句 | 简化子句 | Reduced Clauses |
+| 减化子句 | 简化从句 | Reduced Clauses |
 | 所有格代名词 | 物主代词 | Possessive Pronoun |
 | 代名词 | 代词 | Pronoun |
 | 连接词 | 连词 | Conjunction |
