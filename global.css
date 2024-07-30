@@ -1,0 +1,21 @@
+body {
+  footer {
+    div:last-child {
+      justify-content: center;
+    }
+  }
+
+  article {
+    main {
+      ol,
+      ul {
+        margin-top: .8rem !important;
+        margin-left: 2.5rem !important;
+      }
+    }
+
+    .nx-mt-6 {
+      margin-top: .8rem !important;
+    }
+  }
+}

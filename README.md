@@ -11,7 +11,7 @@
 
 - 看到了 [codeyu](https://github.com/codeyu) 制作的《旋元佑进阶文法》[在线项目](https://grammar.codeyu.com/)，发现网站样式有些奇怪，只展示在左半屏。另 issues 列表中有不少人反映[想要英语术语本土化的版本](https://github.com/codeyu/EnglishGrammarBook/issues?q=%E5%A4%A7%E9%99%86)。
 - 珠玉在前，遂按照自己的样式喜好制作了[一版](https://advanced-grammar.vercel.app/)，并完成了对英语术语本土化的转换。
-- 本项目使用 [Starlight](https://starlight.astro.build/) 制作。
+- 本项目使用 [Nextra](https://nextra.site/) 制作。
 - 如遇到错误或者问题，可以在 [issues](https://github.com/liby/advanced-grammar/issues/) 区提出。
 
 
