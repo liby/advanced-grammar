@@ -212,7 +212,7 @@ time immemorial     久远以前
 
   - <u>These flowers</u> <u>smell</u> <u>sweet</u>. S V C（这些花闻起来很香。）
 
-    上句中的 sweet 是个形容词单词，放在主语补足语位置、修饰主词 these flowers.
+    上句中的 sweet 是个形容词单词，放在主语补足语位置、修饰主语 these flowers.
 
   - <u>The boss</u> <u>kept</u> <u>us</u> <u>busy</u>. S V O C（老板让我们一直很忙。）
 
@@ -220,7 +220,7 @@ time immemorial     久远以前
 
   - <u>That building</u> <u>is</u> <u>18 stories tall</u>. S V C（那栋大楼有 18 层高。）
 
-    形容词短语 18 stories tall 放在主语补足语位置、修饰主词 that building。请注意：形容词短语中可以包含复数名词，所以 18 stories 用的是复数。
+    形容词短语 18 stories tall 放在主语补足语位置、修饰主语 that building。请注意：形容词短语中可以包含复数名词，所以 18 stories 用的是复数。
 
   - <u>I</u> <u>saw</u> <u>the dog</u> <u>crossing the street</u>. S V O C（我看到狗在过马路。）
 

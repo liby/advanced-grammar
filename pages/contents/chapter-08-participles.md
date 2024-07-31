@@ -30,15 +30,15 @@ This is a <u>good</u> book.（这是一本好书。）
 
   - The book is <u>good</u>.（这本书很好。）
 
-    形容词 good 放在 is 后面当主语补足语使用、修饰主词 the book。这个位置也可以放进分词（现在分词与过去分词），如下：
+    形容词 good 放在 is 后面当主语补足语使用、修饰主语 the book。这个位置也可以放进分词（现在分词与过去分词），如下：
 
   - The book is <u>selling well</u>.（这本书卖得很好。）
 
-    依照传统语法的诠释，这个句子的动词应该是 is selling 这个动词短语，称为「现在进行时」。这是正确的诠释。但是如果采用传统语法的诠释方式，动词时态有24种之多，非常复杂。反之，如果另辟蹊径、变通一下，认定 be 动词就是动词、后面的分​​词是形容词补语，那么时态的问题就会变得非常简单。拿上面这个例子来说，简单化的诠释是这样的：动词是 is，它的时态是「一般现在时」，后面 selling well 这个分词短语是形容词短语，当主语补足语使用，修饰主词 the book。现在分词的 -ing 词尾表达「进行」状态，所以 selling well 这个形容词短语表示这本书「正在」或「一直」卖得很好。
+    依照传统语法的诠释，这个句子的动词应该是 is selling 这个动词短语，称为「现在进行时」。这是正确的诠释。但是如果采用传统语法的诠释方式，动词时态有24种之多，非常复杂。反之，如果另辟蹊径、变通一下，认定 be 动词就是动词、后面的分​​词是形容词补语，那么时态的问题就会变得非常简单。拿上面这个例子来说，简单化的诠释是这样的：动词是 is，它的时态是「一般现在时」，后面 selling well 这个分词短语是形容词短语，当主语补足语使用，修饰主语 the book。现在分词的 -ing 词尾表达「进行」状态，所以 selling well 这个形容词短语表示这本书「正在」或「一直」卖得很好。
 
   - The book is <u>well written</u>.（这本书写得很好。）
 
-    依照传统语法的诠释，这个句子的动词应该是 is written 这个动词短语，称为「现在简单被动态」。简单化的诠释则是一律认定 be 为动词，后面 well written 这个过去分词短语就当形容词补语看待、修饰主词 the book。过去分词的词尾具有「被动」语态或「完成」状态，所以 well written 这个形容词短语表示这本书「被写」或「已经写」得很好。
+    依照传统语法的诠释，这个句子的动词应该是 is written 这个动词短语，称为「现在简单被动态」。简单化的诠释则是一律认定 be 为动词，后面 well written 这个过去分词短语就当形容词补语看待、修饰主语 the book。过去分词的词尾具有「被动」语态或「完成」状态，所以 well written 这个形容词短语表示这本书「被写」或「已经写」得很好。
 
 ## 分词的动词用法与形容词用法比较
 
@@ -66,7 +66,7 @@ This is a <u>good</u> book.（这是一本好书。）
 
 第 1 句的时间是过去（last night），动词采用过去式的被动态动词短语 was annoyed，后面有 by 引导的介系词短语来表示「被谁」。这些观察显示这个句子的动词是 was annoyed，过去分词 annoyed 属于动词短语中的一部分。
 
-第 2 句的情况不同。在过去分词 annoyed 前面可以加上强调语气的副词 very，这表示 annoyed 在此是当形容词使用，作为主语补足语、修饰主词 I。这个句子的句型和 I am very angry with him 类似，annoyed 和 angry 同样都是当形容词补语使用。
+第 2 句的情况不同。在过去分词 annoyed 前面可以加上强调语气的副词 very，这表示 annoyed 在此是当形容词使用，作为主语补足语、修饰主语 I。这个句子的句型和 I am very angry with him 类似，annoyed 和 angry 同样都是当形容词补语使用。
 
 以上是详细的区分。不过，从语言学习者的角度来看，忽略上述的差别，一律认定 be 为动词、后面的过去分词为形容词补语，这种简单化的诠释也可以行得通。例如上列第 1 句，也可以选择把 was 视为动词、后面的分​​词 annoyed by mosquitoes 视为形容词补语。这是为了求其简单与统一，把第 1 句和第 2 句的句型作相同的诠释。过去分词 annoyed 本身具有「被动」语态，表示「被打扰」。
 
@@ -78,7 +78,7 @@ This is a <u>good</u> book.（这是一本好书。）
 
   - My wallet <u>was</u> <u>stolen</u> last night.（我的皮夹昨晚被偷了。）
 
-传统语法认定 was stolen 为被动态的动词短语。比较简单的看法则是一律认定 be 为动词（时间是 last night 所以采用过去式的 was），后面的过去分词 stolen 认定为形容词补语、本身具有「被动」语态，表示「被偷」，用来修饰主词 my wallet。以这种方式来诠释，就不必去背「be + V-en = 被动态」这条公式了。请比较一下这两个句子：
+传统语法认定 was stolen 为被动态的动词短语。比较简单的看法则是一律认定 be 为动词（时间是 last night 所以采用过去式的 was），后面的过去分词 stolen 认定为形容词补语、本身具有「被动」语态，表示「被偷」，用来修饰主语 my wallet。以这种方式来诠释，就不必去背「be + V-en = 被动态」这条公式了。请比较一下这两个句子：
 
   1. <u>I</u> <u>found</u> <u>my wallet</u> <u>stolen</u>. S V O C（我发觉我的皮夹被偷了。）
 
@@ -132,7 +132,7 @@ This is a <u>good</u> book.（这是一本好书。）
 
   - The movie was really <u>boring</u>.（这部电影真的很无聊。）
 
-    这个句子里面虽然有 be + V-ing（was boring），却不是进行时。句中的动词是一般过去时的 was，后面的现在分词 boring 是形容词，当作主语补足语、修饰主词 the movie。反之：
+    这个句子里面虽然有 be + V-ing（was boring），却不是进行时。句中的动词是一般过去时的 was，后面的现在分词 boring 是形容词，当作主语补足语、修饰主语 the movie。反之：
 
       - drifting leaves 随水漂流的树叶
 
@@ -164,4 +164,4 @@ This is a <u>good</u> book.（这是一本好书。）
 
   - <u>he</u> <u>was</u> <u>teaching his son English at home</u>. S V C
 
-    这时候动词就是 was，一般过去时，后面的 teaching his son English at home 是现在分词短语，当形容词补语使用（主语补足语），修饰主词 he。现在分词 -ing 词尾表达「进行」状态，所以有「正在」教的意思。这种诠释方式除了简单化，还有一项好处：很容易由此简化成为上列的第 2 句 We found him teaching his son English at home。在第 2 句中，teaching his son English at home 是现在分词短语，当形容词补语使用（宾语补足语），修饰宾语 him。
+    这时候动词就是 was，一般过去时，后面的 teaching his son English at home 是现在分词短语，当形容词补语使用（主语补足语），修饰主语 he。现在分词 -ing 词尾表达「进行」状态，所以有「正在」教的意思。这种诠释方式除了简单化，还有一项好处：很容易由此简化成为上列的第 2 句 We found him teaching his son English at home。在第 2 句中，teaching his son English at home 是现在分词短语，当形容词补语使用（宾语补足语），修饰宾语 him。
