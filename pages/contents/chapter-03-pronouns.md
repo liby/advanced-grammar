@@ -2,7 +2,7 @@
 title: 第三章 代名词
 ---
 
-## 代词(pro-forms)
+## 代词（pro-forms）
 
 请先看看几个例子：
 
