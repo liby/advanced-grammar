@@ -14,11 +14,11 @@ S V O
 
 <u>I</u> <u>am</u> <u>caught</u>.
 S V C
-(我被逮到。)
+（我被逮到。）
 
 <u>I</u> <u>am</u> <u>unprepared</u>.
 S V C
-(我没做好准备。)
+（我没做好准备。）
 
 这三个句子若分成三个简单句来表述如上，很明显句型缺乏变化、风格不够成熟，而且表达力差。另一个选择是把三句合在一起写成一个复杂句，如下：
 
@@ -77,13 +77,13 @@ S V O
 <u>While taking a bath</u>, Archimedes discovered the principle of buoyancy.
 简化副词从句
 
-这里所谓的省略 be 动词，包括一般所谓的进行时与被动态在内。如上例中的副词从句 while he was taking a bath，一般语法书的诠释都是说 was taking 是过去进行时的动词短语。如果采取简单化的认定，视 be 动词为动词、后面的分​​词短语为形容词补语，那么这个副词从句经过简化、省掉主语与 be 动词之后，留下的就是 taking a bath 这个有「进行」意味的现在分词短语。至于原来的连词 while，它的语法功能是引导一个时间副词从句。如今这个副词从句已经简化为非限定从句，这个连词也不再有需要、可以省略。不过，while 除了连词的语法功能之外，还有「当…时候」的字意在内。如果要保留这个字意，也可以选择把 while 留下来。
+这里所谓的省略 be 动词，包括一般所谓的进行时与被动态在内。如上例中的副词从句 while he was taking a bath，一般语法书的诠释都是说 was taking 是过去进行时的动词短语。如果采取简单化的认定，视 be 动词为动词、后面的分​​词短语为形容词补语，那么这个副词从句经过简化、省掉主语与 be 动词之后，留下的就是 taking a bath 这个有「进行」意味的现在分词短语。至于原来的连词 while，它的语法功能是引导一个时间副词从句。如今这个副词从句已经简化为非限定从句，这个连词也不再有需要、可以省略。不过，while 除了连词的语法功能之外，还有「当……时候」的字意在内。如果要保留这个字意，也可以选择把 while 留下来。
 
 ### 2\. 语气助动词改写为表示不定式的 to
 
 <u>I</u> <u>expect</u> [that I can finish the book on the way].
 S V O 名词从句
-(我预期可以在路上看完这本书。)
+（我预期可以在路上看完这本书。）
 
 中括号内是名词从句，当作主要从句动词 expect 的宾语使用。名词从句里面的主语 I 和主要从句的主语 I 相同，因而有简化的空间。做法是将名词从句中重复的主语 I 省略、再将动词简化。名词从句中的动词短语是 can finish，而所有的语气助动词都可以改写为 be + to、意思仍然接近，所以可以先这样修改：把 I can finish the gook 改写为 I am to finish the book，然后再将无意义的 be 动词连同重复的主语一起省略，整个名词从句就简化为不定式短语 to finish the book on the way。原来的连词 that 只有语法功能、没有意义。在句子简化之后，这种连词自然会一并省略，整个句子简化结果如下：
 
@@ -94,7 +94,7 @@ S V O 简化名词从句
 
 <u>The</u> <u>runner</u> [who finished second] won a small prize.
 S V O 关系从句
- (跑第二名的选手赢得一笔小额奖金。)
+ （跑第二名的选手赢得一笔小额奖金。）
 
 关系从句 who finished second 修饰先行词 the runner。关系从句的主语 who 和先行词重复，因而有可以简化的空间。简化的做法是省略掉关系从句主语 who，然后把关系从句的动词简化为非限定动词。因为这个动词（finished）里面没有 be 动词也没有语气助动词，所以可以先这样修改：把 who finished second 改写为 who was finishing second。这样做的目的并不是要改成进行时，而是为了做词类变化：把限定动词 finished 改为现在分词 finishing、成为主语补足语保留下来，动词变成无意义的 was 可以连同重复的主语 who 一并省略，关系从句 who finished second 就可以简化为现在分词词组 finishing second，整个句子简化如下：
 

@@ -10,13 +10,13 @@ title: 第二十三章 关系从句简化
 
 ## 简化为分词
 
-关系从句最常见的变化情况就是简化为现在分词短语或过去分词短语。这种情况, 关系从句的主语应该就是关系代词, 与先行词重复。关系从句的动词如果是一般语法所谓的**进行时(be + V-ing)**&#8203;, 省略掉 be 动词之后就会剩下现在分词。如果动词是一般语法所谓的**被动态(be + Ven)**&#8203;, 省略掉 be 动词之后剩下的就是过去分词。如果关系从句的动词是普通动词,则需要加上 -ing 进行词类变化、变成现在分词。先看看简化为现在分词的情况。
+关系从句最常见的变化情况就是简化为现在分词短语或过去分词短语。这种情况，关系从句的主语应该就是关系代词， 与先行词重复。关系从句的动词如果是一般语法所谓的**进行时(be + V-ing)**&#8203;，省略掉 be 动词之后就会剩下现在分词。如果动词是一般语法所谓的**被动态(be + Ven)**&#8203;，省略掉 be 动词之后剩下的就是过去分词。如果关系从句的动词是普通动词，则需要加上 -ing 进行词类变化、变成现在分词。先看看简化为现在分词的情况。
 
 ### 现在分词
 
 <u>The man</u> [who wants to see you] is waiting outside.
 先行词 关系从句
-(想见你的那个人在外头等着。)
+（想见你的那个人在外头等着。）
 
 中括号内是个关系从句，它的主语 who 就是关系代词，代表的就是前面的先行词 the man、在此与主要从句产生重复。关系从句简化的做法，第一步是把重复的主语 who 省略掉，第二步应该是省掉 be 动词。但是这个关系从句只有普通动词 wants。如前所述，如果动词是普通动词，没有 be 动词也没有助动词，那么简化的方式是一律加 -ing 作词类变化，所以动词就简化为 wanting 这个现在分词。结果如下：
 
@@ -27,7 +27,7 @@ title: 第二十三章 关系从句简化
 
 <u>My Encyclopedia Britannica</u>, [which is lying on the bookshelf and gathering dust], has seldom been used.
 先行词 关系从句
-(我那套大英百科全书，摆在书架上积灰尘，没用过几次。)
+（我那套大英百科全书，摆在书架上积灰尘，没用过几次。）
 
 这个关系从句前后有一对逗点隔开，等于是放在一对括号里面做补充说明之用、缺乏指示功能。它的简化方式还是相同。关系代词 which 就是关系从句的主语，与先行词重复。关系从句的动词是 be 动词 is。只要省略掉这个重复的主语与空洞无内容的 be 动词，剩下的补语部分 lying on the bookshelf and gathering dust 这个现在分词短语就是成功的简化形容词从句，可以充分取代原来那个关系从句，同样修饰先行词、表达同样的意思：
 
@@ -38,7 +38,7 @@ title: 第二十三章 关系从句简化
 
 <u>Anyone</u> [that has visited Bali once] will want to return.
 先行词 关系从句
-(只要是来过峇里岛一次的人都会想要​​再来。)
+（只要是来过峇里岛一次的人都会想要​​再来。）
 
 关系从句的主语 that 就是关系代词（相当于 which）、与先行词重复，简化时可以省略。动词 has visited 是完成时，简化时必须加上 -ing 作词类变化才能保留下来，如下：
 
@@ -94,11 +94,11 @@ title: 第二十三章 关系从句简化
 ### 复合现在分词
 
 “Big John” is <u>a machine</u>.
-(「大约翰」是一种机器。)
+（「大约翰」是一种机器。）
 
 <u>The machine</u> <u>drills</u> <u>tunnels</u>.
 S V O
-(这种机器用于钻凿隧道。)
+（这种机器用于钻凿隧道。）
 
 这两个句子在 machine 一字有交集而建立关系，可以改写成关系代词，制造关系从句如下：
 
@@ -112,11 +112,11 @@ S V O
 再看一个例子：
 
 <u>That magazine</u> is for women.
-(那本杂志是妇女杂志。)
+（那本杂志是妇女杂志。）
 
 <u>That magazine</u> <u>looks</u> <u>beautiful</u>.
 S V C
-(那本杂志看起来很漂亮。)
+（那本杂志看起来很漂亮。）
 
 这两个句子经由 magazine 的交集建立关系，可以改写为关系代词、制造出这个复杂句：
 
@@ -130,11 +130,11 @@ S V C
 下面这个例子的情况也差不多：
 
 I’m enjoying <u>the sunset</u>.
-(我在欣赏夕阳。)
+（我在欣赏夕阳。）
 
 <u>The sunset</u> <u>is</u> <u>vanishing</u> fast.
 S V C
-(夕阳快速消失。)
+（夕阳快速消失。）
 
 这两个句子在 sunset 建立关系，可以写成这样的复杂句：
 
@@ -150,11 +150,11 @@ I’m enjoying <u>the fast-vanishing sunset</u>.
 关系从句简化为复合形容词，如果原来是被动语态，往往会成为复合过去分词的形态，例如：
 
 I love <u>these high peaks</u>.
-(我喜欢这些高峰。)
+（我喜欢这些高峰。）
 
 <u>These high peaks</u> <u>are</u> <u>covered</u> with snow.
 S V C
-(这些高峰被白雪覆盖。)
+（这些高峰被白雪覆盖。）
 
 这两个句子在 these high peaks 建立关系，可以改写为关系代词、制造出下面这个复杂句：
 
@@ -209,7 +209,7 @@ A chimpanzee is <u>an animal</u> [capable of reason].
 
 这个男孩，以他的年龄来说长得特别高大，想当相扑选手。
 
-关系从句的主语就是关系代词 who，和先行词 the boy 重复。动词是 be，后面的主语补足语是形容词短语 unusually tall and heary for his age。这个关系从句前后有一对逗点隔开，不具有指示性，所以关系代词不能用 that。简化的方式仍然相同：省略掉重复的主语 who 和空洞的 be 动词，剩下的简化从句就是单纯的形容词补语，如下：
+关系从句的主语就是关系代词 who，和先行词 the boy 重复。动词是 be，后面的主语补足语是形容词短语 unusually tall and heavy for his age。这个关系从句前后有一对逗点隔开，不具有指示性，所以关系代词不能用 that。简化的方式仍然相同：省略掉重复的主语 who 和空洞的 be 动词，剩下的简化从句就是单纯的形容词补语，如下：
 
 <u>The boy</u>, [usually tall and heavy for his age], wants to be a sumo wrestler.
 先行词 简化关系从句
@@ -249,7 +249,7 @@ This movie features <u>Tom Hanks</u>, [my favorite movie star].
 
 This is not <u>the right thing</u> [which you should do].
 先行词 关系从句
-(你现在该做的不是这件事。)
+（你现在该做的不是这件事。）
 
 关系从句中的关系代词 which 不再扮演主语的角色，而是动词 should do 的宾语。因为关系代词是宾语，可以先行省略，剩下 you should do，再来进行简化：主语 you 省掉的话句意仍然清楚，动词部分有语气助动词 should，简化的结果就是变成表示不定式的 to，如下：
 
@@ -260,7 +260,7 @@ This is not <u>the right thing</u> [to do].
 
 <u>If you want a loan</u>, our manager is <u>the person</u> [whom you should see].
 副词从句 先行词 关系从句
-(如果你要贷款，应该去找的人是我们经理。)
+（如果你要贷款，应该去找的人是我们经理。）
 
 关系从句中的关系代词 whom 是动词 should see 的宾语，可以先行省略，剩下的 you should see 再来进行简化：省略掉重复的主语 you（与副词从句主语重复）、助动词 should 简化为表示不定式的 to，如下：
 
@@ -282,7 +282,7 @@ This is not <u>the right thing</u> [to do].
 
 This is <u>no time</u> [when you should be fooling around].
 先行词 关系从句
-(这不是可以胡闹的时候。)
+（这不是可以胡闹的时候。）
 
 关系从句中的 when 是关系副词，因为没有逗点隔开所以可以先行省略，剩下 you should be fooling around 再来进行简化：省略笼统的主语 you、助动词 should 简化为表示不定式的 to ，如下：
 
@@ -293,7 +293,7 @@ This is <u>no time</u> [to be fooling around].
 
 I’ll show you <u>the way</u> [how you can start this machine].
 先行词 关系从句
-(我告诉你该怎么发动这台机器。)
+（我告诉你该怎么发动这台机器。）
 
 关系从句的连词是关系副词 how，因为没有逗点隔开所以可以先行省略。接下来进行简化：省略掉重复的主语 you（与主要从句的宾语 you 重复）、助动词 can 简化为表示不定式的 to，如下：
 
@@ -304,7 +304,7 @@ I’ll show you <u>the way</u> [to start this machine].
 
 I’m glad <u>because I have</u> <u>something</u> [that I can look forward to].
 副词从句 先行词 关系从句
-(我很高兴，因为我有一件可以盼望的事。)
+（我很高兴，因为我有一件可以盼望的事。）
 
 关系从句中的关系代词 that（相当于 which）是介词 to 的宾语。因为这个关系从句并没有用逗点和先行词隔开，具有指示功能，所以当宾语使用的关系代词 that 可以先行省略，剩下 I can look forward to 再来进行简化。简化的做法是省掉重复的主语 I、助动词 can 简化为表示不定式的 to，如下：
 
@@ -315,38 +315,38 @@ I’m glad <u>because I have</u> <u>something</u> [to look forward to].
 
 ### 不定式短语的语态
 
-关系从句简化为不定式短语,要注意的是主动或被动语态的判断。例如:
+关系从句简化为不定式短语，要注意的是主动或被动语态的判断。例如:
 
 There’s still one more person <u>to notify</u>.
 There’s still one more person <u>to be notified</u>.
-(还有一个人要通知。)
+（还有一个人要通知。）
 
-句 1 和和 2 这两种讲法,不定式短语(简化形容词从句)中一个用主动语态、一个用被动语态。两种讲法都是语法正​​确的讲法。这时候,如果光是把不定式视为语气助动词的词类变化看待,那么主动被动语态的问题就很难解释清楚,必须还原为关系从句才能够看懂它的变化。可以把句子拆开成为下面两个简单句来理解:
+句 1 和和 2 这两种讲法，不定式短语（简化形容词从句）中一个用主动语态、一个用被动语态。两种讲法都是语法正​​确的讲法。这时候，如果光是把不定式视为语气助动词的词类变化看待，那么主动被动语态的问题就很难解释清楚，必须还原为关系从句才能够看懂它的变化。可以把句子拆开成为下面两个简单句来理解:
 
 There’s still <u>one more person</u>. <u>We</u> <u>must notify</u> <u>the person</u>.
 先行词 S V O
 
-后面这一句的宾语 the person 就是前一句的先行词 one more person, 可以改写为关系代词、制造出复杂句如下:
+后面这一句的宾语 the person 就是前一句的先行词 one more person，可以改写为关系代词、制造出复杂句如下:
 
 There’s still <u>one more person</u> [whom we must notify].
 先行词 关系从句
 
-因为关系从句中的关系词 whom 是宾语,可以先行省略,成为:
+因为关系从句中的关系词 whom 是宾语，可以先行省略，成为:
 
 There’s still <u>one more person</u> [we must notify].
 先行词 关系从句
 
-这个关系从句中的主语是 we。如果简化的结果是不定式,那么只要意思够清楚,关系从句的主语就可以省略掉。再把动词 must notify 简化为 to notify(语气助动词都可以简化为表示不定式的 to),即成为上列第 1 句 There's still one more person to notify 的结果,不定式短语中用的是主动语态。反之,如果原先是这两句:
+这个关系从句中的主语是 we。如果简化的结果是不定式，那么只要意思够清楚，关系从句的主语就可以省略掉。再把动词 must notify 简化为 to notify(语气助动词都可以简化为表示不定式的 to)，即成为上列第 1 句 There's still one more person to notify 的结果，不定式短语中用的是主动语态。反之，如果原先是这两句:
 
 There’s still <u>one more person</u>. <u>He</u> <u>must be</u> <u>notified</u>.
 先行词 S V C
 
-后句的主语 he 代表的就是前句的 one more person,改写为关系代词 who 就会成为这个复杂句:
+后句的主语 he 代表的就是前句的 one more person，改写为关系代词 who 就会成为这个复杂句:
 
 There’s still <u>one more person</u> [who must be notified].
 先行词 关系从句
 
-这个关系从句来进行简化。主语就是关系代词 who,和先行词重复。动词 must be 可以简化为 to be,所以关系从句简化的结果会变成 to be notified 这个不定式短语,也就是前面第 2 句 There is one more person <u>to be notified</u> 的结果,不定式短语中采用的是被动语态。
+这个关系从句来进行简化。主语就是关系代词 who，和先行词重复。动词 must be 可以简化为 to be，所以关系从句简化的结果会变成 to be notified 这个不定式短语，也就是前面第 2 句 There is one more person <u>to be notified</u> 的结果，不定式短语中采用的是被动语态。
 
 ### 主动与被动孰优孰劣
 
@@ -362,7 +362,7 @@ When <u>John stepped</u> into his office, <u>the boss was seen</u> waiting there
 这个复杂句当中，前面的副词从句采主动语态，主语是 John；后面的主要从句采被动语态，主语是 boss。前后两个从句的主语不同，造成叙事不连贯，修辞效果较差。观察一下不难发现，主要从句中其实也有一个代表 John 的代词 him，但是当宾语使用。应该修改如下：
 
 When <u>John stepped</u> into his office, <u>he saw</u> the boss waiting there.
-(约翰走进办公室时，看到老板正在等着。)
+（约翰走进办公室时，看到老板正在等着。）
 
 把主要从句改成主动语态，主语也变成 he（代表 John），和副词从句的主语相同。前后两个从句的主语相同，因此连贯性增加了、句子也变得比较清楚。不仅如此，主语相同之后又可以进一步简化，如下：
 
@@ -388,7 +388,7 @@ When <u>John stepped</u> out of his office, <u>he was hit</u> by a car.
 不定式短语中如果是采用主动语态和被动语态都可以的情况，那么该用哪一个比较好？这个问题应该把不定式短语还原为限定从句、并且利用连贯性原则来判断。例如：
 
 <u>I</u> must stay at the office [because <u>I</u> have some people] <u>to notify</u>.
-(我必须留在办公室，因为我还有一些人必须通知。)
+（我必须留在办公室，因为我还有一些人必须通知。）
 
 这个句子，句尾那个不定式短语 to notify 如果改为被动态的 to be notified，语法仍然正确，但是修辞效果不佳。为什么？这个问题传统语法答不出来，必须采取简化从句的角度才看得清楚。我们先回到原点，把这个复杂句拆开成为三个简单句，如下：
 
@@ -410,7 +410,7 @@ I must stay at the office because I have some people <u>to notify</u>.
 反观下面这个例子：
 
 <u>The news</u> can’t be released yet [because there are <u>some people</u>] <u>to be notified first</u>.
-(这则新闻还不能发布，因为还有些人必须先行知会。)
+（这则新闻还不能发布，因为还有些人必须先行知会。）
 
 上面这个复杂句，句尾的不定式短语 to be notified first 用的是被动态。如果改为主动态 to notify first，语法也是正确的，但是修辞效果较差。为什么？要回答这个问题，不妨先把这个复杂句拆开成为如下三个简单句：
 
@@ -435,9 +435,9 @@ The news can’t be released yet because there are some people <u>to be notified
 
 I’m looking for <u>a motorcycle</u> [that my wife can ride].
 先行词 关系从句
-(我在找一辆我太太可以骑的机车。)
+（我在找一辆我太太可以骑的机车。）
 
-关系从句中的关系代词 that（相当于 which）是宾语，因为没有逗点和先行词隔开所以可以先行省略，剩下 my wife can ride 再来进行简化：主语 my wife 和主要从句之间并无重复，而且 my wife 并不是像 people, somebody 之类含糊笼统的字，所以不能省略。碰到这种情况，助动词 can 仍然简化为表示不定式的 to，而配合不定式短语，原来的主语应该放在介词 for 后面的宾语位置来交代，如下：
+关系从句中的关系代词 that（相当于 which）是宾语，因为没有逗点和先行词隔开所以可以先行省略，剩下 my wife can ride 再来进行简化：主语 my wife 和主要从句之间并无重复，而且 my wife 并不是像 people、somebody 之类含糊笼统的字，所以不能省略。碰到这种情况，助动词 can 仍然简化为表示不定式的 to，而配合不定式短语，原来的主语应该放在介词 for 后面的宾语位置来交代，如下：
 
 I’m looking for <u>a motorcycle</u> [for my wife to ride].
 先行词 简化关系从句

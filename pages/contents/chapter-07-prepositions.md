@@ -284,7 +284,7 @@ I promised my kid a new notebook, so I can't <u>go back on my word</u> n​​ow
 
 除了时间、空间之外，还有一些介系词用于表达其他的观念。比较值得注意的有以下这些。
 
-### apart from 除了 … 之外
+### apart from 除了……之外
 
 这个介系词有两种不同的用法。它可以相当于 except for，表示「除了……之外就没了」，例如：
 
@@ -300,7 +300,7 @@ I promised my kid a new notebook, so I can't <u>go back on my word</u> n​​ow
 
   - I don't blame you. <u>As for your friend</u>, he has behaved very badly.（我并不怪你。至于你的朋友，他的行为就很差劲。）
 
-### for 为了 …，以（价钱），支援
+### for 为了……，以（价钱），支援
 
 这是个常用的介系词，有好几种解释。
 
@@ -310,7 +310,7 @@ I promised my kid a new notebook, so I can't <u>go back on my word</u> n​​ow
 
 - Are you <u>for the tax cut</u>?（你支持减税案吗？）
 
-### of …… 的
+### of ……的
 
 这是出现频率最高的介系词之一，有好几种用法。
 
@@ -340,7 +340,7 @@ No one <u>but</u>(= except) <u>a fool</u> would accept a challenge like that.（
 
 - He signed his name <u>in black ink</u>.（他以黑墨水签下名字。）
 
-### up to 由 …… 决定，可以胜任，在从事（或计划）
+### up to 由……决定，可以胜任，在从事（或计划）
 
 这个介系词有好几种不同的意思，请读者由例句中自行判读。
 
@@ -350,7 +350,7 @@ No one <u>but</u>(= except) <u>a fool</u> would accept a challenge like that.（
 
 - Do you know <u>what</u> Tom has been <u>up to</u> recently?（你知道汤姆最近在搞什么鬼吗？）
 
-### between / among 在 … 之间
+### between / among 在……之间
 
 一般语法书说 between 用于表示两者之间，among 则是三者以上。这个区别大致说来是可以接受的，可是要拿它当规则来背，就会有例外。其实这两个介系词的差别主要不在两个与多个之差，而在于：between 有标示位置的功能（意思是「夹在中间」），among 则没有（只表示「其中，之中」）。例如：
 
@@ -366,7 +366,7 @@ No one <u>but</u>(= except) <u>a fool</u> would accept a challenge like that.（
 
 在这个例子中，between 后面有四个国家，可是仍然要用 between，主要是因为现在是用这四个国家来标示位置，把瑞士「夹在中间」，而不是笼统地表示「其中、之中」。既然有标示位置的功能，就应该用 between。
 
-### except / except for 除了 ……
+### except / except for 除了……
 
 一般的情况下，except for 和 except 的用法与意思都差不多。但是放在句首时只能用 except for，不能用 except。
 
@@ -377,7 +377,7 @@ No one <u>but</u>(= except) <u>a fool</u> would accept a challenge like that.（
 - <u>Except for George</u>, you can all go.
 
 
-### on / about（谈论）关于 …
+### on / about（谈论）关于……
 
 文章或演说的主题，如果采比较正式的口吻、比较专业或学术化，就应该用 on 这个介系词来表示。如果是非正式的口吻，用 about 就行了。
 
@@ -385,13 +385,13 @@ No one <u>but</u>(= except) <u>a fool</u> would accept a challenge like that.（
 
 - He’s talking <u>about his childhood</u>.（他在谈他的童年。）
 
-### over 关于 …
+### over 关于……
 
 如果是「争论」的话题，通常要用 over 这个介系词来表示，例如：
 
   - They're arguing <u>over their share</u> of the property.（他们在争这份财产要怎么分。）
 
-### through 经由 ……，靠 ……
+### through 经由……，靠……
 
 这个介系词可以表示「途径」或「手段」，例如：
 

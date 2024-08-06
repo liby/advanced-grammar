@@ -95,7 +95,7 @@ S V (adv.) （狗冲着邮差叫得很凶。）
 
 ### 频率副词（adverbs of frequency）
 
-像 always、frequently、usually、often、seldom、hardly、never… 之类，这些副词用于修饰动作发生的频率，是修饰动词专用的副词。它的位置应该放在动词前后：一般是放在普通动词的前面、be 动词与助动词的后面。不过，这种动词的位置也很有弹性，往往可以移到句首或句尾等其他位置。
+像 always、frequently、usually、often、seldom、hardly、never…… 之类，这些副词用于修饰动作发生的频率，是修饰动词专用的副词。它的位置应该放在动词前后：一般是放在普通动词的前面、be 动词与助动词的后面。不过，这种动词的位置也很有弹性，往往可以移到句首或句尾等其他位置。
 
   - I <u>usually get up</u> very early.（我通常起得很早。）
 

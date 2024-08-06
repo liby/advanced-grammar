@@ -18,7 +18,7 @@ title: 第二十一章 倒装句
 
 <u>The weatherman</u> <u>says</u>, <u>“The typhoon is expected to swerve north for Japan.”</u>
 S V O
-(气象预报员说：「台风预期将偏北转往日本。」)
+（气象预报员说：「台风预期将偏北转往日本。」）
 
 双引号里面的部分是直接引句，这个名词从句扮演宾语的角色。可以选择把这个直接引句移到句首，并且把动词倒装到主语前面，整个句子变成倒装句，如下：
 
@@ -104,7 +104,7 @@ C V S
 这种倒装句除了加强语气，还常常用来增加上下文的连贯性。例如：
 
 Across the street stood the drugstore. Next to the drugstore is a large park. In the park dwell dozens of ground squirrels.
-(街对面就是药房。药房旁边有个大公园。公园里头住了几十只地面松鼠。)
+（街对面就是药房。药房旁边有个大公园。公园里头住了几十只地面松鼠。）
 
 这一连串三个句子都是把地方副词移到句首，然后直接把动词倒装到主语前面。这样处理的好处是句子的连贯性较佳：这三个句子采用空间顺序（spatial order）排列，三句全部用地方副词开头适足以呈现出空间顺序，文章发展的逻辑因而表现得更清楚、文章显得更有条理。
 
@@ -114,11 +114,11 @@ Across the street stood the drugstore. Next to the drugstore is a large park. In
 
 The Amazon is <u>a pristine river</u>.
 先行词
-(亚马逊是条原始河流。)
+（亚马逊是条原始河流。）
 
 <u>The deadly pirana</u> <u>roam</u> <u>in that river</u>.
 S V 地方副词
-(致命的食人鱼在那条河中漫游。)
+（致命的食人鱼在那条河中漫游。）
 
 两句在名词 river 上重复而建立关系，可以把句 2 中的 river 改写为关系代词 which，然后把介词短语 in which 移到句首扮演连词角色，成为关系从句 in which the deadly pirana roam，再将关系从句置于句 1 的先行词 river 之后，就成为下面这个复杂句：
 
@@ -134,11 +134,11 @@ The amazon is <u>a pristine river</u> [<u>in which</u> <u>roam</u> <u>the deadly
 
 The Amazon is <u>a pristine river</u>.
 先行词
-(亚马逊是条原始河流。)
+（亚马逊是条原始河流。）
 
 <u>Environmentalists</u> <u>love</u> <u>the river</u>.
 S V O
-(环保人士喜爱那条河。)
+（环保人士喜爱那条河。）
 
 这两个句子在 river 一字的重复上建立关系，可以用关系​​从句构成复杂句如下：
 
@@ -155,7 +155,7 @@ The Amazon is <u>a pristine river</u> [<u>which</u> <u>environmentalists</u> <u>
 
 [If <u>I</u> <u>had been</u> <u>there</u>], I could have prevented the accident.
 S V C
-(如果当时有我在，我或许可以防止意外发生。)
+（如果当时有我在，我或许可以防止意外发生。）
 
 从属连词 if 引导的副词从句，动词的语气是表示「过去时间非事实」的假设语气。动词短语 had been 包括语法助动词 had，可以选择把 had 倒装到句首，以这种方式取代连词、省略掉从属连词 if，如下：
 
@@ -165,7 +165,7 @@ S V C
 
 [If <u>I</u> <u>were</u> <u>a millionaire</u>], I would first buy a big house.
 S V C
-(如果我是百万富翁，我会先买个大房子。)
+（如果我是百万富翁，我会先买个大房子。）
 
 这个副词从句的动词采用「现在时间非事实」的假设语气，有 be 动词（were）。可以选择把 be 动词倒装到句首，以这种方式取代从属连词 if、获致简洁的效果，如下：
 
@@ -174,7 +174,7 @@ S V C
 不过，假设语气的副词从句如果是普通动词（没有助动词或 be），就不能采用这种倒装方式。例如：
 
 [If I <u>knew</u> how], I would gladly do it.
-(很可惜我不会，不然我很乐意做这件事。)
+（很可惜我不会，不然我很乐意做这件事。）
 
 中括号里面是条件副词从句，属于「现在时间非事实」的假设语气。但是这个副词从句中只有普通动词 knew，缺乏助动词或 be 动词等可以移动的东西，所以这个从句无法倒装、也不能省略从属连词 if。
 
@@ -184,7 +184,7 @@ S V C
 
 I <u>will never trouble</u> you again.
 V
-(以后我再也不敢麻烦你了。)
+（以后我再也不敢麻烦你了。）
 
 在动词短语 will tr​​ouble 中间有个表示否定的频率副词 never，这个副词其实就是 not ever 的合并，配合助动词 will 来构成否定句。如果把这个表示否定的副词移到句首来加强语气，那么助动词 will 就会跟着它倒装到主语前面以维持否定句（will not）的构造，结果就是这个倒装句：
 
@@ -194,7 +194,7 @@ V
 
 The train <u>is seldom</u> delayed.
 V
-(火车很少误点。)
+（火车很少误点。）
 
 频率副词 seldom 意思是「很少」，具有否定的功能。如果把 seldom 移到句首来加强语气，be 动词必须跟着它倒装到主语前面以维持否定，就会成为下面这个倒装句：
 
@@ -204,7 +204,7 @@ V
 
 The man <u>hardly ever leaves</u> home after 9 p.m.
 V
-(这名男子晚上九点之后几乎从来不出门。)
+（这名男子晚上九点之后几乎从来不出门。）
 
 频率副词 hardly ever 具有否定功能，表示「几乎从不」。若移到句首来加强语气，后面的普通动词 leaves 就必须加上语法助动词 does 来维持否定句、并把 does 倒装到主语前面，成为如下的倒装句：
 

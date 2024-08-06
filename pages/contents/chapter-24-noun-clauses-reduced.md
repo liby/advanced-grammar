@@ -14,7 +14,7 @@ title: 第二十四章 名词从句简化
 
 [That you don’t have a cell-phone] <u>can save</u> <u>you</u> <u>a great deal of trouble</u>.
 S 名词从句 V O O
-(没有手机，可以替你省掉不少麻烦。)
+（没有手机，可以替你省掉不少麻烦。）
 
 主要从句的主语是个名词从句（中括号内的部分）。这个名词从句的简化，做法是省掉主语 you（与主要从句的宾语 you 重复），再把普通动词 have 加上 -ing，否定句的写法就是 not having a cell-phone。名词从句外加的连词 that 无意义、只有语法功能。在名词从句简化之后，这个无意义的连词自然要一并删掉。结果就是：
 
@@ -48,7 +48,7 @@ S 简化名词从句 V C
 
 <u>I</u> <u>dislike</u> [that I am kept waiting].
 S V O 名词从句
-(我不喜欢被迫等候。)
+（我不喜欢被迫等候。）
 
 名词从句（中括号内）当作及物动词 dislike 的宾语使用。它的主语 I 和主要从句的主语相同，可以省略。接下来再省略掉无意义的 be 动词。这是一般简化从句的标准做法。但是，省略掉重复的主语与空洞的 be 动词之后，名词从句剩下的部分 kept waiting 是个过去分词短语，属于形容词类、不再是名词，因而不能继续扮演及物动词的宾语角色。这时候需要进行词类变化：要把 kept waiting 改为名词类。不过，这个上下文就是需要过去分词 kept 才能表示「被迫」的被动语态、也需要现在分词 waiting 才能表示「持续」的进行状态。想要做词类变化，必须另外想办法：在前面加上无意义的 being，成为 being kept waiting，整个短语的词类就转变为动名词短语，可以当宾语使用了，意思仍然不变，如下：
 
@@ -59,7 +59,7 @@ S V O 简化名词从句
 
 <u>I</u> <u>saw</u> [that many birds were flying southward].
 S V O 名词从句
-(我看到许多鸟在往南飞。)
+（我看到许多鸟在往南飞。）
 
 名词从句（中括号内的部分）当作动词 saw 的宾语使用。这个名词从句要进行简化时，因为它的主语 many birds 具有明确的内容、又和主要从句的内容并不重复，所以必须设法把这个主语保留下来。以这个例子而言，有一个办法是把原来的主语 many birds 放在主要从句的宾语位置、be 动词省略掉，原来的主语补足语 flying southward 则放在宾语补足语位置，如下：
 
@@ -72,7 +72,7 @@ S V O C
 
 <u>The actor’s greatest achievement</u> <u>is</u> <u>that he has been nominated twice for the Oscar</u>.
 S V C 名词从句
-(这位演员毕生最高的成就在于他曾两次获得提名角逐奥斯卡。)
+（这位演员毕生最高的成就在于他曾两次获得提名角逐奥斯卡。）
 
 这个句子，主要从句的主语补足语部分是个名词从句。名词从句的主语 he 就是主要从句当中那个 actor，因为重复所以有简化的空间。做法是先省掉名词从句的主语 he。它的动词是 be 动词的完成时 has been，后面用过去分词 nominated 表达被动语态。如果简化时把整个动词短语 has been 视为无意义而省略掉，那么剩下的过去分词 nominated 是形容词类、无法取代词从句。为了做词类变化，可以把动词 has been 改成动名词 having been 保留下来：
 
@@ -85,7 +85,7 @@ The actor’s greatest achievement is <u>having been nominated twice for the Osc
 
 <u>I</u> <u>am</u> <u>happy</u> [that you won the prize].
 S V C 名词从句
-(我很高兴你得奖了。)
+（我很高兴你得奖了。）
 
 直述句 you won the prize 前面加上无意义的从属连词 that 构成名词从句。这个名词从句扮演的角色比较不容易看出来，因为中间经过了省略，可以还原如下：
 
@@ -108,7 +108,7 @@ I am happy <u>about</u> <u>your winning the prize</u>.
 
 <u>The fact</u> [that he is innocent] <u>should be</u> <u>obvious</u> to all.
 S 同位格，名词从句 V C
-(他是无辜的，这点大家看来都应该蛮明显的。)
+（他是无辜的，这点大家看来都应该蛮明显的。）
 
 主要从句的主语 the fact 没什么内容，后面的名词从句（中括号内）是它的同位格。这个名词从句简化时，因为前面的 the fact 是个空洞无意义的字，应该把 the fact 一并省略掉、把简化的名词从句直接放入主语位置，用字才够精简。简化的做法，可以选择把无意义的 be 动词省略掉，后面的形容词补语 innocent 必须改变词类成为名词的 innocence，然后把原来的主语 he 以所有格 his 的形式安插在限定词位置，如下：
 
@@ -140,7 +140,7 @@ The student was worried <u>about</u> <u>not being able to pass the exam</u>.
 
 <u>I</u>’<u>m</u> <u>surprised</u> <u>that there is no index to the book</u>.
 S V C 名词从句
-(我很惊讶这本书竟然没有索引。)
+（我很惊讶这本书竟然没有索引。）
 
 句中的名词从句扮演什么角色，必须把省略掉的介词短语还原回去才看得清楚：
 
@@ -176,7 +176,7 @@ S V C 简化名词从句
 
 [That anyone should go on such a mission] <u>takes</u> <u>guts</u>.
 S 名词从句 V O
-(任何人如果要出这种任务的话都得有胆量才行。)
+（任何人如果要出这种任务的话都得有胆量才行。）
 
 [That John should go on such a mission] <u>is</u> <u>suicide</u>.
 S 名词从句 V O
@@ -200,13 +200,13 @@ S 简化名词从句 V O
 
 <u>It</u> <u>is</u> <u>kind</u> [of you to say so].
 S V C 简化名词从句
-(您能这样说，真是太客气了。)
+（您能这样说，真是太客气了。）
 
 再看一个例子：
 
 <u>It</u> <u>was</u> <u>silly</u> [that he should believe that story].
 S V C 名词从句
-(他会相信那个故事，真是太傻了。)
+（他会相信那个故事，真是太傻了。）
 
 主要从句的主语 it 是虚字，它的内容就是后面那个名词从句（中括号内的部分）。这个名词从句的主语 he 有意义而且不重复，进行简化时必须找地方插它。而像 It was silly … 这种表示「批评」的句型，​​后面的简化从句应该用介词 of 来安插主语而不是用 for，语气助动词 should 同样简化为 to，就会成为：
 
@@ -217,7 +217,7 @@ S V C 简化名词从句
 
 <u>It</u> <u>takes</u> <u>time</u> [that anybody can learn skiing well].
 S V O 名词从句
-(要学好滑雪就得花时间。)
+（要学好滑雪就得花时间。）
 
 主要从句的主语 it 是虚字，代表后面的名词从句（中括号内的部分）。名词从句中的主语 anybody 是个笼统的字眼，简化时可以省略。再把助动词 can 简化为 to，就成为：
 
@@ -250,7 +250,7 @@ S V O 副词
 
 <u>I</u> <u>hope</u> [that I can get a raise next month].
 S V O 名词从句
-(我希望下个月能够加薪。)
+（我希望下个月能够加薪。）
 
 名词从句（中括号内的部分）扮演及物动词 hope 的宾语角色。名词从句的主语 I 与主要从句重复，简化时可以省略。再把语气助动词 can 简化为表示不定式的 to、无意义的连词 that 删除掉，就成为：
 
@@ -261,7 +261,7 @@ S V O 简化名词从句
 
 <u>I</u> <u>would like</u> [that you can go to the concert with me].
 S V O 名词从句
-(我很希望你能跟我一起去听演唱会。)
+（我很希望你能跟我一起去听演唱会。）
 
 名词从句（中括号内的部分）同样扮演宾语角色，不过它的主语 you 不重复，必须设法保留下来。因为主要从句的动词 like 可以用在 S + V + O + C 的句型中，所以可以把名词从句主语 you 安插在宾语位置、动词 can go 简化为 to go 安插在宾语补足语位置，如下：
 
@@ -272,7 +272,7 @@ S V O C
 
 <u>I</u> <u>consider</u> <u>it</u> <u>my duty</u> [that I should support my daughter through college].
 S V O C 名词从句
-(我认为我有责任供我女儿读完大学。)
+（我认为我有责任供我女儿读完大学。）
 
 主要从句的宾语 it 是个虚字，它的内容就是后面那个名词从句（中括号内的部分）。这个名词从句，主语 I 和主要从句重复，简化时可以省略。助动词 should 简化为表示不定式的 to、再把无意义的连词 that 省略掉，结果就是：
 
@@ -283,7 +283,7 @@ S V O C 简化名词从句
 
 <u>I</u> <u>want</u> [that there will be no mistake].
 S V O 名词从句
-(我希望不要出任何错误。)
+（我希望不要出任何错误。）
 
 主要从句的宾语是个名词从句（中括号内的部分）。这个名词从句本身是个倒装句：主语是 no mistake，动词是 will be，主语补足语 there 倒装到句首构成 there is/are 的句型来表示「存在有」。这个名词从句要简化时，必须维持 there is/are 的句型来表示「存在有」，所以只能把助动词 will 简化为表示不定式的 to，无意义的连词 that 删掉、其余保留，结果就是：
 
@@ -294,11 +294,11 @@ S V O 简化名词从句
 
 <u>I</u> <u>want</u> <u>you</u> <u>to go</u>.
 S V O C
-(我要你去。)
+（我要你去。）
 
 <u>I</u> <u>promised</u> <u>you</u> <u>to go</u>.
 S V O O
-(我答应你我会去。)
+（我答应你我会去。）
 
 两个句子看起来差不多，为什么一个是「你去」、一个是「我去」，意思有这么大的差别？关键在于句型并不一样。上面第 1 句是 S + V + O + C 的句型，to go 是 you 的宾语补足语，来自于 you should go，所以是「你去」。这个句子可以还原如下：
 
@@ -316,11 +316,11 @@ S V O O 名词从句
 
 <u>I</u> <u>don’t want</u> [to be sitting here all day].
 S V O 简化名词从句
-(我不希望整天一直在这里枯坐。)
+（我不希望整天一直在这里枯坐。）
 
 <u>I</u> <u>don’t want</u> <u>you</u> <u>to be sitting here all day</u>.
 S V O C
-(我不希望你整天一直在这里枯坐。)
+（我不希望你整天一直在这里枯坐。）
 
 第 1 句可以还原为：
 
@@ -338,7 +338,7 @@ S V O 名词从句
 
 <u>I</u> <u>want</u> [that this should be done as soon as possible].
 S V O 名词从句
-(我希望这件事情尽快办妥。)
+（我希望这件事情尽快办妥。）
 
 中括号内的部分是个名词从句，扮演及物动词 want 的宾语角色，里面用到过去分词 done 来表示被动语态（意思是「被做好」）。这个名词从句的主语 this 和主要从句并不重复，可以安插在宾语位置保留下来。动词短语 should be 简化为不定式短语 to be，整个短语 to be done as soon as possible 放在宾语补足语位置、当形容词使用，如下：
 
@@ -349,7 +349,7 @@ S V O C
 
 <u>The best plan</u> <u>is</u> [that we should wait].
 S V C 名词从句
-(最佳计划就是我们应该按兵不动。)
+（最佳计划就是我们应该按兵不动。）
 
 主要从句的补语是个名词从句（中括号内的部分）。这个名词从句的主语是 we，如果上下文够清楚的话可以省略，如果不够清楚则要用介词短语 for us 来安插主语。语气助动词 should 简化为 to，再把连词 that 省掉，结果就是：
 
@@ -360,7 +360,7 @@ S V C 简化名词从句
 
 [What he hopes] <u>is</u> <u>to win First Place in the competition</u>.
 S 名词从句 V C
-(他希望的是能够在比赛中拿第一名。​​)
+（他希望的是能够在比赛中拿第一名。​​）
 
 主要从句的主语是名词从句 what he hopes（中括号内的部分）。这个名词从句本身的主语是复合关系代词 what，可以拆开成为先行词 the thing 与关系代词 that。主要从句的补语部分是个不定式短语（to win First Place in the competition），可以视为名词从句 that he can win First Place in the competition 的简化。整个句子可以把省略与简化的部分还原如下：
 
@@ -373,7 +373,7 @@ S 关系从句 V C 名词从句
 
 <u>I</u> only <u>asked</u> <u>him</u> <u>a simple question</u>.
 S V O O
-(我只不过是问他一个简单的问题而已。)
+（我只不过是问他一个简单的问题而已。）
 
 如果要强调的是动词部分（asked），可以改写为分裂句如下：
 
@@ -384,7 +384,7 @@ S 关系从句 V C
 
 <u>The only thing</u> left to do <u>is</u> <u>(to) admit failure openly</u>.
 S V C
-(只剩下一件事要做，就是公开承认失败。)
+（只剩下一件事要做，就是公开承认失败。）
 
 主语 the only thing 后面有分词​​短语 left to do 修饰，里面包含助动词 do，所以 be 动词后面可以选择用不定式短语（to admit）或原形动词（admit）。
 
@@ -394,7 +394,7 @@ S V C
 
 <u>I</u> <u>hope</u> <u>to have finished this book by next weekend</u>.
 S V O 简化名词从句
-(我希望在下个周末之前可以看完这本书。)
+（我希望在下个周末之前可以看完这本书。）
 
 这个句子，宾语部分是个简化名词从句，可以还原如下：
 
@@ -405,7 +405,7 @@ S V O 名词从句
 
 <u>It</u> <u>will be</u> <u>a pity</u> <u>to miss the show</u>.
 S V C 简化名词从句
-(要是没赶上表演就太可惜了。)
+（要是没赶上表演就太可惜了。）
 
 这个句子的主语 it 是个虚字，真正扮演主语角色的是后面那个简化名词从句，可以还原如下：
 
@@ -416,7 +416,7 @@ S V C 名词从句
 
 <u>It</u> <u>is</u> <u>a pity</u> <u>to have missed the show</u>.
 S V C 简化名词从句
-(当时没能赶上表演，真是太可惜了。)
+（当时没能赶上表演，真是太可惜了。）
 
 这个句子，简化从句部分采用的是不定式的完成时（to have missed），可以还原如下：
 
@@ -429,7 +429,7 @@ S V C 名词从句
 
 <u>It</u> <u>would be</u> <u>wonderful</u> <u>to have studied under that master in high school</u>.
 S V C 简化名词从句
-(高中时候要是能够在那位大师教导下求学，那该多好。)
+（高中时候要是能够在那位大师教导下求学，那该多好。）
 
 这个句子的主语是虚字 it，真正扮演主语角色的是后面的简化名词从句。在简化从句中采用完成时的不定式短语 to have studied，一方面表示「相对过去时间」，另一方面也表示「非事实」的假设语气，也就是「事实上高中时并没有能够如此」。可以还原如下：
 
@@ -446,7 +446,7 @@ S V C 名词从句
 
 <u>I</u>’<u>ll tell</u> <u>you</u> [what you should do].
 S V O O 名词从句
-(我来告诉你该怎么做。)
+（我来告诉你该怎么做。）
 
 句中这个名词从句（中括号内的部分）有两种诠释方式，可以导致两种不同的简化从句结果。如果视句中的 what 为疑问词，那么 what you should do 就是来自 What should I do? 这个疑问句，简化的方式是省略掉主语 you、语气助动词 should 简化为表示不定式的 to，如下：
 
@@ -467,15 +467,15 @@ S V O O 简化形容词从句
 
 <u>I</u>’<u>ll tell</u> <u>you</u> [what to do].
 S V O O 简化名词从句
-(我来告诉你该怎么做。)
+（我来告诉你该怎么做。）
 
 <u>I</u>’<u>ll tell</u> <u>you</u> [when to do the job].
 S V O O 简化名词从句
-(我来告诉你什么时候该做这件工作。)
+（我来告诉你什么时候该做这件工作。）
 
 <u>I</u>’<u>ll tell</u> <u>you</u> [what to do the job with].
 S V O O 简化名词从句
-(我来告诉你用什么来做这件工作。)
+（我来告诉你用什么来做这件工作。）
 
 这三个句子，主要从句的句型相同（都是 S + V + O + O），句中的第二个宾语同样都是简化名词从句，而且简化出来的不定式短语中都是用采同一个原形的及物动词 do。但是第 1 句在 to do 后面没有宾语，第 2 句在 to do 后面有宾语（the job），第 3 句还在 to do the job 后面有介词（with）。其间的差别，如果只是把不定式视为短语看待，无法解释清楚，必须视为简化从句、还原之后就可以看出差别在哪里了。
 
@@ -502,25 +502,25 @@ S V O
 
 <u>I</u>’<u>ll show</u> <u>you</u> [which way to go].
 S V O O 简化名词从句
-(我来告诉你该往哪边走。)
+（我来告诉你该往哪边走。）
 
 句中第二个宾语（中括号内的部分）是个简化名词从句，可以还原为来自疑问句的名词从句 which way you should go，当中 which 是疑问词。
 
 <u>He</u> <u>doesn’t know</u> [when to stop].
 S V O 简化名词从句
-(他不知道何时该罢手。)
+（他不知道何时该罢手。）
 
 句中的宾语（中括号内的部分）是个简化名词从句，可以还原为来自疑问句的名词从句 when he should stop，当中 when 是疑问词。
 
 [Where to spend the night] <u>is</u> <u>unimportant</u>.
 S 简化名词从句 V C
-(晚上该在哪睡，这个问题并不重要。)
+（晚上该在哪睡，这个问题并不重要。）
 
 句中的主语（中括号内的部分）是个简化名词从句，可以还原为来自疑问句的名词从句 where can we spend the night，当中 where 是疑问词。
 
 Only <u>he</u> <u>knows</u> [how to start the machine].
 S V O 简化名词从句
-(只有他知道这部机器该怎么发动。)
+（只有他知道这部机器该怎么发动。）
 
 句中的宾语（中括号内的部分）是个简化名词从句，可以还原为来自疑问句的名词从句 how one can start the machine，当中 how 是疑问词。
 
@@ -530,6 +530,6 @@ S V O 简化名词从句
 
 [Whether to go on or not] <u>will have to be</u> <u>decided</u> soon.
 S V C
-(是否该继续下去，这个问题得尽快做个决定。)
+（是否该继续下去，这个问题得尽快做个决定。）
 
 句中的主语（中括号内的部分）是个简化名词从句，可以还原为名词从句 whether we should go on or not。这个名词从句来自没有疑问词的疑问句 Should we go on or not?，必须加上 whether 才能变成名词从句。

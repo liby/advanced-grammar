@@ -8,7 +8,7 @@ title: 第十八章 副词从句
 
 ### 来自直述句
 
-直述句改造为名词从句时，要外加一个单独的、没有意义的从属连词 that，表示「那句话、那件事」。反之，如果直述句要改造为副词从句，那么同样要外加从属连词，但并不是加没有意义的 that，而是要加各式各样如 because, although, if, as, when, where 等等「有意义」的连词，用来表达各式各样的逻辑关系如「原因、让步、条件、状态、时间、地方」等等。请比较：
+直述句改造为名词从句时，要外加一个单独的、没有意义的从属连词 that，表示「那句话、那件事」。反之，如果直述句要改造为副词从句，那么同样要外加从属连词，但并不是加没有意义的 that，而是要加各式各样如 because, although、if、as、when、where 等等「有意义」的连词，用来表达各式各样的逻辑关系如「原因、让步、条件、状态、时间、地方」等等。请比较：
 
 <u>I</u> <u>believe</u> <u>that ghosts are real</u>.
 S V O 名词从句
@@ -22,7 +22,7 @@ S V O 副词从句
 
 如果把第 1 句中的名词从句删掉，剩下 I believe，这个主要从句少了宾语，就不再是个完整的句子。反之，如果把第 2 句中的副词从句删掉，剩下 I believe that，这个句子仍然完整正确。
 
-直述句改造为副词从句，也可以外加 so … that, such … that, in that, in order that 之类含有 that 在内的连词。与名词从句不同之处在于：名词从句只能外加一个单独的、没有意义的 that，表示「那句话、那件事」。如果加的是 so … that, such … that, in that, in order that 之类，这些连词都有意义，表示「目的、结果、限制」等等，那么就会变成副词从句而非名词从句。请比较：
+直述句改造为副词从句，也可以外加 so … that、such … that、in that、in order that 之类含有 that 在内的连词。与名词从句不同之处在于：名词从句只能外加一个单独的、没有意义的 that，表示「那句话、那件事」。如果加的是 so … that、such … that、in that, in order that 之类，这些连词都有意义，表示「目的、结果、限制」等等，那么就会变成副词从句而非名词从句。请比较：
 
 <u>He</u> <u>said</u> sincerely <u>that he was sorry</u>.
 S V O
@@ -30,11 +30,11 @@ S V O
 
 <u>He</u> <u>said</u> <u>it</u> <u>so</u> sincerely <u>that his wife forgave him right away</u>.
 S V O 副词从句
-(他说得非常诚恳，结果他老婆当场就原谅他了。)
+（他说得非常诚恳，结果他老婆当场就原谅他了。）
 
 第 1 句中，直述句 he was sorry 外加一个单独的、没有意义的连词 that，构成一个名词从句，放在主要从句动词 said 的后面当宾语使用。这个名词从句如果删除掉，剩下 He said 就不再是个完整的句子，因为缺了宾语。
 
-第 2 句中， his wife forgave him right away 同样是直述句，但是它外加的是 so … that 这一组有意义的连词，表示「如此…以致于」，构成的就是一个副词从句，放在主要从句中当做修饰语使用，修饰副词 sincerely 造成的结果。这个副词从句如果删除掉，剩下的 He said it sincerely 仍然是个完整正确的句子。
+第 2 句中， his wife forgave him right away 同样是直述句，但是它外加的是 so … that 这一组有意义的连词，表示「如此……以致于」，构成的就是一个副词从句，放在主要从句中当做修饰语使用，修饰副词 sincerely 造成的结果。这个副词从句如果删除掉，剩下的 He said it sincerely 仍然是个完整正确的句子。
 
 ### 来自 Information Question
 
@@ -42,11 +42,11 @@ S V O 副词从句
 
 <u>Where the criminal is hiding</u> <u>is</u> <u>anybody’s guess</u>.
 S V C
-(犯人现在藏匿在何处，这个问题没有人知道。)
+（犯人现在藏匿在何处，这个问题没有人知道。）
 
 <u>No matter where the criminal is hiding</u>, <u>the police</u> <u>is going to get</u> <u>him</u>.
 副词从句 S V O
-(不论犯人现在​​藏匿在何处，警方都会将他逮捕。)
+（不论犯人现在​​藏匿在何处，警方都会将他逮捕。）
 
 <u>Wherever the criminal is hiding</u>, <u>the police</u> <u>is going to get</u> <u>him</u>.
 副词从句 S V O
@@ -61,11 +61,11 @@ S V C
 
 <u>Whether he’s still alive (or not)</u> <u>is</u> <u>difficult</u> to say.
 S（名词从句）V C
-(他是否还活着，这个问题很难说。)
+（他是否还活着，这个问题很难说。）
 
 <u>Whether he’s still alive (or not)</u>, <u>I</u>’<u>m not going to marry</u> <u>anyone</u> else.
 副词从句 S V O
-(不论他是不是还活着，我都不会嫁给别人。)
+（不论他是不是还活着，我都不会嫁给别人。）
 
 <u>No matter he’s still alive (or not)</u>, <u>I</u>’<u>m not going to marry</u> <u>anyone</u> else.
 副词从句 S V O
@@ -81,14 +81,14 @@ S（名词从句）V C
 ### After
 
 <u>After he graduated</u>, the young man <u>found</u> himself unemployed.
-(毕业之后，这位年轻人发觉自己失业了。)
+（毕业之后，这位年轻人发觉自己失业了。）
 
 外加 after 构成时间副词从句，修饰动词 found 的时间。
 
 ### Although/though
 
 My sister <u>doesn’t have</u> a boyfriend now, <u>although(though) she is very pretty</u>.
-(我妹妹现在没有男朋友，虽然她长得很漂亮。)
+（我妹妹现在没有男朋友，虽然她长得很漂亮。）
 
 拼成 although 或拼成 though，用法与意思都完全相同。外加 although 或 though 成为表示让步的副词从句，修饰动词 doesn’t have。
 
@@ -97,31 +97,31 @@ My sister <u>doesn’t have</u> a boyfriend now, <u>although(though) she is very
 这个连词有几种不同的意思：
 
 <u>Haste makes waste</u>, <u>as the saying goes</u>.
-(俗话说，欲速则不达。)
+（俗话说，欲速则不达。）
 
 外加连词 as 表示「正如、如同」，构成副词从句，修饰整个主要从句。
 
 Tears <u>ran</u> down the woman’s cheeks <u>as the train pulled away</u>.
-(火车离开时，泪水流下这个女人的脸颊。)
+（火车离开时，泪水流下这个女人的脸颊。）
 
-外加连词 as 表示「当…时」，构成时间副词从句，修饰动词 ran 的时间。
+外加连词 as 表示「当……时」，构成时间副词从句，修饰动词 ran 的时间。
 
 <u>As there is little time left</u>, we’<u>d better hurry</u>.
-(因为时间所剩无多，我们最好赶快。)
+（因为时间所剩无多，我们最好赶快。）
 
 外加连词 as 表示「因为」，构成表示原因的副词从句，修饰动词 had better hurry 的原因。
 
 ### As … as
 
 You can stay on for <u>as many</u> days <u>as you like</u>.
-(你爱停留几天就可以停留几天。)
+（你爱停留几天就可以停留几天。）
 
 这是一组作比较的连词，外加在限定从句 you like 上面，构成作比较的副词从句，修饰限定词 many。
 
 ### As far as
 
 <u>As far as I know</u>, <u>your friend had no part in the scandal</u>.
-(就我所知，你的朋友并未涉入这桩丑闻。)
+（就我所知，你的朋友并未涉入这桩丑闻。）
 
 外加连词 as far as 构成表示程度的副词从句，修饰整个主要从句。
 
@@ -130,54 +130,54 @@ You can stay on for <u>as many</u> days <u>as you like</u>.
 这个连词，后面的副词从句可以采用陈述语气、也可以采用假设语气。
 
 The student <u>raised</u> a hand, <u>as if he was going to ask a question</u>.
-(这名学生举手，好像要问问题。)
+（这名学生举手，好像要问问题。）
 
 外加 as if 构成表示方法、状态的副​​词从句，修饰动词 rased 的方式。时间在过去，采用过去时的动词 was，所以这个副词从句的语气是表达事实的「陈述语气」。
 
 The woman <u>treats</u> her husband <u>as if he were a baby</u>.
-(这个女人对待老公好像对待婴儿一样。)
+（这个女人对待老公好像对待婴儿一样。）
 
 外加连词 as if 构成表示方法、状态的副​​词从句，修饰动词 treats 的方式。时间是现在，却采用 were 这个动词，所以这个副词从句的语气是表达非事实的「假设语气」。
 
 ### As long as
 
 <u>As long as there is ammunition left</u>, we <u>will fight on</u>.
-(只要还有弹药剩下，我们就会奋战下去。)
+（只要还有弹药剩下，我们就会奋战下去。）
 
 外加连词 as long as 构成条件副词从句，修饰动词 will fight on 的条件。
 
 ### Because
 
 I <u>can’t go out</u> with you tonight <u>because I have a previous engagement</u>.
-(我今晚不能跟你出去，因为先跟别人约好了。)
+（我今晚不能跟你出去，因为先跟别人约好了。）
 
 外加连词 because 构成表示原因的副词从句，修饰动词 can’t go out 的原因。
 
 ### Before
 
 <u>Read</u> the contract carefully <u>before you sign it</u>.
-(签约之前要仔细阅读合约内容。)
+（签约之前要仔细阅读合约内容。）
 
 外加连词 before 构成时间副词从句，修饰动词 read 的时间。
 
 ### For
 
 You <u>needn’t fear</u> my brother, <u>for he’s a good man</u>.
-(你不必怕我哥哥，因为他是个好人。)
+（你不必怕我哥哥，因为他是个好人。）
 
 外加连词 for 构成原因副词从句，修饰动词 needn’t fear 的原因。
 
 ### For fear that
 
 The camper <u>put</u> water on the ashes <u>for fear that he might start a forest fire</u>.
-(露营的人在灰烬上浇水，唯恐会酿成森林大火。)
+（露营的人在灰烬上浇水，唯恐会酿成森林大火。）
 
 如果在限定从句外面加一个单独、无意义的连词 that，构成的是个名词从句。但是如果外加的是像 for fear that 这种有意义、表达某种逻辑关系的连词，那么构成的就是副词从句。以这个例子而言，for fear that 引导的副词从句修饰动词 put 的目的。
 
 ### If
 
 <u>If you prefer</u>, we <u>can settle</u> our differences in court.
-(如果你这样选择，我们也可以上法院解决我们的歧见。)
+（如果你这样选择，我们也可以上法院解决我们的歧见。）
 
 外加连词 if 构成表示条件的副词从句，修饰动词 can settle 的条件。
 
@@ -191,56 +191,56 @@ The camper <u>put</u> water on the ashes <u>for fear that he might start a fores
 ### In order that
 
 The speaker <u>raised</u> his voice <u>in order that everyone might hear him</u>.
-(演讲人放大了音量，目的是让每一个人都听得到。)
+（演讲人放大了音量，目的是让每一个人都听得到。）
 
 外加连词 in order that 构成表示目的的副词从句，修饰动词 raised 的目的。
 
 ### In that
 
 The experiment <u>is</u> a success <u>in that it has proved the theory wrong</u>.
-(实验成功了，意思是说它证明了这项理论错误。)
+（实验成功了，意思是说它证明了这项理论错误。）
 
 这个连词 in that 是 in the sense that 的省略，通常用于解说。上文说这项实验「成功」，但是「成功」两字用在这里的解释和一般不同，因此需要解说：所谓成功，并不是获得了预期的效果，而是因为没有获得预期的效果而证明理论有误。像这种情况，success 一字要作特别的解释，因此后面加上 in the sense that… 来作解说，省略为 in that 之后就成为一个连词，外加在限定从句前面构成一个作解说之用的副词从句，用来修饰动词 is。
 
 ### No matter
 
 <u>No matter(or whether) my father agrees or not</u>, I’<u>m going to be</u> a singer.
-(不论我父亲同不同意，我都要去当歌星。)
+（不论我父亲同不同意，我都要去当歌星。）
 
 外加 no matter … or not 表示「不论」，构成副词从句，修饰动词 going to be。这个连词 no matter 的用法和 whether 相同。
 
 No sooner … than
 
 <u>No sooner</u> <u>had</u> the bell <u>rung</u> <u>than the students jumped up to leave</u>.
-(刚一敲钟，学生就跳起来走人了。)
+（刚一敲钟，学生就跳起来走人了。）
 
 这个连词来自于比较级的连词，本来是在比较两件事情何者发生得比较快。因为经常使用，no sooner … than 于是构成一组连词，外加在限定从句上，构成一个时间副词从句，在上例中修饰动词 had rung 的时间。
 
 ### Now that
 
 <u>Now that you’re graduated</u>, you <u>should start</u> working to support yourself.
-(既然你毕业了，应该开始工作自力维生了。)
+（既然你毕业了，应该开始工作自力维生了。）
 
 外加表示「既然」的连词构成副词从句，修饰动词 should start 的原因。
 
 ### On condition that
 
 The man <u>spoke</u> to the press <u>on condition that he remain anonymous</u>.
-(这位男子向媒体发言，条件是他要保持匿名。)
+（这位男子向媒体发言，条件是他要保持匿名。）
 
 外加连词 on condition that 构成条件副词从句，修饰动词 spoke 的条件。请注意：这个副词从句中采用原形动词 remain，因为这里用的是「间接命令句」的语气。
 
 ### Only that
 
 <u>I really like to go to the party</u>, <u>only that I have to study for an exam</u>.
-(我真的很想去参加宴会，只不过我必须准备考试。)
+（我真的很想去参加宴会，只不过我必须准备考试。）
 
 外加连词 only that 构成表示让步的副词从句，修饰整个主要从句。
 
 ### Lest
 
 <u>Let</u> me explain myself more clearly, <u>lest there should be any misunderstanding</u>.
-(请容我说明清楚，以免有误解。)
+（请容我说明清楚，以免有误解。）
 
 外加表示「以免」的连词 lest 构成副词从句，修饰动词 let 的目的。
 
@@ -249,12 +249,12 @@ The man <u>spoke</u> to the press <u>on condition that he remain anonymous</u>.
 这个连词有两种意思。
 
 It <u>has been</u> three years <u>since I last visited the small town</u>.
-(我上回造访这个小镇，至今已经三年了。)
+（我上回造访这个小镇，至今已经三年了。）
 
 外加表示「自从」的连词 since 构成时间副词从句，修饰动词 has been 的时间。
 
 <u>Since there’s nothing more to do here</u>, we <u>might as well go home</u>.
-(既然在此已经没事可做了，我们不妨都回家吧。)
+（既然在此已经没事可做了，我们不妨都回家吧。）
 
 这时候，连词 since 的意思是「既然」，引导的副词从句修饰动词 might as well go 的原因。
 
@@ -263,61 +263,61 @@ It <u>has been</u> three years <u>since I last visited the small town</u>.
 这个连词有两种用法。
 
 There <u>were</u> three examiners in the small room, <u>so that no student dared to cheat</u>.
-(小房间里有三名监考官，结果学生都不敢作弊。)
+（小房间里有三名监考官，结果学生都不敢作弊。）
 
 外加连词 so that 在此解释为「结果」，构成副词从句，修饰动词 were 的结果。
 
 The school <u>decided</u> to send more examiners <u>so that the students wouldn’t cheat</u>.
-(校方决定加派监考官，目的是不让学生作弊。)
+（校方决定加派监考官，目的是不让学生作弊。）
 
 连词 so that 在此解释为「目的是」，引导的副词从句修饰动词 decided 的目的。
 
 ### So … that
 
 It was <u>so</u> <u>cold</u> <u>that the lake was frozen through</u>.
-(天气冷到整座湖结了冰到底。)
+（天气冷到整座湖结了冰到底。）
 
 外加连词 so … that 构成副词从句，修饰形容词 cold 的结果。如果修饰的对像是形容词或副词，应选择 so … that 这组连词。
 
 ### Such … that
 
 It was <u>such</u> <u>a cold day</u> <u>that few ventured outdoors</u>.
-(天气很冷，结果没什么人敢出门。)
+（天气很冷，结果没什么人敢出门。）
 
 外加连词 such … that 构成副词从句，修饰名词短语 a cold day。如果修饰的对像是名词，应该选择 such … that。
 
 ### Suppose
 
 <u>Suppose you needed advice on your marriage</u>, where <u>would</u> you <u>go</u>?
-(假设你的婚姻需要请教别人的意见，你会到什么地方去？)
+（假设你的婚姻需要请教别人的意见，你会到什么地方去？）
 
 外加表示「假设」的连词 suppose 构成条件副词从句，修饰动词 would go 的条件。注意上例中采用的是表达非事实的「假设语气」。 Suppose 引导的副词从句也可以选择采用「假设为真」的「陈述语气」。
 
 ### Than
 
 That man has <u>more</u> <u>money</u> <u>than he can ever spend</u>.
-(那个人的钱一辈子都花不完。)
+（那个人的钱一辈子都花不完。）
 
 这是比较级的连词，引导的副词从句修饰限定词 more 来作比较。
 
 ### Until
 
 <u>Wait</u> here <u>until you are called for</u>.
-(在这等，直到有人叫你的名字。)
+（在这等，直到有人叫你的名字。）
 
 外加表示「直到」的连词构成时间副词从句，修饰动词 wait 的时间。
 
 ### When
 
 I <u>was</u> in the bath <u>when the doorbell rang</u>.
-(门铃响起来的时候我正在泡澡。)
+（门铃响起来的时候我正在泡澡。）
 
 外加连词 when 构成时间副词从句，修饰动词 was 的时间。
 
 ### Where
 
 The virus <u>thrives</u> <u>where people live in close proximity to one another</u>.
-(这种病毒滋生在人口密度高的地方。)
+（这种病毒滋生在人口密度高的地方。）
 
 外加连词 where 构成地方副词从句，修饰动词 thrives 的地方。
 
@@ -326,12 +326,12 @@ The virus <u>thrives</u> <u>where people live in close proximity to one another<
 这个连词有两种意思。
 
 The woman <u>made</u> breakfast <u>while her husband was still sleeping</u>.
-(在她丈夫还在睡觉的时候，这个女人做好了早餐。)
+（在她丈夫还在睡觉的时候，这个女人做好了早餐。）
 
-外加表示「当…时」的连词 while 构成副词从句，修饰动词 made 的时间。
+外加表示「当……时」的连词 while 构成副词从句，修饰动词 made 的时间。
 
 <u>While there is no hurry</u>, I <u>would prefer</u> to get the job done sooner than later.
-(虽然不急，最好还是把工作赶快做完。)
+（虽然不急，最好还是把工作赶快做完。）
 
 这时候 while 的意思是「虽然」，用法与 although 相同，引导一个表示让步的副词从句，修饰动词 would prefer。
 
@@ -340,10 +340,10 @@ The woman <u>made</u> breakfast <u>while her husband was still sleeping</u>.
 外加 whether 如果解释为「不论」，构成的是表示让步的副词从句。同样的，一些作 wh-ever 拼法的字如果解释为 wh- 外加 no matter，意思同样是「不论」，这种从句都是表示让步的副词从句，用来修饰主要从句的动词。
 
 <u>Whether(or no matter) I do well or badly at the exam</u>, I’<u>m going out</u> tonight to celebrate the end of the semester.
-(不论我考试考得好不好，今晚我都要出去​​庆祝学期结束。)
+（不论我考试考得好不好，今晚我都要出去​​庆祝学期结束。）
 
 <u>Whoever(or no matter who) told you the story</u>, it <u>can’t be</u> true.
-(不论是谁告诉你的，这个故事都不可能是真的。)
+（不论是谁告诉你的，这个故事都不可能是真的。）
 
 <u>Whatever(or no matter what) is troubling you</u>, <u>tell</u> me about it.
 （不论你有什么困扰，都请你告诉我。）
@@ -378,7 +378,7 @@ S V O O 时间副词从句
 
 及物动词 tell 后面可以有两个宾语（S + V + O + O）。以第 1 句来说，主要从句动词 didn’t tell 的第一个宾语是 me，第二个宾语就是名词从句 when he bought the house。这个名词从句来自疑问句 When did he buy the house?，除去问号之后，疑问词 when 充当连词，解释为「何时」。
 
-第 2 句中的动词 didn’t tell，第一个宾语是 me，第二个宾语是 the price，所以 S + V + O + O 的句型已经完备。后面的 when he bought the house 就是个可有可无的副词从句，修饰动词 didn’t tell 的时间。连词 when 是直述句 he bought the house 外加的一个有意义的连词，意思是「当…时」。
+第 2 句中的动词 didn’t tell，第一个宾语是 me，第二个宾语是 the price，所以 S + V + O + O 的句型已经完备。后面的 when he bought the house 就是个可有可无的副词从句，修饰动词 didn’t tell 的时间。连词 when 是直述句 he bought the house 外加的一个有意义的连词，意思是「当……时」。
 
 能够区分名词从句与副词从句之后，我们再来看看「表示时间的副词从句用现在时代替未来时」是什么意思。请比较：
 
@@ -392,9 +392,9 @@ S V O 时间副词从句
 
 第 1 句中的 when he will return 是由疑问句 When will he return? 改造而成的名词从句，when 是疑问词，意思是「什么时候」。这个意思和未来时「将会」并无冲突：when he will return 就是「他什么时候将会回来」，是名词从句，当做主要从句动词 know 的宾语。语法规则说「表示时间的副词从句用现在时代替未来时」，这条规则并不适用于名词从句，所以还是用未来时 will return。
 
-第 2 句中的 when he returns 则是副词从句，加了一个表示「当…时」的连词 when，这个副词从句放在主要从句中修饰动词 will call 的时间。 「当…时」这种解释和未来时会有冲突，因为「当他回来时」的意思是「当做现在已经到了那个时候」，所以要把「回来」的时间设定为就是现在，因此必须用现在时 returns。语法规则说「表示时间的副词从句用现在时代替未来时」，说的就是这种情况。
+第 2 句中的 when he returns 则是副词从句，加了一个表示「当……时」的连词 when，这个副词从句放在主要从句中修饰动词 will call 的时间。 「当……时」这种解释和未来时会有冲突，因为「当他回来时」的意思是「当做现在已经到了那个时候」，所以要把「回来」的时间设定为就是现在，因此必须用现在时 returns。语法规则说「表示时间的副词从句用现在时代替未来时」，说的就是这种情况。
 
-第 2 句中的副词从句，外加的连词除了 when 之外，其他如 as soon as, before, after 等等都可以使用、也都可以制造出时间副词从句，里面都不适合使用未来时，而要改为现在时。
+第 2 句中的副词从句，外加的连词除了 when 之外，其他如 as soon as、before、after 等等都可以使用、也都可以制造出时间副词从句，里面都不适合使用未来时，而要改为现在时。
 
 刚才我们看的是过去时的动词。如果是完成时，在时间副词从句里面就只能用现在完成而不能用未来完成。例如：
 
@@ -402,7 +402,7 @@ S V O 时间副词从句
 S V O 时间副词从句
 （等我用完了这台电脑就给你──再过半个小时吧。）
 
-句中的 when I have finished 是时间副词从句，外加的是表示「当…时」的连词 when。这个副词从句用来修饰主要从句动词 can have 的时间。这种从句如果是未来时间，必须「当做到了那个时候」，也就是要把未来时间当做就是现在。所以，动词的完成时就只能采用现在完成时的形态（如 have finished）。
+句中的 when I have finished 是时间副词从句，外加的是表示「当……时」的连词 when。这个副词从句用来修饰主要从句动词 can have 的时间。这种从句如果是未来时间，必须「当做到了那个时候」，也就是要把未来时间当做就是现在。所以，动词的完成时就只能采用现在完成时的形态（如 have finished）。
 
 有时候，可以反过来利用时态与语气来判断一个从属从句到底是名词从句还是副词从句、到底该如何解释。例如：
 
@@ -416,7 +416,7 @@ S V O C 时间副词从句
 
 第 1 句中的 when he will return 因为采用了未来时 will return，所以不可能是时间副词从句，只能作名词从句看待。因此，连词 when 一定是来自疑问词，表示「何时」，这个名词从句的意思也就是「他何时将会回来」，放在主要从句中当做原形动词 know（宾语补足语）的宾语使用。
 
-第 2 句中，主要从句的动词 will let 仍然是未来时，但是从属从句 when he returns 用的却是现在时，可以看出来这个从属从句是个时间副词从句。那么连词 when 就是外加的，解释为「当…时」，整个从属从句的意思也就变成「当他回来的时候」，当做副词从句使用、修饰主要从句动词 will let 的时间。
+第 2 句中，主要从句的动词 will let 仍然是未来时，但是从属从句 when he returns 用的却是现在时，可以看出来这个从属从句是个时间副词从句。那么连词 when 就是外加的，解释为「当……时」，整个从属从句的意思也就变成「当他回来的时候」，当做副词从句使用、修饰主要从句动词 will let 的时间。
 
 ### 表示条件的副词从句
 

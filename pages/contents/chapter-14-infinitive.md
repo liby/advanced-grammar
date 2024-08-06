@@ -96,7 +96,7 @@ title: 第十四章 不定式短语
 
 研判句子中是否该使用不定式，也要从这个角度来判断：凡是该使用不定式的地方，都属于「不确定」的「条件语气」，而且都可以还原成某一个语气助动词来作合理的诠释。
 
-一般语法书中会列出规则，说在 the first、the last、the only…… 的后面要接不定式。例如：
+一般语法书中会列出规则，说在 the first、the last、the only… 的后面要接不定式。例如：
 
   - Charles Lindberg was <u>the first man to</u> <u>fly solo across the Atlantic</u>.（查尔斯·林德伯格是第一个独自飞越大西洋的人。）
 
@@ -104,7 +104,7 @@ title: 第十四章 不定式短语
 
   - Admitting your mistake openly is <u>the only way</u> <u>to solve the problem</u>.（公开承认错误是解决问题的唯一方法）
 
-    在名词短语 the only way 后面要用不定式短语 to solve…… 当形容词来修饰它，是因为这个不定式短语是动词短语 can solve…… 的简化：表示只有这个办法「能够」解决问题，别的办法都不能。
+    在名词短语 the only way 后面要用不定式短语 to solve… 当形容词来修饰它，是因为这个不定式短语是动词短语 can solve… 的简化：表示只有这个办法「能够」解决问题，别的办法都不能。
 
 另外，一般语法书也整理出来说在 easy、simple、likely、possible 等形容词后面要接不定式，例如：
 
@@ -114,7 +114,7 @@ title: 第十四章 不定式短语
 
   - <u>It</u> <u>is</u> <u>possible</u> <u>to correct all the mistakes before the final deadline</u>. S V C 不定式短语（名词）（在最后期限之前改正所有的错误是可能的）
 
-    主要从句的主语 it 是个虚字，代表的就是后面的不定式短语 to correct……。形容词 possible 是主语补足语，修饰假主语 it，其实也就是修饰真正的主语 to correct……。在 possible 后面要配合使用不定式短语 to correct……，是因为 possible 表示「有可能」，后面应该配合「可以矫正」，而动词短语 can correct…… 简化为不定式短语就是 to correct……。
+    主要从句的主语 it 是个虚字，代表的就是后面的不定式短语 to correct…。形容词 possible 是主语补足语，修饰假主语 it，其实也就是修饰真正的主语 to correct…。在 possible 后面要配合使用不定式短语 to correct…，是因为 possible 表示「有可能」，后面应该配合「可以矫正」，而动词短语 can correct… 简化为不定式短语就是 to correct…。
 
 ## 不定式短语与动名词的比较
 
@@ -198,7 +198,7 @@ title: 第十四章 不定式短语
 
   2. I <u>am used to walking</u> long distances.（对于长途走路我已经很习惯了。）
 
-例 1 中的 used to 是个次要的语气助动词，表示「过去的习惯」，所以它只有过去时。在语气助动词后面要用原形动词，所以正确的说法是 used to walk。例 2 中的 used 是过去分词、属于形容词类，当主语补足语使用，意思是「习惯了」，它后面的 to 是介词，用来说明「对什么事情」习惯了。介词后面要接名词当宾语，例如可以说 I am used to long walks。如果介词后面碰到动词，要改为动状词的话就只能选择动名词，如 I am used to walking……。
+例 1 中的 used to 是个次要的语气助动词，表示「过去的习惯」，所以它只有过去时。在语气助动词后面要用原形动词，所以正确的说法是 used to walk。例 2 中的 used 是过去分词、属于形容词类，当主语补足语使用，意思是「习惯了」，它后面的 to 是介词，用来说明「对什么事情」习惯了。介词后面要接名词当宾语，例如可以说 I am used to long walks。如果介词后面碰到动词，要改为动状词的话就只能选择动名词，如 I am used to walking…。
 
 再看几个例子：
 

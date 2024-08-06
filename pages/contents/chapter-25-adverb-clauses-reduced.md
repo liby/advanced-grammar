@@ -12,9 +12,9 @@ title: 第二十五章 副词从句简化
 
 [While I stayed at my uncle’s], <u>I</u> <u>dined out</u> every night.
 副词从句 S V
-(住在我叔叔家的时候，我每天晚上都出去吃饭。)
+（住在我叔叔家的时候，我每天晚上都出去吃饭。）
 
-中括号内的部分是个副词从句，修饰主要从句动词 dined out 的时间。副词从句要简化为分词构句，有一点要特别注意：副词从句的主语必须和主要从句的主语相同才可以省略，否则就是错误。就上面这个例子而言，副词从句的主语 I 和主要从句的主语相同、可以省略。动词是普通动词 stayed，没有 be 动词也没有助动词。这种动词的简化方式是加上 -ing 成为 staying。主语、动词这两个部分简化之后，剩下来的已经不再是个限定从句，原来的连词 while 也已经不再需要。但是，while 除了连词的语法功能之外还有字义：「当…时」。如果要把话讲得清楚一点，可以选择把 while 留下来。如果要更简洁，也可以选择把 while 省掉，如下：
+中括号内的部分是个副词从句，修饰主要从句动词 dined out 的时间。副词从句要简化为分词构句，有一点要特别注意：副词从句的主语必须和主要从句的主语相同才可以省略，否则就是错误。就上面这个例子而言，副词从句的主语 I 和主要从句的主语相同、可以省略。动词是普通动词 stayed，没有 be 动词也没有助动词。这种动词的简化方式是加上 -ing 成为 staying。主语、动词这两个部分简化之后，剩下来的已经不再是个限定从句，原来的连词 while 也已经不再需要。但是，while 除了连词的语法功能之外还有字义：「当……时」。如果要把话讲得清楚一点，可以选择把 while 留下来。如果要更简洁，也可以选择把 while 省掉，如下：
 
 [(While) staying at my uncle’s], <u>I</u> <u>dined out</u> every night.
 简化副词从句 S V
@@ -25,7 +25,7 @@ title: 第二十五章 副词从句简化
 
 [Because he was itching to be playing again], the boy <u>inserted</u> more coins.
 副词从句 V
-(因为他很想再玩，所以这个男孩又丢了几枚硬币。)
+（因为他很想再玩，所以这个男孩又丢了几枚硬币。）
 
 中括号内是个副词从句，修饰主要从句动词 inserted 的原因。副词从句的主语 he 就是主要从句的主语 the boy，符合「主语相同」的条件，可以省略。动词部分有现成的 be 动词可以省略。处理掉主语与限定动词之后，剩下来那个称为「分词构句」的补语 itching to be playing again 已经不是限定从句了，因此不再需要连词。再观察一下原来的连词 because，这种表示「原因」的连词在分词构句中应该要省略掉，因为分词构句（尤其是放在句首位置）本身就具有表示「原因」的功能，所以 because 这一类的连词都不会留下来，结果就是：
 
@@ -36,7 +36,7 @@ title: 第二十五章 副词从句简化
 
 [When you see an old person on the bus], <u>offer</u> your seat to him.
 副词从句 V
-(在公车上看到老人请让座。)
+（在公车上看到老人请让座。）
 
 副词从句（中括号内的部分）修饰主要从句动词 offer 的时间或条件。主要从句采用直接命令句语气、省略了主语 you。副词从句的主语也是 you，简化时可以省略。动词部分是普通动词 see，简化的做法就是加上 -ing 成为现在分词 seeing，结果如下：
 
@@ -47,14 +47,14 @@ title: 第二十五章 副词从句简化
 
 [While I am only a student], I <u>want</u> to marry you now.
 副词从句 V
-(虽然我只是学生，我现在就要和你结婚。)
+（虽然我只是学生，我现在就要和你结婚。）
 
 中括号内是个副词从句，修饰主要从句动词 want。这个副词从句的主语是 I，和主要从句相同、可以省略。动词是无意义的 be 动词，在简化从句中通常是可以省略掉的东西。但是如果把 I am 省略掉，剩下的部分是个名词补语 only a student，这个词类和原来副词从句的词类差距太大：副词从句是个可有可无的修饰语，而名词则通常是主语、宾语、补语等主要元素。所以，如果选择简化掉 I am、只留下名词补语 only a student，那么原来的连词 while 也必须保留下来，读者才看得出来 only a student 是副词从句简化的结果，如下：
 
 [While only a student], I <u>want</u> to marry you now.
 简化副词从句 V
 
-反之，如果要选择省略掉连词 while，就必须做两个动作。第一，only a student 必须改变词类，在前面加上 being，成为 being only a student 这个现在分词短语，也就是所谓的分词构句，读者才看得出来它扮演的角色是简化副词从句。第二，简化从句中虽然不再需要连词，但是 while 这个连词有「虽然」的字意，省掉的话句子的意思会变得不够清楚。可以选择把它保留下来，成为 while being only a student 这个分词构句。也可以省略掉连词 while，改以连接副词如 still, nevertheless, however 之类来取代，句子的逻辑关系才不会不清楚：
+反之，如果要选择省略掉连词 while，就必须做两个动作。第一，only a student 必须改变词类，在前面加上 being，成为 being only a student 这个现在分词短语，也就是所谓的分词构句，读者才看得出来它扮演的角色是简化副词从句。第二，简化从句中虽然不再需要连词，但是 while 这个连词有「虽然」的字意，省掉的话句子的意思会变得不够清楚。可以选择把它保留下来，成为 while being only a student 这个分词构句。也可以省略掉连词 while，改以连接副词如 still、nevertheless、however 之类来取代，句子的逻辑关系才不会不清楚：
 
 [Being only a student], I still <u>want</u> to marry you now.
 简化副词从句 V
@@ -63,7 +63,7 @@ title: 第二十五章 副词从句简化
 
 [After he graduated from college], he <u>found</u> himself unemployed.
 副词从句 V
-(大学毕业之后，他发现自己失业了。)
+（大学毕业之后，他发现自己失业了。）
 
 中括号内的副词从句修饰主要从句动词 found 的时间。副词从句的主语 he 与主要从句相同、可以简化，做法是省略主语 he、普通动词 graduated 加上 -ing 成为 graduating。接下来要考虑连词 after 是否要保留。简化从句不是限定从句，并不需要连词。但是 after 这个连词有「之后」的意思，如果省掉，要判断一下意思是否有改变：
 
@@ -78,10 +78,10 @@ title: 第二十五章 副词从句简化
 这样做的时候要注意：连词 after 亦可当介词使用。如果后面的从句简化掉了、不再是限定从句，它就自动转变成介词。而在介词后面必须用名词短语当宾语。观察一下发现：graduating from college 可以当动名词短语使用，也就是可以当作介词 after 的宾语，因而可以接受。再看一个例子：
 
 Two Vietnamese patients died from avian flu.
-(两名越南病人死于禽流感。)
+（两名越南病人死于禽流感。）
 
 This caused widespread panic in Southeast Asia.
-(这件事情在东南亚引起大恐慌。)
+（这件事情在东南亚引起大恐慌。）
 
 句 2 的内容说明句1造成的结果，可以用表达​​结果的连词 so 引导、制造复杂句如下：
 
@@ -97,7 +97,7 @@ Two Vietnamese patients <u>died</u> from avian flu, [causing widespread panic in
 
 [As it was rather late], the rescue workers <u>decided</u> to quit.
 副词从句 V
-(因为时候不早了，这些救难人员决定要停手。)
+（因为时候不早了，这些救难人员决定要停手。）
 
 副词从句（中括号内的部分）修饰主要从句动词 decided 的原因。请注意：副词从句的主语是个虚字 it，和主要从句的主语 the rescue workers 并不相同。这种情况并不适合进行简化，因为两个从句并没有什么重叠的部分。如果还是要进行简化，要注意几个地方。第一，副词从句不同的主语 it 必须保留下来。第二，动词 was 要加上 -ing 改为现在分词 being，因为这种句型是分词构句的一种变形，必须有个分词才会清楚。第三，简化为 it being rather late 之后，原来的连词（as）一定要省掉。这是因为：副词从句的主语既然和主要从句并无重复，简化时无法省略，那么简化从句并不会变得比较简洁。不过，简化之后可以省略的是原来那个连词，所以要从连词的省略来获得简洁的效果。因此，副词从句简化为分词构句时，如果主语不同而保留下来，连词就一定要省略。
 
@@ -109,7 +109,7 @@ Two Vietnamese patients <u>died</u> from avian flu, [causing widespread panic in
 
 [If it is provoked], a rhino <u>can be</u> very dangerous.
 副词从句 V
-(如果受到激怒，犀牛可能非常危险。)
+（如果受到激怒，犀牛可能非常危险。）
 
 中括号内是个副词从句，修饰主要从句动词 can be 的条件。副词从句的主语 it 就是主要从句的主语 a rhino，可以进行简化：省略掉主语 it 与 be 动词 is，留下过去分词补语 provoked。简化从句不是限定从句、不再需要连词，但是 if 这个连词意思是「如果」，表示一种条件。省掉的话意思会不清楚，所以应该选择把连词留下来，成为：
 
@@ -120,7 +120,7 @@ Two Vietnamese patients <u>died</u> from avian flu, [causing widespread panic in
 
 [After it was redecorated], the house <u>looks</u> more comfortable.
 副词从句 V
-(重新装潢之后，这个房子看起来舒服多了。)
+（重新装潢之后，这个房子看起来舒服多了。）
 
 中括号内是个副词从句，修饰主要从句动词 looks 的时间。副词从句的主语 it 就是主要从句的主语 the house，可以进行简化，做法是省略重复的主语 it、空洞的 be 动词 was，剩下补语部分 redecorated。接下来判断一下连词 after 要不要保留。这个连词的意思是「之后」，表达时间先后关系。如果省掉，是下面这种情况：
 
@@ -141,7 +141,7 @@ Two Vietnamese patients <u>died</u> from avian flu, [causing widespread panic in
 
 The house, [whether it is insured or not], <u>needs</u> a fire alarm.
 副词从句 V
-(这个房子，不论有没有保险，都需要装火警警铃。)
+（这个房子，不论有没有保险，都需要装火警警铃。）
 
 中括号内的部分是个副词从句，连词 whether 相当于外加的连词 no matter，引导这个副词从句修饰主要从句动词 needs。副词从句简化的方式是把重复的主语 it（代表 the house）与空洞的 be 动词省略掉，如下：
 
@@ -154,7 +154,7 @@ The house, [(whether) insured or not], <u>needs</u> a fire alarm.
 
 [When the job was concluded], the secretary <u>went</u> home.
 副词从句 V
-(工作做完了，秘书就回家了。)
+（工作做完了，秘书就回家了。）
 
 中括号内是个副词从句，修饰主要从句动词 went 的时间。但是副词从句的主语 the job 和主要从句的主语 the secretary 不一样，这种情况并没有可以简化的空间。如果还是要进行简化，就得把副词从句不同的主语 the job 保留下来。动词短语的部分仍然是省略掉 be 动词、留下过去分词补语 c​​oncluded。这是分词构句的一种特殊变形，传统语法称为独立短语。这种构造要注意：因为保留了不同的主语、没有获得简化的效果，所以原来的连词一定要省略，这样才真正有简化的效果出现，如下：
 
@@ -167,7 +167,7 @@ The house, [(whether) insured or not], <u>needs</u> a fire alarm.
 
 <u>The case</u> <u>is</u> <u>closed</u> now.
 S V C
-(案子现在已经结案。)
+（案子现在已经结案。）
 
 补语部分的过去分词 closed 除了表示被动语态「被结」，同时也表示完成状态「已经结掉」。如果要表达的是「正在被结案中，尚未完成」，就得用到 being 了：
 
@@ -178,7 +178,7 @@ S V C
 
 When I said just now that his poem was excellent, <u>I</u> <u>was</u> <u>being nice</u>.
 S V C
-(我刚才说他写的那首诗好极了，那是在说客套话。)
+（我刚才说他写的那首诗好极了，那是在说客套话。）
 
 主要从句如果改为 I was nice，意思是说「我是个好人」。补语部分必须加上现在分词 being 来强调进行状态，意思才变成「在说客套话」。 以上是 being 用于「强调进行状态」的用法。接下来看看 being 用于词类变化的用法。
 
@@ -186,7 +186,7 @@ Being 可以当现在分词、也可以当动名词使用。如果 being 是现�
 
 [Because you are my best friend], you <u>must tell</u> me the truth.
 副词从句 V
-(因为你是我最好的朋友，你一定要跟我说真话。)
+（因为你是我最好的朋友，你一定要跟我说真话。）
 
 副词从句（中括号内部分）的主语 you 和主要从句相同，可以简化。动词是无意义的 are，本来也可以简化，但是结果会变成名词补语 my best friend，和原来的副词从句词类差距太大。而且 because 又是一个不能保留的连词，简化之后只剩下名词短语 my best friend，读者无从判断它是扮演什么角色。这时候就该在前面加个 being 来做词类变化：把名词短语转变成分词短语 being my best friend，就可以当分词构句使用、取代副词从句，如下：
 
@@ -197,15 +197,15 @@ Being 可以当现在分词、也可以当动名词使用。如果 being 是现�
 
 [Without being rude], the man <u>told</u> the woman that she was wrong.
 介词短语
-(并没有不礼貌，这位先生告诉这位小姐说她搞错了。)
+（并没有不礼貌，这位先生告诉这位小姐说她搞错了。）
 
 介词短语（中括号内部分）修饰主要从句动词 told 的方式。介词短语中有个形容词 rude，不能直接当介词的宾语使用。一旦加上 being，变成动名词短语 being rude，就符合词类要求、可以当宾语使用了。再看一个例子：
 
 The students <u>rushed out</u> at the sound of the bell [before they were told to leave].
 V 副词从句
-(学生们不等别人吩咐，一听到铃声就冲出去了。)
+（学生们不等别人吩咐，一听到铃声就冲出去了。）
 
-副词从句（中括号内的部分）修饰主要从句动词 rushed out 的时间。它的主语 they 与主要从句相同，可以省略。接下来是省略掉空洞的 were，剩下过去分词补语 told to leave。但是，从属连词 before 必须保留下来才看得出来「在…之前」的意思。而 before 又是连词与介词两种词类兼具，简化从句中一旦留下它来就会自动转变为介词。而在介词 before 后面不能直接用过去分词 told to leave，必须改为名词类。但是过去分词 told 表示「被告知」的被动语态，所以不能更动。这时候只有在前面加上 being，成为 being told to leave 这个动名词短语，才能够当介词 before 的宾语使用，如下：
+副词从句（中括号内的部分）修饰主要从句动词 rushed out 的时间。它的主语 they 与主要从句相同，可以省略。接下来是省略掉空洞的 were，剩下过去分词补语 told to leave。但是，从属连词 before 必须保留下来才看得出来「在……之前」的意思。而 before 又是连词与介词两种词类兼具，简化从句中一旦留下它来就会自动转变为介词。而在介词 before 后面不能直接用过去分词 told to leave，必须改为名词类。但是过去分词 told 表示「被告知」的被动语态，所以不能更动。这时候只有在前面加上 being，成为 being told to leave 这个动名词短语，才能够当介词 before 的宾语使用，如下：
 
 The students <u>rushed out</u> at the sound of the bell [before being told to leave].
 V 简化副词从句
@@ -214,7 +214,7 @@ V 简化副词从句
 
 [After he has been a soldier for 10 years], the man <u>is</u> quite used to taking orders.
 副词从句 V
-(当了十年兵之后，这名男子已经相当习惯服从命令了。)
+（当了十年兵之后，这名男子已经相当习惯服从命令了。）
 
 副词从句（中括号内的部分）修饰主要从句动词 is 的时间。它的主语 he 就是主要从句的主语 the man，可以简化。动词是完成时的 has been。里面的 be 动词本身没有意义，只表达完成状态「已经」。可以选择加上 -ing 成为 having been 保留下来，一方面因为后面是名词（a soldier）、需要做词类变化（成为分词构句），一方面也可以用 having been 的完成状态取代原来的连词 after ，如下：
 
@@ -273,7 +273,7 @@ V 简化副词从句
 
 <u>The teacher</u> [entering the classroom] <u>greeted</u> <u>the students</u>.
 S 简化形容词从句 V O
-(进入教室的那位老师和学生们打招呼)
+（进入教室的那位老师和学生们打招呼）
 
 这个位置的分词短语没有用逗点隔开，是下面这个关系从句简化的结果：
 
@@ -284,7 +284,7 @@ S 关系从句 V O
 
 <u>The teacher</u>, [entering the classroom], <u>greeted</u> <u>the students</u>.
 S 简化从句 V O
-(老师走进教室、和学生打招呼。)
+（老师走进教室、和学生打招呼。）
 
 句中位置这个分词短语，前后有一对逗点和主要从句隔开。这时候它有可能是不具指示功能的关系从句 who entered the classroom 的简化、修饰先行词 the teacher，也有可能是时间副词从句 when he entered the classroom 简化为分词构句，修饰动词 entered 的时间。不过，这两种诠释的意思差不了太多，虽然稍有模棱两可之嫌但还可以接受。
 
@@ -294,7 +294,7 @@ S 简化从句 V O
 
 <u>The teacher</u> <u>greeted</u> <u>the students</u> <u>entering the classroom</u>.
 S V O C
-(老师和走进教室的学生们打招呼。)
+（老师和走进教室的学生们打招呼。）
 
 句尾的 entering the classroom 这个分词短语没有逗点隔开，是主要从句的元素之一：宾语补足语，形容的对像​​是宾语 the students。这时候，「走进教室」的不再是老师、变成是学生们。
 
@@ -302,7 +302,7 @@ S V O C
 
 <u>The teacher</u> <u>greeted</u> <u>the students</u>, [entering the classroom].
 S V O 简化副词从句
-(老师和学生们打招呼，在他走进教室的时候。)
+（老师和学生们打招呼，在他走进教室的时候。）
 
 这时候，「走进教室」的仍然是老师。中括号内的部分是分词构句，来自下面这个时间副词从句的简化：when he entered the classroom，修饰动词 greeted 的时间。
 
@@ -312,7 +312,7 @@ S V O 简化副词从句
 
 [Trying to keep the boat afloat in the storm], <u>a lot of cargo</u> was jettisoned.（误）
 dangling modifier S
-(为了维持船只在风暴中不沉，许多货物被抛弃掉。)
+（为了维持船只在风暴中不沉，许多货物被抛弃掉。）
 
 这个句子，中文的意思乍看之下好像可以，其实有很大的问题。中括号内是个副词从句简化而来的分词构句。做这种简化有一个先决条件：副词从句的主语必须和主要从句相同。看一下后面的主要从句，它的主语是 a lot of cargo「许多货物」。如果副词从句的主语和主要从句相同，那么这个副词从句还原的结果就是 Because a lot of cargo was trying to keep the boat afloat in the storm「因为许多货物努力要维持船只在风暴中不沉」 ，但是这种讲法显然不通：「抢救船只」的主语应该是人、不可能是货物。副词从句的主语和主要从句的主语明显不同，却仍然简化，造成的结果就是分词构句（中括号内的部分）找不到一个合理的对象可以修饰，因而悬在半空中无法落实。所以这种错误称为「悬荡修饰语」。这种错误可以有几种订正方式。一种是不要简化，恢复原来的副词从句、把不一样的主语还原，如下：
 
@@ -327,7 +327,7 @@ S
 
 <u>This new medicine</u> cannot really cure a patient [unless treated in the earliest stages of lung cancer].（误）
 S dangling modifier
-(这种新药不能真正治好病人，除非在肺癌的最初期就接受治疗。)
+（这种新药不能真正治好病人，除非在肺癌的最初期就接受治疗。）
 
 中文的讲法好像可以接受，但是英文有错误。中括号内的部分是由表示条件的副词从句简化而来的分词构句。这种简化的前提是副词从句的主语必须和主要从句相同。但是主要从句的主语是 this new medicine「这种新药」，如果副词从句也是用同样的主语，那么还原回去就是 unless this new medicine is treated in the earliest stages of lung cancer 这个不通的句子（意思是「除非这种新药在肺癌最初期就接受治疗」）：接受治疗的只能是病人、不能是新药。可以修改如下：
 
@@ -344,7 +344,7 @@ S 简化副词从句
 
 The student <u>studied</u> hard [<u>in order to</u> get a scholarship].
 V 简化副词从句
-(这个学生用功读书，目的是要拿奖学金。)
+（这个学生用功读书，目的是要拿奖学金。）
 
 中括号内的部分由下句中的副词从句简化而来：
 
@@ -357,7 +357,7 @@ V 副词从句
 
 The boy <u>left</u> home early [<u>so as to be</u> in time for the concert].
 V 简化副词从句
-(这个男孩很早就出门，目的是要赶上演唱会。)
+（这个男孩很早就出门，目的是要赶上演唱会。）
 
 中括号内的简化副词从句可以还原如下：
 
@@ -370,7 +370,7 @@ V 副词从句
 
 The air in the city is <u>so</u> polluted [<u>as to be</u> dangerous to health].
 简化副词从句
-(市内的空气污染到可能会有害健康的地步。)
+（市内的空气污染到可能会有害健康的地步。）
 
 中括号内的简化副词从句可以还原如下：
 
@@ -413,12 +413,12 @@ The news is <u>too</u> good [to be true].
 简化副词从句
 （这个消息太好了，不可能是真的。）
 
-程度副词 too 的意思是「太过」，具有否定意味，用法是要和表示不定式的 to 连用，表达「太过…以致于不可能」的意思。这个简化副词从句可以还原如下：
+程度副词 too 的意思是「太过」，具有否定意味，用法是要和表示不定式的 to 连用，表达「太过……以致于不可能」的意思。这个简化副词从句可以还原如下：
 
 The news is <u>so</u> good [that it can’t be true].
 副词从句
 
-原本的副词从句是采用 so … that 这组连词，表示「如此…以致于」，其中 so 是程度副词，整个副词从句修饰形容词 good。简化时将副词从句中的否定（not）交给带有否定意味的程度副词 too 来表达，主语 it 省略、助动词 can 简化为表示不定式的 to，整个副词从句就简化为 too … to be true，仍然用来修饰形容词 good 的程度。
+原本的副词从句是采用 so … that 这组连词，表示「如此……以致于」，其中 so 是程度副词，整个副词从句修饰形容词 good。简化时将副词从句中的否定（not）交给带有否定意味的程度副词 too 来表达，主语 it 省略、助动词 can 简化为表示不定式的 to，整个副词从句就简化为 too … to be true，仍然用来修饰形容词 good 的程度。
 
 #### Enough … to
 
@@ -476,7 +476,7 @@ The new is <u>so</u> bad [that it can make me cry].
 
 ### 连词直接转变为介词
 
-副词从句的连词大多有意义，所以副词从句在简化时，连词经常会选择保留下来。不过要注意：有一些副词从句的连词身兼连词与介词两种词性。如果后面有限定从句，它就是连词。如果它后面的从句简化了、不再是限定从句，这些连词会自动转变为介词。这种身兼两种词性的连词有 before, after, since, until, for, as 等，分别举例说明如下：
+副词从句的连词大多有意义，所以副词从句在简化时，连词经常会选择保留下来。不过要注意：有一些副词从句的连词身兼连词与介词两种词性。如果后面有限定从句，它就是连词。如果它后面的从句简化了、不再是限定从句，这些连词会自动转变为介词。这种身兼两种词性的连词有 before、after、since、until、for、as 等，分别举例说明如下：
 
 #### Before
 
@@ -509,7 +509,7 @@ V 介词短语
 
 I have been very busy [since I returned from Bali].
 V 副词从句
-(我从峇里岛回来之后一直就很忙。)
+（我从峇里岛回来之后一直就很忙。）
 
 中括号内是副词从句，修饰动词 have been 的时间。简化的方式是省略掉重复的主语、普通动词加上 -ing 成为 returning。连词 since 有意义、应该保留下来，但是一旦留下来它就会转变为介词。因为 returning 刚好可以当动名词使用，所以可以直接做介词的宾语，如下：
 
@@ -520,7 +520,7 @@ V 介词短语
 
 The fruit <u>doesn’t turn</u> red [until it is completely ripe].
 V 副词从句
-(这种水果到全熟之后才会变红。)
+（这种水果到全熟之后才会变红。）
 
 中括号内的副词从句修饰动词 doesn’t turn 的时间。简化的方式是省略掉重复的主语 it、无意义的 be 动词，剩下补语部分的形容词短语 completely ripe。因为连词 until 有意义，应该选择留下来。但是它一旦留下来就会转变为介词，所以不能只有形容词短语 completely ripe 在它后面，必须进行词类变化（加上无意义的动名词 being），如下：
 
@@ -531,7 +531,7 @@ V 介词短语
 
 The man <u>can’t find</u> a job easily, [for he has a criminal record].
 V 副词从句
-(这个人因为有犯罪记录所以不容易找工作。)
+（这个人因为有犯罪记录所以不容易找工作。）
 
 中括号内的副词从句用来修饰动词 can’t find 的原因。简化的方式是省略掉重复的主语 he、普通动词加上 -ing 成为 having。表示原因的连词 for 一般都应该省略掉，成为分词构句 having a criminal record 就够清楚了。但是如果选择要留下 for 来当介词，后面的词类就要注意：必须是名词类才可以当介词的宾语。而 having 这个动名词刚好可以，如下：
 
@@ -542,7 +542,7 @@ V 介词短语
 
 [As I am a scientist], I <u>believe in</u> concrete facts only.
 副词从句 V
-(因为我是科学家，我只相信具体事实。)
+（因为我是科学家，我只相信具体事实。）
 
 中括号内的副词从句修饰动词 believe in。简化的方式是省略掉重复的主语 I 与空洞的 am，只留下补语部分 a scientist。这是个名词补语，和原来副词从句的词类出入太大。可以加上 being 来做词类变化，成为分词构句如下：
 
@@ -560,13 +560,13 @@ V 介词短语
 
 #### Although
 
-连词 although（或者拼成 though），往往可以改写为 despite, inspite of 或 without、整个从句改写为介词短语而意思不变。例如：
+连词 although（或者拼成 though），往往可以改写为 despite、in spite of 或 without、整个从句改写为介词短语而意思不变。例如：
 
 The girl <u>is</u> determined to marry her boyfriend [although her parents object strongly].
 V 副词从句
-(虽然家长强烈反对，这个女孩还是决心要嫁给男友。)
+（虽然家长强烈反对，这个女孩还是决心要嫁给男友。）
 
-中括号内的副词从句修饰动词 is、表示让步。可以选择把连词 although 改为意思接近的介词 despite 或 inspite of，如下：
+中括号内的副词从句修饰动词 is、表示让步。可以选择把连词 although 改为意思接近的介词 despite 或 in spite of，如下：
 
 The girl <u>is</u> determined to marry her boyfriend [despite her parents’ strong objection].
 V 介词短语
@@ -575,7 +575,7 @@ V 介词短语
 
 [Although he was not told to enter], the salesperson <u>came in</u>.
 副词从句 V
-(虽然没有人叫他进来，这位推销员还是进来了。)
+（虽然没有人叫他进来，这位推销员还是进来了。）
 
 中括号内这个副词从句修饰动词 came in、表示让步。简化时可以选择把连词 although 改写为介词 without。后面不能直接用过去分词 told，必须加上动名词 being 来做词类变化才能当介词 without 的宾语，如下：
 
@@ -584,11 +584,11 @@ V 介词短语
 
 #### Because
 
-这个连词可以改写为 because of, owing to, due to, as a result of, with 等等介词、意思接近。例如：
+这个连词可以改写为 because of、owing to、due to、as a result of、with 等等介词、意思接近。例如：
 
 The little resort town <u>is</u> crowded [because there has been an influx of tourists].
 V 副词从句
-(这个小小的观光镇人满为患，因为观光客大量涌入。)
+（这个小小的观光镇人满为患，因为观光客大量涌入。）
 
 中括号内这个副词从句修饰动词 is 的原因。可以选择把连词 because 改写为介词 with，如下：
 
@@ -599,20 +599,20 @@ V 介词短语
 
 [Because he had prepared adequately], the student <u>did</u> well at the exam.
 副词从句 V
-(因为有充分的准备，这个学生考试考得很好。)
+（因为有充分的准备，这个学生考试考得很好。）
 
-中括号内的副词从句修饰动词 did 的原因。简化时可以选择把连词 because 改写为 because of, as a result of, owing to 之类，再把动词短语 had prepared adequately 改为名词短语 adequate preparation，如下：
+中括号内的副词从句修饰动词 did 的原因。简化时可以选择把连词 because 改写为 because of、as a result of、owing to 之类，再把动词短语 had prepared adequately 改为名词短语 adequate preparation，如下：
 
 [As a result of adequatel preparation], the student <u>did</u> well at the exam.
 副词从句 V
 
 #### When
 
-这个连词可以改写为介词 on, upon, at 等等、意思接近，如下：
+这个连词可以改写为介词 on、upon、at 等等、意思接近，如下：
 
 [When she heard her child cry], the woman <u>rushed</u> into the bedroom.
 副词从句 V
-(一听到她的孩子哭，这位妇女马上冲进卧房。)
+（一听到她的孩子哭，这位妇女马上冲进卧房。）
 
 中括号内是副词从句、修饰动词 rushed 的时间。简化时可以把连词 when 改写为 on 或 upon、省掉重复的主语，动词 heard 改为动名词 hearing 当作介词的宾语，如下：
 
@@ -623,7 +623,7 @@ V 介词短语
 
 [When the meeting was concluded], everyone <u>rose</u> to leave.
 副词从句 V
-(会议开完的时候，大家都站起来要走。)
+（会议开完的时候，大家都站起来要走。）
 
 中括号内的副词从句修饰动词 rose 的时间。可以改写为介词短语如下：
 
@@ -636,7 +636,7 @@ V 介词短语
 
 [As soon as her boyfriend purchased the house], the girl <u>agreed</u> to marry him.
 S V O V
-(男朋友一买好房子，这位小姐就答应嫁给他了。)
+（男朋友一买好房子，这位小姐就答应嫁给他了。）
 
 连词 as soon as 的意思和 when 接近，引导的副词从句（中括号内的部分）修饰主要从句动词 agreed 的时间。如果把连词改写为介词 upon，整个句子可以简化如下：
 
@@ -651,7 +651,7 @@ S V O V
 
 [If the river rises above the red line], the village nearby <u>will be</u> evacuated.
 副词从句 V
-(如果河水涨过红线，附近的村子将要疏散。)
+（如果河水涨过红线，附近的村子将要疏散。）
 
 中括号内的副词从句修饰动词 will be 的条件。简化时可以把连词 if 改写为介词 in case of，如下：
 
@@ -670,7 +670,7 @@ S V O V
 S V C V
 （虽然他是名教授，我这个朋友在实际的事务方面却非常天真。）
 
-中括号内是个副词从句，修饰主要从句动词 is。简化的方式是省略掉与主要从句重复的主语 he、省略掉 be 动词，剩下补语部分 a famous professor 这个名词短语。因为连词 although 有「虽然…」的意思，最好要保留下来才够清楚。而一旦选择保留连词 although，后面接名词补语 a famous professor 也仍然清楚，如下：
+中括号内是个副词从句，修饰主要从句动词 is。简化的方式是省略掉与主要从句重复的主语 he、省略掉 be 动词，剩下补语部分 a famous professor 这个名词短语。因为连词 although 有「虽然……」的意思，最好要保留下来才够清楚。而一旦选择保留连词 although，后面接名词补语 a famous professor 也仍然清楚，如下：
 
 [Although a famous professor], my friend <u>is</u> extremely naïve in practical matters.
 简化副词从句 V

@@ -50,19 +50,19 @@ We can see snow-covered hills.
 如上一章所述，句子当中任何的位置都可以采用对等连词而并列两个以上。同样的，一个句子当中也可以靠对等连词来塞入两个以上的限定从句，称为对等从句。例如：
 
 <u>Everyone was in the hall</u>, <u>and the door had been closed</u>.
-对等从句 对等从句 (大家都在大厅内，门也已经关了。)
+对等从句 对等从句 （大家都在大厅内，门也已经关了。）
 
 这就是一个复合句，由对等连词 and 连接两个对等从句构成。
 
 <u>Most of us were in the hall</u>, <u>the doors had been closed</u>, and <u>the lights were out</u>.
 对等从句 对等从句 对等从句
-(我们大部分人都在大厅内、门已经关上，灯也熄了。)
+（我们大部分人都在大厅内、门已经关上，灯也熄了。）
 
 这也是复合句，里面有三个对等从句，用对等连词 and 连接起来，另外加上逗点来做区隔。
 
 A: <u>He did not like us</u>, and <u>everyone knew, but no one admitted it</u>.
 对等从句 对等从句
-(他并不喜欢我们。大家都知道、但是没人承认这件事。)
+（他并不喜欢我们。大家都知道、但是没人承认这件事。）
 
 例句 A 也是一个复合句，由对等连词 and 连接两个对等从句构成。不过，and 右边那个对等从句并不单纯。它可以拆开成为以下两个简单句看待：
 
@@ -85,7 +85,7 @@ Everyone knew, but no one admitted <u>it</u>.
 
 Either <u>he did not like our hairstyle</u>, or <u>we had offended him in some other way</u>.
 对等从句 对等从句
-(或者是他不喜欢我们的髪型、或者就是我们不知如何得罪过他。)
+（或者是他不喜欢我们的髪型、或者就是我们不知如何得罪过他。）
 
 这两个对等从句采用的是 either … or 这组对等连词相关字组来连接。如上一章所述，在 either A or B 这种相关字组中，A 与 B 必须对称。上例中的 A 与 B 两个都是限定从句、符合对等连词相关字组的对称要求。
 
@@ -94,7 +94,7 @@ Either <u>he did not like our hairstyle</u>, or <u>we had offended him in some o
 对等连词的相关字组有时可用在倒装句中，这时候得特别注意对称的要求，例如：
 
 China is <u>not only the world's most populous state but also the largest market in the 21st century</u>.
-(中国不仅是世界人口最多的国家、更是二十一世纪最大的市场。)
+（中国不仅是世界人口最多的国家、更是二十一世纪最大的市场。）
 
 本句中用到的对等连词相关字组是 not only A but also B，在句中 A 是 the world's most populous state，B 是 the largest market in the 21st century，两个都是名词短语、符合对称的要求。
 

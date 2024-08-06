@@ -132,7 +132,7 @@ title: 第十五章 对等连词
 
   1. Gold jewelry looks <u>beautiful and elegant</u>.（黄金首饰很美丽、又很优雅。）
 
-  2. Gold jewelry <u>looks beautiful and lasts forever</u>.(黄金首饰很美丽、而且又永不变质。)
+  2. Gold jewelry <u>looks beautiful and lasts forever</u>.（黄金首饰很美丽、而且又永不变质。）
 
 第 1 句是用对等连词 and 连接 beautiful 和 elegant 这两个形容词，符合对称的要求。第 2 句则是用对等连词 and 连接 looks beautiful 和 lasts forever 这两个由动词引导的「谓语」，也符合对称的要求。不过，下面这个句子就有问题了：
 

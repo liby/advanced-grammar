@@ -57,7 +57,7 @@ S V O
 
 #### 来自 Information Question
 
-有疑问词（如 who, which, what, when, why, how, where 等）引导的疑问句，称为 Information Question。这种疑问句，里头的疑问词可以充当现成的从属连词，所以只要把问号拿掉，不必加任何东西就可以直接成为名词从句。例如：
+有疑问词（如 who、which、what、when、why、how、where 等）引导的疑问句，称为 Information Question。这种疑问句，里头的疑问词可以充当现成的从属连词，所以只要把问号拿掉，不必加任何东西就可以直接成为名词从句。例如：
 
 <u>What</u> <u>happened</u> at his party?
 S V
@@ -359,7 +359,7 @@ His response dwells on <u>the fact</u> <u>(that) I owe him a favor</u>.
 
 ## 评论从句
 
-有一些经常听到、类似口头禅的用语，如 you know, I guess, I suppose 等等，看起来也是限定从句的构造，但是无甚意义，只是放在句中不重要的位置当个点缀。这种用语称为**评论从句（Comment Clause）**&#8203;。例如：
+有一些经常听到、类似口头禅的用语，如 you know、I guess、I suppose 等等，看起来也是限定从句的构造，但是无甚意义，只是放在句中不重要的位置当个点缀。这种用语称为**评论从句（Comment Clause）**&#8203;。例如：
 
 He was really afraid, <u>I believe</u>.
 （我看他是真的怕了。）
@@ -371,14 +371,14 @@ This trick, <u>you know</u>, will never work.
 
 ## 引用句
 
-直接引用句在引用文字前后加上双引号(”…”),间接引用句则会把双引号移除、引用的文字以名词从句方式纳入主要从句中。例如:
+直接引用句在引用文字前后加上双引号（`“…”`）,间接引用句则会把双引号移除、引用的文字以名词从句方式纳入主要从句中。例如:
 
 <u>The guard</u> <u>said</u>, <u>“The road is closed.”</u>
 S V O
 
 <u>The guard</u> <u>said</u> <u>(that) the road was closed</u>.
 S V O
-(警卫说道路封闭了。)
+（警卫说道路封闭了。）
 
 请注意直接引句与间接引句在动词时态方面的变化。另外,不论是直接引句还是间接引句,引用的文字都可以移到句首来加强语气,这时候主要从句的动词可以选择倒装到主语前面、也可以不倒装,如下:
 
