@@ -436,11 +436,11 @@ S V 条件副词从句
 
 <u>I</u> <u>have</u> <u>no idea</u> <u>if this plan will work or not</u>.
 S V O 名词从句
-（我根本不了解这个计画到底会不会奏效。）
+（我根本不了解这个计划到底会不会奏效。）
 
 <u>I</u> <u>have</u> <u>a large reward</u> for you <u>if this plan works</u>.
 S V O 条件副词从句
-（如果这个计画奏效了，我有个大奖要送给你。）
+（如果这个计划奏效了，我有个大奖要送给你。）
 
 第 1 句可以先拆开为以下两句来了解：
 

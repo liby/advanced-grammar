@@ -762,7 +762,7 @@ The museum, <u>because it has been renovated twice</u>, is much larger and has a
 <u>With the window wide open</u>, rain spilled all over the floor.
 
 2, You need to modify the plan before it is put into effect.
-（你必须先修正这项计画然后才能付诸实行。）
+（你必须先修正这项计划然后才能付诸实行。）
 
 画底线部分是时间副词从句、修饰主要从句动词 need 的时间。因为副词从句的主语（it）和主要从句的主语（you）不同，要简化的话会有点勉强。最好先改为主语相同。一种改法是把主要从句的主语改为 the plan，也就是改为被动语态，如下：
 

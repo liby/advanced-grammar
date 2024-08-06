@@ -26,7 +26,7 @@ title: 第四章 形容词
 | --- | --- | --- | --- |
 | a | small | garden | 一座小花园 |
 | | popular | songs | 热门歌曲 |
-| that | foolish | plan | 那项愚蠢的计画 |
+| that | foolish | plan | 那项愚蠢的计划 |
 | | extreme | danger | 极度危险 |
 | my | dearest | friend | 我最亲蜜的朋友 |
 | many | happy | days | 许多快乐的日子 |
@@ -94,7 +94,7 @@ title: 第四章 形容词
 再看一个例子：
 
   - We had <u>a particular reason</u> for abandoning the project.
-（我们放弃这项计画是有个原因的。）
+（我们放弃这项计划是有个原因的。）
 
     名词短语 a particular reason 中的形容词 particular 仍然解释为「某一个」，类似限定词。这种形容词如果放到补语位置，意思会不一样：
 
@@ -103,7 +103,7 @@ title: 第四章 形容词
 还有一些形容词则是完全不能放在补语位置。例如：
 
   - <u>Our chief reason</u> for abandoning the project was financial.
-（放弃这项计画，我们主要的原因在于财务。）
+（放弃这项计划，我们主要的原因在于财务。）
 
     在名词短语 our chief reason 中，形容词 chief 的功能在于指出「最主要的那个」，类似限定词的用法。这种形容词只能放在名词短语中，放到补语位置就属用字错误，如下：
 
@@ -258,7 +258,7 @@ time immemorial     久远以前
 
 有一些放在主语位置的形容词，本身还不具备完整的意思，需要配合别的文字来做进一步的补充、意思才算完整。配合它来做补充的文字，常见的有不定词短语、介系词短语、以及名词从句三种。请看下面的例子:
 
-  - <u>I</u> <u>am</u> <u>eager</u> to begin the project. S V C（我急着想开始这项计画。）
+  - <u>I</u> <u>am</u> <u>eager</u> to begin the project. S V C（我急着想开始这项计划。）
 
     如果光是说 I am eager，补语位置的形容词 eager 似乎尚未交代清楚这句话是什么意思。加上了不定词短语 to begin the project，句子的意思才算完全清楚。这里的不定词短语 to begin the project 当副词使用、修饰形容词 eager。
 

@@ -399,7 +399,7 @@ All but one 的用法与意思都类似 all except one，所以 all but one of t
 Not only A but also B 当主语时，动词应该和接近的那个主语一致，这是因为省略造成的结果。例如：
 
 <u>Not only my friends but also I</u> <u>am</u> against the plan.
-(不仅我的朋友们，就连我自己也反对这项计画。)
+(不仅我的朋友们，就连我自己也反对这项计划。)
 
 可以先还原为 My friends are against the plan 和 I am against the plan 这两个简单句，然后用 not only … but also 连接起来成为对等从句。接下来省略掉前面重复的部分（are against the plan），结果就是上面那个句子。
 
