@@ -9,11 +9,13 @@
 
 ## 项目介绍
 
-- 看到了 [codeyu](https://github.com/codeyu) 制作的《旋元佑进阶文法》[在线项目](https://grammar.codeyu.com/)，发现网站样式有些奇怪，只展示在左半屏。另 issues 列表中有不少人反映[想要英语术语本土化的版本](https://github.com/codeyu/EnglishGrammarBook/issues?q=%E5%A4%A7%E9%99%86)。
-- 珠玉在前，遂按照自己的样式喜好制作了[一版](https://advanced-grammar.vercel.app/)，并完成了对英语术语本土化的转换。
-- 本项目使用 [Nextra](https://nextra.site/) 制作。
-- 如遇到错误或者问题，可以在 [issues](https://github.com/liby/advanced-grammar/issues/) 区提出。
+- 在浏览 [codeyu](https://github.com/codeyu) 制作的《旋元佑进阶文法》[在线项目](https://grammar.codeyu.com/)时，我注意到页面布局在某些情况下可能显得不太协调，内容主要集中在左半屏。与此同时，我又发现 issues 列表中有[许多用户反馈](https://github.com/codeyu/EnglishGrammarBook/issues?q=%E5%A4%A7%E9%99%86)，希望能够有一个更符合简中用户阅读习惯的版本。
 
+- 受到这个项目的启发，我根据个人的样式喜好制作了[一版](https://advanced-grammar.vercel.app/)，并对原项目中的排版、用语习惯进行了调整，将许多台湾地区的用词转换为更符合大陆地区习惯的表达方式，同时也对中英文标点符号的混用问题进行了规范化处理。
+
+- 本项目使用 [Nextra](https://nextra.site/) 构建。
+
+- 如遇到任何错误或问题，欢迎在 [issues](https://github.com/liby/advanced-grammar/issues/) 区提出。
 
 ## 作者简介
 
