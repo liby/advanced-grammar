@@ -1,0 +1,30 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended",
+    "schedule:monthly",
+    ":maintainLockFilesMonthly",
+    ":pinAllExceptPeerDependencies",
+    ":semanticCommits"
+  ],
+  "packageRules": [
+    {
+      "description": "Automerge non-major updates",
+      "groupName": "Automerge Non-major Updates",
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ],
+      "automerge": true
+    },
+    {
+      "matchUpdateTypes": [
+        "lockFileMaintenance"
+      ],
+      "automerge": true
+    }
+  ],
+  "platformAutomerge": true,
+  "prCreation": "immediate",
+  "rangeStrategy": "auto"
+}
