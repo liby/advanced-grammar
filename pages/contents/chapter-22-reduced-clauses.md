@@ -8,22 +8,15 @@ title: 第二十二章 简化从句
 
 简化从句的概念，其实就是一个「省略」的概念。句子从最基本的简单句进入比较复杂的复杂句时，前后两个从句之间往往会有重复的元素存在。所谓简化从句，就是把从属从句当中所有重复的、空洞的元素压缩省略掉，只剩下最精简的构造。例如：
 
-<u>I</u> <u>avoid</u> <u>something</u>.
-S V O
-（我避免一件事。）
+  1. <u>I</u> <u>avoid</u> <u>something</u>. S V O（我避免一件事。）
 
-<u>I</u> <u>am</u> <u>caught</u>.
-S V C
-（我被逮到。）
+  2. <u>I</u> <u>am</u> <u>caught</u>. S V C（我被逮到。）
 
-<u>I</u> <u>am</u> <u>unprepared</u>.
-S V C
-（我没做好准备。）
+  3. <u>I</u> <u>am</u> <u>unprepared</u>. S V C（我没做好准备。）
 
 这三个句子若分成三个简单句来表述如上，很明显句型缺乏变化、风格不够成熟，而且表达力差。另一个选择是把三句合在一起写成一个复杂句，如下：
 
-<u>I</u> <u>avoid</u> [that I am caught] [when I am unprepared.]
-S V O 名词从句 时间副词从句
+  4. <u>I</u> <u>avoid</u> [that I am caught] [when I am unprepared.] S V O 名词从句 时间副词从句
 
 在句 2 这个直述句前面加上没有意义的连词 that 成为名词从句 that I am caught、放在句 1 中当作动词 avoid 的宾语使用。然后在句 3 前面加上表示时间的从属连词 when 成为副词从句 when I am unprepared，用来修饰动词 am 的时间，结果就是上面这个复杂句。
 
@@ -31,8 +24,7 @@ S V O 名词从句 时间副词从句
 
 叙述一件事情时，保持前后句​​子的主语相同是个好习惯，因为这样的叙述比较有连贯性、因此也就比较清楚。但是，主语的重复却又违反了简洁的要求。要想同时顾到清楚性以及简洁性、消除掉所有重复的元素，最好的办法就是采用简化从句：压缩掉所有重复、空洞的元素，将句子简化如下：
 
-<u>I</u> <u>avoid</u> <u>being caught</u> unprepared.
-S V O
+  - <u>I</u> <u>avoid</u> <u>being caught</u> unprepared. S V O
 
 这个句子总共只有五个字，却包含了三个句子的意思在内。它能够那么简洁，就是因为采用了简化从句、压缩掉了所有重复、空洞的元素。这种讲法的修辞效果最佳，因为它能够兼顾简洁与清楚的双重要求。
 
@@ -40,15 +32,15 @@ S V O
 
 本书从第一章：简单句的五种基本句型开始，就已经在为简化从句打基础。至目前为止，我们已经建立了一些重要的观念，是为处理简化从句的基础观念：
 
-一、视 be 为动词，后面的部分包括现在分词、过去分词、不定式短语、形容词、名词、介词短语等等一律视为主语补足语。
+  1. 视 be 为动词，后面的部分包括现在分词、过去分词、不定式短语、形容词、名词、介词短语等等一律视为主语补足语。
 
-二、现在分词视为形容词，字尾 -ing 有「持续、进行」的暗示。
+  2. 现在分词视为形容词，字尾 -ing 有「持续、进行」的暗示。
 
-三、过去分词视为形容词，字尾 -en 有「被动、完成」的暗示。
+  3. 过去分词视为形容词，字尾 -en 有「被动、完成」的暗示。
 
-四、不定式短语具有不确定语气，和语气助动词的语气相同。
+  4. 不定式短语具有不确定语气，和语气助动词的语气相同。
 
-五、语气助动词都可以改写为 be + to，意思大致不变。
+  5. 语气助动词都可以改写为 be + to，意思大致不变。
 
 从属从句的简化，就要建立在上述这几点观念上。
 
@@ -58,47 +50,45 @@ S V O
 
 请注意：在所有的动词当中，只有 be 动词是空的、没有意义，可以简化掉而不伤害到句子的意思。从属从句简化时，动词的处理方式可以依据下列的原则进行：
 
-若有 be 动词，省略 be 动词。
+  - 若有 be 动词，省略 be 动词。
 
-若有语气助动词，将语气助动词简化为表示不定式的 to。
+  - 若有语气助动词，将语气助动词简化为表示不定式的 to。
 
-若无 be 动词也无语气助动词、只有普通动词，一律加上 -ing。
+  - 若无 be 动词也无语气助动词、只有普通动词，一律加上 -ing。
 
 所有的从属从句简化，动词部分都可以依照这三项原则办理。举例说明如下：
 
 ### 1\. 省略 be 动词
 
-[While he was taking a bath], <u>Archimedes</u> <u>discovered</u> <u>the principle</u> of buoyancy.
-副词从句 S V O
-（当他在泡澡的时候，阿基米德发现了浮力原理。）
+例如：
+
+  - [While he was taking a bath], <u>Archimedes</u> <u>discovered</u> <u>the principle</u> of buoyancy. 副词从句 S V O（当他在泡澡的时候，阿基米德发现了浮力原理。）
 
 主要从句的主语是 Archimedes。副词从句（中括号内的部分）的主语 he 也是代表同一个人。这个主语位置的重复就有了简化的空间，可以把副词从句中重复的主语省掉、再删掉空洞的 be 动词，只留下补语部分，而将副词从句简化如下：
 
-<u>While taking a bath</u>, Archimedes discovered the principle of buoyancy.
-简化副词从句
+  - <u>While taking a bath</u>, Archimedes discovered the principle of buoyancy. 简化副词从句
 
 这里所谓的省略 be 动词，包括一般所谓的进行时与被动态在内。如上例中的副词从句 while he was taking a bath，一般语法书的诠释都是说 was taking 是过去进行时的动词短语。如果采取简单化的认定，视 be 动词为动词、后面的分​​词短语为形容词补语，那么这个副词从句经过简化、省掉主语与 be 动词之后，留下的就是 taking a bath 这个有「进行」意味的现在分词短语。至于原来的连词 while，它的语法功能是引导一个时间副词从句。如今这个副词从句已经简化为非限定从句，这个连词也不再有需要、可以省略。不过，while 除了连词的语法功能之外，还有「当……时候」的字意在内。如果要保留这个字意，也可以选择把 while 留下来。
 
 ### 2\. 语气助动词改写为表示不定式的 to
 
-<u>I</u> <u>expect</u> [that I can finish the book on the way].
-S V O 名词从句
-（我预期可以在路上看完这本书。）
+例如：
+
+  - <u>I</u> <u>expect</u> [that I can finish the book on the way]. S V O 名词从句（我预期可以在路上看完这本书。）
 
 中括号内是名词从句，当作主要从句动词 expect 的宾语使用。名词从句里面的主语 I 和主要从句的主语 I 相同，因而有简化的空间。做法是将名词从句中重复的主语 I 省略、再将动词简化。名词从句中的动词短语是 can finish，而所有的语气助动词都可以改写为 be + to、意思仍然接近，所以可以先这样修改：把 I can finish the gook 改写为 I am to finish the book，然后再将无意义的 be 动词连同重复的主语一起省略，整个名词从句就简化为不定式短语 to finish the book on the way。原来的连词 that 只有语法功能、没有意义。在句子简化之后，这种连词自然会一并省略，整个句子简化结果如下：
 
-<u>I</u> <u>expect</u> [to finish the book on the way].
-S V O 简化名词从句
+  - <u>I</u> <u>expect</u> [to finish the book on the way]. S V O 简化名词从句
 
 ### 3\. 普通动词加 -ing
 
-<u>The</u> <u>runner</u> [who finished second] won a small prize.
-S V O 关系从句
- （跑第二名的选手赢得一笔小额奖金。）
+例如：
+
+  - <u>The</u> <u>runner</u> [who finished second] won a small prize. S V O 关系从句（跑第二名的选手赢得一笔小额奖金。）
 
 关系从句 who finished second 修饰先行词 the runner。关系从句的主语 who 和先行词重复，因而有可以简化的空间。简化的做法是省略掉关系从句主语 who，然后把关系从句的动词简化为非限定动词。因为这个动词（finished）里面没有 be 动词也没有语气助动词，所以可以先这样修改：把 who finished second 改写为 who was finishing second。这样做的目的并不是要改成进行时，而是为了做词类变化：把限定动词 finished 改为现在分词 finishing、成为主语补足语保留下来，动词变成无意义的 was 可以连同重复的主语 who 一并省略，关系从句 who finished second 就可以简化为现在分词词组 finishing second，整个句子简化如下：
 
-<u>The</u> <u>runner</u> [finishing second] won a small prize.
+  - <u>The</u> <u>runner</u> [finishing second] won a small prize.
 
 ## 连词的处理
 
