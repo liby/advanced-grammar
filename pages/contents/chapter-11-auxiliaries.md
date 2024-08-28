@@ -102,7 +102,7 @@ Shall 这个语气助动词在现代英文中并不常用，通常只见于 shal
 
   - I <u>can drink</u> a dozen beers in an hour.（我一小时可以喝得下一打啤酒。）（现在时间）
 
-  - <u>Last night</u> there was something wrong with my stomach, and I <u>couldn’t</u> eV-en <u>finish</u> one beer.（昨天晚上我肚子有毛病，连一瓶啤酒都喝不完。）（过去时间）
+  - <u>Last night</u> there was something wrong with my stomach, and I <u>couldn’t</u> even <u>finish</u> one beer.（昨天晚上我肚子有毛病，连一瓶啤酒都喝不完。）（过去时间）
 
 但是，could 也可以用在现在时间，例如：
 
