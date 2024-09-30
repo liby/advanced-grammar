@@ -1,8 +1,7 @@
-import { useRouter } from 'next/router'
 import { useConfig, type DocsThemeConfig } from "nextra-theme-docs";
 
 const footer = {
-  text: (
+  content: (
     <div>
       <a
         target="_blank"
@@ -20,7 +19,7 @@ const footer = {
 const config: DocsThemeConfig = {
   docsRepositoryBase: "https://github.com/liby/advanced-grammar/edit/main",
   editLink: {
-    text: "在 GitHub 上编辑此页 →",
+    content: "在 GitHub 上编辑此页 →",
   },
   feedback: {
     content: "发现问题？欢迎反馈 →",
@@ -29,24 +28,27 @@ const config: DocsThemeConfig = {
   footer,
   logo: <span>旋元佑进阶文法</span>,
   head: function useHead() {
-    const { title } = useConfig();
+    const config = useConfig();
+    const title = `${config.title} – 旋元佑进阶文法`;
+    const description =
+      config.frontMatter.description || '「征服英文句子写作」';
 
     return (
       <>
+        <title>{title}</title>
+        <meta name="og:title" content={title || "旋元佑进阶文法"} />
+        <meta name="apple-mobile-web-app-title" content="旋元佑进阶文法" />
+        <meta name="description" content={description} />
+        <meta name="og:description" content={description} />
+
         <meta name="msapplication-TileColor" content="#fff" />
-        <meta name="theme-color" content="#fff" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta httpEquiv="Content-Language" content="en" />
-        <meta name="description" content="「征服英文句子写作」" />
-        <meta name="og:description" content="「征服英文句子写作」" />
+        <meta name="theme-color" content="#fff" />
+
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site:domain" content="grammar.itswhat.me" />
         <meta name="twitter:url" content="https://grammar.itswhat.me" />
-        <meta
-          name="og:title"
-          content={title ? title + " – 旋元佑进阶文法" : "旋元佑进阶文法"}
-        />
-        <meta name="apple-mobile-web-app-title" content="旋元佑进阶文法" />
+
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="icon" href="/favicon.png" type="image/png" />
         <link
@@ -66,23 +68,6 @@ const config: DocsThemeConfig = {
   },
   project: {
     link: "https://github.com/liby/advanced-grammar",
-  },
-  sidebar: {
-    titleComponent({ title, type }) {
-      if (type === "separator") {
-        return <span className="cursor-default">{title}</span>;
-      }
-      return <>{title}</>;
-    },
-    toggleButton: true,
-  },
-  useNextSeoProps() {
-    const { asPath } = useRouter();
-    if (asPath !== "/") {
-      return {
-        titleTemplate: "%s – 旋元佑进阶文法",
-      };
-    }
   },
   toc: {
     title: "页面导航",
