@@ -143,6 +143,24 @@ S V (adv.) （狗冲着邮差叫得很凶。）
 
       意思可能是说更早的时候并没有能够见到。副词 only 修饰的对像是时间副词 yesterday。
 
+其他常见的强调范围的副词包括：only, just, even, merely, solely, especially, particularly, specifically, mainly 等。例句如下:
+
+  - <u>Even the teacher</u> was surprised by his performance.（连老师都对他的表现感到惊讶。）
+
+      副词 Even 修饰的是名词 the teacher。
+
+  - The lecture <u>mainly discusses</u> the impacts of climate change.（这次讲座主要讨论气候变化的影响。）
+
+      副词 mainly 修饰的是动词 discuss。
+    
+  - She is <u>solely responsible</u> for the project.（她是该项目唯一负责的人。）
+
+      副词 solely 修饰的是形容词 responsible。
+      
+  - This software is designed <u>specifically efficiently</u> for large-scale data processing.（这款软件特别高效地用于大规模数据处理。）
+
+      副词 specifically 修饰的是副词 efficiently。
+
 ### 加强语气的副词（intensifiers）
 
 和强调范围的副词一样，加强语气的副词同样也不限制修饰的对象、四大词类都可以用它来修饰。例如：
