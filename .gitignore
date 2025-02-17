@@ -2,6 +2,7 @@
 dist/
 # generated types
 .next/
+public/_pagefind
 
 # dependencies
 node_modules/
