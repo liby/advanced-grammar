@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/liby/advanced-grammar">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0CX1P3oEf-a7vYf6BPLac5-xrkbC_bAAng&s" alt="Cover">
+    <img src="./public/cover.jpeg" alt="Cover">
   </a>
  </div>
 
