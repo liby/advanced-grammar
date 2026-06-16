@@ -3,6 +3,7 @@ dist/
 # generated types
 .next/
 public/_pagefind
+*.tsbuildinfo
 
 # dependencies
 node_modules/
