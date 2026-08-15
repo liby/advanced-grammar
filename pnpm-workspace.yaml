@@ -2,3 +2,8 @@ packages:
   - .
 allowBuilds:
   sharp: true
+overrides:
+  # nextra 4.6.1 breaks with zod >=4.4 (https://github.com/shuding/nextra/issues/4989);
+  # the fix is merged upstream but unreleased. Drop once nextra >4.6.1 ships.
+  'nextra>zod': 4.3.6
+  'nextra-theme-docs>zod': 4.3.6

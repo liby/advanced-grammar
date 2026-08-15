@@ -22,6 +22,13 @@
         "lockFileMaintenance"
       ],
       "automerge": true
+    },
+    {
+      "description": "nextra's twoslash toolchain only supports TypeScript ^5.5 || ^6 (https://github.com/shuding/nextra/blob/main/packages/nextra/package.json, twoslash peerDependencies)",
+      "matchPackageNames": [
+        "typescript"
+      ],
+      "allowedVersions": "<7"
     }
   ],
   "platformAutomerge": true,
