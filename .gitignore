@@ -1,8 +1,6 @@
 # build output
-dist/
-# generated types
 .next/
-public/_pagefind
+.source/
 *.tsbuildinfo
 
 # dependencies

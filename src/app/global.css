@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+@import 'fumadocs-ui/css/neutral.css';
+@import 'fumadocs-ui/css/preset.css';
+
+/* fumadocs-ui rounds corners via Tailwind rounded-* utilities; shrink the
+   whole radius scale for a more restrained look (rounded-full untouched). */
+@theme {
+  --radius-xs: 0.125rem;
+  --radius-sm: 0.125rem;
+  --radius-md: 0.25rem;
+  --radius-lg: 0.3125rem;
+  --radius-xl: 0.375rem;
+  --radius-2xl: 0.5rem;
+  --radius-3xl: 0.75rem;
+}
+
+/* Tailwind 4 preflight resets buttons to `cursor: default`;
+   restore the pointer for interactive controls (e.g. theme toggle). */
+@layer base {
+  button:not(:disabled),
+  [role='button']:not(:disabled) {
+    cursor: pointer;
+  }
+}

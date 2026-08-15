@@ -1,8 +1,8 @@
-import nextra from 'nextra'
+import { createMDX } from 'fumadocs-mdx/next'
 
-const withNextra = nextra({})
+const withMDX = createMDX()
 
-export default withNextra({
+export default withMDX({
   images: {
     remotePatterns: [
       {
@@ -17,7 +17,7 @@ export default withNextra({
     return [
       {
         source: "/",
-        destination: "/introduction/",
+        destination: "/introduction",
         permanent: true,
       },
     ];
