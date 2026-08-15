@@ -13,7 +13,7 @@
 
 - 受到这个项目的启发，我根据个人的样式喜好制作了[一版](https://advanced-grammar.vercel.app/)，并对原项目中的排版、用语习惯进行了调整，将许多台湾地区的用词转换为更符合大陆地区习惯的表达方式，同时也对中英文标点符号的混用问题进行了规范化处理。
 
-- 本项目使用 [Nextra](https://nextra.site/) 构建。
+- 本项目使用 [Fumadocs](https://www.fumadocs.dev/) 构建。
 
 - 如遇到任何错误或问题，欢迎在 [issues](https://github.com/liby/advanced-grammar/issues/) 区提出。
 

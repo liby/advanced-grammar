@@ -1,0 +1,47 @@
+@import 'tailwindcss';
+@import 'fumadocs-ui/css/neutral.css';
+@import 'fumadocs-ui/css/preset.css';
+
+/* fumadocs-ui rounds corners via Tailwind rounded-* utilities; shrink the
+   whole radius scale for a more restrained look, roughly halfway between
+   Tailwind defaults and sharp (rounded-full untouched). */
+@theme {
+  --radius-xs: 0.125rem;
+  --radius-sm: 0.1875rem;
+  --radius-md: 0.3125rem;
+  --radius-lg: 0.375rem;
+  --radius-xl: 0.5rem;
+  --radius-2xl: 0.75rem;
+  --radius-3xl: 1rem;
+}
+
+/* Zebra-striped tables. The theme's muted tone is nearly identical to the
+   page background, so darken the header a step; body rows alternate between
+   the page background (odd) and the table's card tone (even). */
+.prose :where(thead th) {
+  background-color: color-mix(
+    in oklab,
+    var(--color-fd-muted),
+    var(--color-fd-foreground) 6%
+  );
+}
+
+.prose :where(tbody tr:nth-child(odd)) {
+  background-color: var(--color-fd-background);
+}
+
+/* Tighten the gap between the sidebar search box and the page list
+   (the list viewport ships with p-4 on every side). */
+#nd-sidebar [data-radix-scroll-area-viewport],
+#nd-sidebar-mobile [data-radix-scroll-area-viewport] {
+  padding-top: calc(var(--spacing) * 2);
+}
+
+/* Tailwind 4 preflight resets buttons to `cursor: default`;
+   restore the pointer for interactive controls (e.g. theme toggle). */
+@layer base {
+  button:not(:disabled),
+  [role='button']:not(:disabled) {
+    cursor: pointer;
+  }
+}
