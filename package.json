@@ -7,25 +7,25 @@
     "start": "next start"
   },
   "dependencies": {
-    "@fumadocs/language": "0.2.4",
-    "fumadocs-core": "16.15.4",
-    "fumadocs-mdx": "15.4.0",
-    "fumadocs-ui": "16.15.4",
-    "next": "16.4.1",
-    "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "@fumadocs/language": "0.2.19",
+    "fumadocs-core": "16.19.0",
+    "fumadocs-mdx": "15.6.1",
+    "fumadocs-ui": "16.19.0",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "4.3.3",
+    "@tailwindcss/postcss": "4.3.5",
     "@types/mdx": "2.0.14",
-    "@types/node": "24.13.3",
-    "@types/react": "19.2.18",
-    "postcss": "8.5.26",
-    "tailwindcss": "4.3.3",
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "postcss": "8.5.32",
+    "tailwindcss": "4.3.5",
     "typescript": "7.0.2"
   },
   "engines": {
     "node": "24.x"
   },
-  "packageManager": "pnpm@11.25.0"
+  "packageManager": "pnpm@11.28.11"
 }
